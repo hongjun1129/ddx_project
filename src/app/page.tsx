@@ -16,6 +16,75 @@ const initialFreeText = "";
 const categories = ["전체", "문진", "활력", "진찰", "ECG", "혈액", "심장", "영상", "위장관", "근골격", "정신/기능"];
 const tabs = ["응급 배제", "현재 의심", "Score", "요약"] as const;
 
+type ParsedVitals = {
+  bp?: { systolic: number; diastolic: number; display: string };
+  hr?: { value: number; display: string };
+  rr?: { value: number; display: string };
+  spo2?: { value: number; display: string };
+  bt?: { value: number; display: string };
+};
+
+function numberFromMatch(match: RegExpMatchArray | null, index = 1) {
+  const value = match?.[index]?.replace(",", ".");
+  if (!value) return undefined;
+  const parsed = Number(value);
+  return Number.isFinite(parsed) ? parsed : undefined;
+}
+
+function parseVitals(text: string): ParsedVitals {
+  const bpMatch = text.match(/(?:BP|혈압)\s*[:=]?\s*(\d{2,3})\s*\/\s*(\d{2,3})/i);
+  const hrMatch = text.match(/(?:HR|heart\s*rate|맥박|심박수)\s*[:=]?\s*(\d{2,3})/i);
+  const rrMatch = text.match(/(?:RR|resp(?:iratory)?\s*rate|호흡수)\s*[:=]?\s*(\d{1,3})/i);
+  const spo2Match = text.match(/(?:SpO2|SpO₂|산소포화도|산소\s*포화도)\s*[:=]?\s*(\d{2,3})(?:\s*%)?/i);
+  const btMatch = text.match(/(?:BT|body\s*temp(?:erature)?|체온)\s*[:=]?\s*(\d{2}(?:[.,]\d)?)(?:\s*(?:°C|℃|도))?/i);
+
+  const systolic = numberFromMatch(bpMatch, 1);
+  const diastolic = numberFromMatch(bpMatch, 2);
+  const hr = numberFromMatch(hrMatch);
+  const rr = numberFromMatch(rrMatch);
+  const spo2 = numberFromMatch(spo2Match);
+  const bt = numberFromMatch(btMatch);
+
+  return {
+    bp: systolic !== undefined && diastolic !== undefined
+      ? { systolic, diastolic, display: `${systolic}/${diastolic}` }
+      : undefined,
+    hr: hr !== undefined ? { value: hr, display: String(hr) } : undefined,
+    rr: rr !== undefined ? { value: rr, display: String(rr) } : undefined,
+    spo2: spo2 !== undefined ? { value: spo2, display: `${spo2}%` } : undefined,
+    bt: bt !== undefined ? { value: bt, display: `${bt.toFixed(bt % 1 === 0 ? 0 : 1)}°C` } : undefined
+  };
+}
+
+function vitalClass(kind: keyof ParsedVitals, vitals: ParsedVitals) {
+  if (kind === "bp") {
+    const bp = vitals.bp;
+    if (!bp) return "vital-muted";
+    return bp.systolic >= 140 || bp.diastolic >= 90 || bp.systolic < 90 ? "vital-red" : "vital-green";
+  }
+  if (kind === "hr") {
+    const hr = vitals.hr?.value;
+    if (hr === undefined) return "vital-muted";
+    return hr < 60 || hr > 100 ? "vital-red" : "vital-green";
+  }
+  if (kind === "rr") {
+    const rr = vitals.rr?.value;
+    if (rr === undefined) return "vital-muted";
+    return rr < 12 || rr > 20 ? "vital-red" : "vital-neutral";
+  }
+  if (kind === "spo2") {
+    const spo2 = vitals.spo2?.value;
+    if (spo2 === undefined) return "vital-muted";
+    return spo2 < 94 ? "vital-red" : "vital-green";
+  }
+  if (kind === "bt") {
+    const bt = vitals.bt?.value;
+    if (bt === undefined) return "vital-muted";
+    return bt >= 38 || bt < 35 ? "vital-red" : "vital-green";
+  }
+  return "vital-neutral";
+}
+
 function categoryMatches(item: ChecklistItem, category: string) {
   if (category === "전체") return true;
   const text = `${item.section} ${item.label} ${item.sourceExample ?? ""}`;
@@ -169,6 +238,7 @@ export default function Home() {
     () => runClinicalEngine({ checklist, diagnoses: ddxMaster, redFlagGates, implementationRules }),
     [checklist]
   );
+  const parsedVitals = useMemo(() => parseVitals(freeText), [freeText]);
   const counts = useMemo(() => ({
     recorded: checklist.filter((item) => item.status !== "unknown").length,
     red: checklist.filter((item) => item.isRedFlagRelated && item.status === "present").length,
@@ -224,11 +294,11 @@ export default function Home() {
         <div className="vital-cell"><span className="vital-label">67세 / 남성</span><span className="vital-value">내원 환자</span></div>
         <div className="vital-cell"><span className="vital-label">내원</span><span className="vital-value">2024-05-22 14:30</span></div>
         <div className="vital-cell"><span className="vital-label">흉통 시작</span><span className="vital-value">2시간 전</span></div>
-        <div className="vital-cell"><span className="vital-label">BP</span><span className="vital-value vital-red">150/90</span></div>
-        <div className="vital-cell"><span className="vital-label">HR</span><span className="vital-value vital-red">96</span></div>
-        <div className="vital-cell"><span className="vital-label">RR</span><span className="vital-value vital-neutral">18</span></div>
-        <div className="vital-cell"><span className="vital-label">SpO2</span><span className="vital-value vital-green">97%</span></div>
-        <div className="vital-cell"><span className="vital-label">BT</span><span className="vital-value vital-green">36.8°C</span></div>
+        <div className="vital-cell"><span className="vital-label">BP</span><span className={`vital-value ${vitalClass("bp", parsedVitals)}`}>{parsedVitals.bp?.display ?? "미입력"}</span></div>
+        <div className="vital-cell"><span className="vital-label">HR</span><span className={`vital-value ${vitalClass("hr", parsedVitals)}`}>{parsedVitals.hr?.display ?? "미입력"}</span></div>
+        <div className="vital-cell"><span className="vital-label">RR</span><span className={`vital-value ${vitalClass("rr", parsedVitals)}`}>{parsedVitals.rr?.display ?? "미입력"}</span></div>
+        <div className="vital-cell"><span className="vital-label">SpO2</span><span className={`vital-value ${vitalClass("spo2", parsedVitals)}`}>{parsedVitals.spo2?.display ?? "미입력"}</span></div>
+        <div className="vital-cell"><span className="vital-label">BT</span><span className={`vital-value ${vitalClass("bt", parsedVitals)}`}>{parsedVitals.bt?.display ?? "미입력"}</span></div>
         <div className="vital-cell"><button className="copy-button" onClick={copySummary}>환자 요약 복사</button></div>
       </header>
 
