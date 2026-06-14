@@ -1,0 +1,189 @@
+{
+  "generatedAt": "2026-06-14T06:35:51.999Z",
+  "sourceFiles": [
+    {
+      "key": "workflow",
+      "fileName": "chest_pain_ddx_workflow_v1_2.xlsx",
+      "sizeBytes": 81391,
+      "sha256": "d601369eb8b2acfa58f26eb85ce74bdf47bfd4a7e42e544c028ad8e51020ddda",
+      "sheets": [
+        {
+          "name": "00_README",
+          "range": "A1:C19",
+          "usedRows": 19,
+          "usedColumns": 3,
+          "dataRows": 18
+        },
+        {
+          "name": "00_Workflow",
+          "range": "A1:B8",
+          "usedRows": 8,
+          "usedColumns": 2,
+          "dataRows": 7
+        },
+        {
+          "name": "01_DDx_Master",
+          "range": "A1:T91",
+          "usedRows": 91,
+          "usedColumns": 20,
+          "dataRows": 90
+        },
+        {
+          "name": "02_Sources",
+          "range": "A1:G23",
+          "usedRows": 23,
+          "usedColumns": 7,
+          "dataRows": 22
+        },
+        {
+          "name": "03_Implementation_Rules",
+          "range": "A1:C14",
+          "usedRows": 14,
+          "usedColumns": 3,
+          "dataRows": 13
+        },
+        {
+          "name": "04_Disposition",
+          "range": "A1:G22",
+          "usedRows": 22,
+          "usedColumns": 7,
+          "dataRows": 21
+        },
+        {
+          "name": "05_Evidence_Convention",
+          "range": "A1:C16",
+          "usedRows": 16,
+          "usedColumns": 3,
+          "dataRows": 15
+        },
+        {
+          "name": "06_Summary",
+          "range": "A1:B11",
+          "usedRows": 11,
+          "usedColumns": 2,
+          "dataRows": 10
+        }
+      ]
+    },
+    {
+      "key": "checklist",
+      "fileName": "chest_pain_differential_checklist_from_v1_2.xlsx",
+      "sizeBytes": 400788,
+      "sha256": "c2efebf64177d39ce7fd784ca5eb129b7785a23a3a2d4c3433888cd45e798aa7",
+      "sheets": [
+        {
+          "name": "00_README",
+          "range": "A1:B18",
+          "usedRows": 18,
+          "usedColumns": 2,
+          "dataRows": 17
+        },
+        {
+          "name": "01_AppKey_Checklist",
+          "range": "A1:I263",
+          "usedRows": 263,
+          "usedColumns": 9,
+          "dataRows": 262
+        },
+        {
+          "name": "02_Comprehensive_Checklist",
+          "range": "A1:K1170",
+          "usedRows": 1170,
+          "usedColumns": 11,
+          "dataRows": 1169
+        },
+        {
+          "name": "03_DDx_Coverage",
+          "range": "A1:S91",
+          "usedRows": 91,
+          "usedColumns": 19,
+          "dataRows": 90
+        },
+        {
+          "name": "04_Map_Verbatim",
+          "range": "A1:P1350",
+          "usedRows": 1350,
+          "usedColumns": 16,
+          "dataRows": 1349
+        },
+        {
+          "name": "05_RedFlag_Gates",
+          "range": "A1:N19",
+          "usedRows": 19,
+          "usedColumns": 14,
+          "dataRows": 18
+        },
+        {
+          "name": "06_Score_Items",
+          "range": "A1:G34",
+          "usedRows": 34,
+          "usedColumns": 7,
+          "dataRows": 33
+        },
+        {
+          "name": "07_Source_Copy",
+          "range": "A1:T91",
+          "usedRows": 91,
+          "usedColumns": 20,
+          "dataRows": 90
+        },
+        {
+          "name": "08_Sources_Copy",
+          "range": "A1:G23",
+          "usedRows": 23,
+          "usedColumns": 7,
+          "dataRows": 22
+        },
+        {
+          "name": "09_Impl_Rules_Copy",
+          "range": "A1:C14",
+          "usedRows": 14,
+          "usedColumns": 3,
+          "dataRows": 13
+        },
+        {
+          "name": "10_Disposition_Copy",
+          "range": "A1:G22",
+          "usedRows": 22,
+          "usedColumns": 7,
+          "dataRows": 21
+        },
+        {
+          "name": "11_Validation",
+          "range": "A1:A8",
+          "usedRows": 8,
+          "usedColumns": 1,
+          "dataRows": 7
+        }
+      ]
+    }
+  ],
+  "generatedCounts": {
+    "ddxMaster": 90,
+    "appKeyChecklist": 262,
+    "comprehensiveChecklist": 1169,
+    "ddxCoverage": 90,
+    "mapVerbatim": 1349,
+    "redFlagGates": 18,
+    "scoreItems": 33,
+    "implementationRules": 13,
+    "disposition": 16,
+    "sources": 22
+  },
+  "expectedCounts": {
+    "ddxMaster": 90,
+    "appKeyChecklist": 262,
+    "comprehensiveChecklist": 1169,
+    "redFlagGates": 18,
+    "scoreItems": 33
+  },
+  "validation": {
+    "ddxMaster": true,
+    "appKeyChecklist": true,
+    "comprehensiveChecklist": true,
+    "ids": {
+      "appKeyUnique": true,
+      "comprehensiveUnique": true
+    }
+  }
+}

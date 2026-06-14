@@ -1,0 +1,132 @@
+[
+  {
+    "id": "R01",
+    "rule": "질환 상태값을 4단계로 둔다",
+    "description": "not evaluated / active concern / low probability / clinically ruled out. 고위험 질환은 clinically ruled out 전까지 숨기지 않음.",
+    "raw": {
+      "Rule ID": "R01",
+      "엔진 구현 규칙": "질환 상태값을 4단계로 둔다",
+      "설명/주의": "not evaluated / active concern / low probability / clinically ruled out. 고위험 질환은 clinically ruled out 전까지 숨기지 않음."
+    }
+  },
+  {
+    "id": "R02",
+    "rule": "red flag override",
+    "description": "저혈압, 저산소, 실신, 신경결손, 새 murmur, 지속 severe pain, immunocompromise, 임신/산후, 항응고, 고에너지 외상은 관련 게이트를 강제 표시.",
+    "raw": {
+      "Rule ID": "R02",
+      "엔진 구현 규칙": "red flag override",
+      "설명/주의": "저혈압, 저산소, 실신, 신경결손, 새 murmur, 지속 severe pain, immunocompromise, 임신/산후, 항응고, 고에너지 외상은 관련 게이트를 강제 표시."
+    }
+  },
+  {
+    "id": "R03",
+    "rule": "ACS single-test 금지",
+    "description": "초기 ECG와 단일 troponin이 정상이어도 symptom onset이 짧거나 고위험이면 serial pathway 유지.",
+    "raw": {
+      "Rule ID": "R03",
+      "엔진 구현 규칙": "ACS single-test 금지",
+      "설명/주의": "초기 ECG와 단일 troponin이 정상이어도 symptom onset이 짧거나 고위험이면 serial pathway 유지."
+    }
+  },
+  {
+    "id": "R04",
+    "rule": "D-dimer 사용 제한",
+    "description": "PE/AAS 모두 high pretest probability에서는 음성 D-dimer로 종료하지 않음. 나이보정/임신/암/입원 상태는 별도 규칙.",
+    "raw": {
+      "Rule ID": "R04",
+      "엔진 구현 규칙": "D-dimer 사용 제한",
+      "설명/주의": "PE/AAS 모두 high pretest probability에서는 음성 D-dimer로 종료하지 않음. 나이보정/임신/암/입원 상태는 별도 규칙."
+    }
+  },
+  {
+    "id": "R05",
+    "rule": "압통으로 ACS 배제 금지",
+    "description": "흉벽 압통은 MSK 가능성을 올리지만 ACS/PE를 자동 배제하지 않음.",
+    "raw": {
+      "Rule ID": "R05",
+      "엔진 구현 규칙": "압통으로 ACS 배제 금지",
+      "설명/주의": "흉벽 압통은 MSK 가능성을 올리지만 ACS/PE를 자동 배제하지 않음."
+    }
+  },
+  {
+    "id": "R06",
+    "rule": "psych/functional 마지막",
+    "description": "공황/불안/기능성 흉통은 적절한 심폐·식도·외과 red flag 평가 후에만 상위 확정 후보로 표시.",
+    "raw": {
+      "Rule ID": "R06",
+      "엔진 구현 규칙": "psych/functional 마지막",
+      "설명/주의": "공황/불안/기능성 흉통은 적절한 심폐·식도·외과 red flag 평가 후에만 상위 확정 후보로 표시."
+    }
+  },
+  {
+    "id": "R07",
+    "rule": "영상 음성의 시간축",
+    "description": "초기 CXR는 small PTX, early pneumonia, early pulmonary contusion, esophageal rupture를 놓칠 수 있어 의심 지속 시 CT/US/반복검사 권고.",
+    "raw": {
+      "Rule ID": "R07",
+      "엔진 구현 규칙": "영상 음성의 시간축",
+      "설명/주의": "초기 CXR는 small PTX, early pneumonia, early pulmonary contusion, esophageal rupture를 놓칠 수 있어 의심 지속 시 CT/US/반복검사 권고."
+    }
+  },
+  {
+    "id": "R08",
+    "rule": "임신/산후 별도 위험",
+    "description": "PE, SCAD, aortic dissection, peripartum cardiomyopathy, GERD/담도질환 확률을 별도 조정.",
+    "raw": {
+      "Rule ID": "R08",
+      "엔진 구현 규칙": "임신/산후 별도 위험",
+      "설명/주의": "PE, SCAD, aortic dissection, peripartum cardiomyopathy, GERD/담도질환 확률을 별도 조정."
+    }
+  },
+  {
+    "id": "R09",
+    "rule": "검사결과-진단명 분리",
+    "description": "troponin elevation은 ACS가 아니라 myocardial injury 신호. type 1 MI, type 2 MI, myocarditis, PE, Takotsubo를 병렬 평가.",
+    "raw": {
+      "Rule ID": "R09",
+      "엔진 구현 규칙": "검사결과-진단명 분리",
+      "설명/주의": "troponin elevation은 ACS가 아니라 myocardial injury 신호. type 1 MI, type 2 MI, myocarditis, PE, Takotsubo를 병렬 평가."
+    }
+  },
+  {
+    "id": "R10",
+    "rule": "치료 전 금기 확인",
+    "description": "대동맥박리/식도파열/출혈성 질환 가능성이 남아 있으면 항응고·혈전용해·항혈소판 결정에 경고 표시.",
+    "raw": {
+      "Rule ID": "R10",
+      "엔진 구현 규칙": "치료 전 금기 확인",
+      "설명/주의": "대동맥박리/식도파열/출혈성 질환 가능성이 남아 있으면 항응고·혈전용해·항혈소판 결정에 경고 표시."
+    }
+  },
+  {
+    "id": "R11",
+    "rule": "hs-cTn-점수 매칭 강제",
+    "description": "0/1h·0/2h 알고리즘은 기관의 assay-specific 컷오프를 사용. HEART/EDACS는 conventional troponin 기반 검증 점수이므로 hs-cTn CDP와 혼용 금지. hs-cTn를 99백분위 미만으로 보고하지 않는 기관은 위험점수 필수.",
+    "raw": {
+      "Rule ID": "R11",
+      "엔진 구현 규칙": "hs-cTn-점수 매칭 강제",
+      "설명/주의": "0/1h·0/2h 알고리즘은 기관의 assay-specific 컷오프를 사용. HEART/EDACS는 conventional troponin 기반 검증 점수이므로 hs-cTn CDP와 혼용 금지. hs-cTn를 99백분위 미만으로 보고하지 않는 기관은 위험점수 필수."
+    }
+  },
+  {
+    "id": "R12",
+    "rule": "근거등급 표기 의무",
+    "description": "각 rule-in/rule-out/pitfall 주장에 인용 가이드라인의 COR/LOE를 셀 단위로 부착. 미검증 항목은 '원문 대조 필요'로 표시하고 임의 등급 부여 금지.",
+    "raw": {
+      "Rule ID": "R12",
+      "엔진 구현 규칙": "근거등급 표기 의무",
+      "설명/주의": "각 rule-in/rule-out/pitfall 주장에 인용 가이드라인의 COR/LOE를 셀 단위로 부착. 미검증 항목은 '원문 대조 필요'로 표시하고 임의 등급 부여 금지."
+    }
+  },
+  {
+    "id": "R13",
+    "rule": "처분(disposition) 연동",
+    "description": "STEMI 배제 후 ACS 의심 환자는 04_Disposition의 저/중/고위험 경로로 분기. 비-ACS 치명진단은 각 노드 영상기준을 따름.",
+    "raw": {
+      "Rule ID": "R13",
+      "엔진 구현 규칙": "처분(disposition) 연동",
+      "설명/주의": "STEMI 배제 후 ACS 의심 환자는 04_Disposition의 저/중/고위험 경로로 분기. 비-ACS 치명진단은 각 노드 영상기준을 따름."
+    }
+  }
+]

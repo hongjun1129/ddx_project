@@ -1,0 +1,306 @@
+[
+  {
+    "id": "DISP-01",
+    "riskGroup": "저위험",
+    "definition": "<1%",
+    "entryCriteria": "hs-cTn CDP로 rule-out + 초기 ECG 비허혈성 (hs-cTn를 99백분위 미만으로 보고하는 기관). conventional cTn 기관: modified HEART ≤3 또는 EDACS <16.",
+    "disposition": "추가 긴급 심장검사 없이 귀가 + 밀착 외래 추적. hs-cTn CDP로 rule-out 시 위험점수 적용 불필요.",
+    "additionalCardiacTesting": "일상적으로 불필요 (Testing Not Needed Routinely).",
+    "evidenceGrade": "저위험 외래검사 보류 = COR IIa; hs-cTn 0/1h·0/2h 알고리즘 = 강한 근거(ESC Class I)",
+    "sourceKey": "ChestPain2021 · ChestPainECDP2022 · ESC_ACS2023",
+    "raw": {
+      "위험군": "저위험",
+      "정의 (30일 사망/MACE)": "<1%",
+      "진입 기준 (hs-cTn · ECG · CDP)": "hs-cTn CDP로 rule-out + 초기 ECG 비허혈성 (hs-cTn를 99백분위 미만으로 보고하는 기관). conventional cTn 기관: modified HEART ≤3 또는 EDACS <16.",
+      "권고 처분": "추가 긴급 심장검사 없이 귀가 + 밀착 외래 추적. hs-cTn CDP로 rule-out 시 위험점수 적용 불필요.",
+      "추가 심장검사": "일상적으로 불필요 (Testing Not Needed Routinely).",
+      "근거등급(검증)": "저위험 외래검사 보류 = COR IIa; hs-cTn 0/1h·0/2h 알고리즘 = 강한 근거(ESC Class I)",
+      "출처 Key": "ChestPain2021 · ChestPainECDP2022 · ESC_ACS2023"
+    }
+  },
+  {
+    "id": "DISP-02",
+    "riskGroup": "중간위험",
+    "definition": "1–10% (대략)",
+    "entryCriteria": "저위험·고위험 어디에도 명확히 속하지 않음. 비결정적 검사, 중간 CDP 점수, 위험인자 다수, 전형 증상이나 초기 음성.",
+    "disposition": "관찰 후 결정. 조기 퇴원 대상 아님. 구조검사로 분기.",
+    "additionalCardiacTesting": "기능검사(stress) 또는 CCTA. known obstructive CAD → 기능검사; nonobstructive/미확인 → CCTA. 중간위험이 영상검사 이득 최대.",
+    "evidenceGrade": "중간위험 영상/검사 = 이득 집단(가이드라인 권고)",
+    "sourceKey": "ChestPain2021 · ESC_ACS2023",
+    "raw": {
+      "위험군": "중간위험",
+      "정의 (30일 사망/MACE)": "1–10% (대략)",
+      "진입 기준 (hs-cTn · ECG · CDP)": "저위험·고위험 어디에도 명확히 속하지 않음. 비결정적 검사, 중간 CDP 점수, 위험인자 다수, 전형 증상이나 초기 음성.",
+      "권고 처분": "관찰 후 결정. 조기 퇴원 대상 아님. 구조검사로 분기.",
+      "추가 심장검사": "기능검사(stress) 또는 CCTA. known obstructive CAD → 기능검사; nonobstructive/미확인 → CCTA. 중간위험이 영상검사 이득 최대.",
+      "근거등급(검증)": "중간위험 영상/검사 = 이득 집단(가이드라인 권고)",
+      "출처 Key": "ChestPain2021 · ESC_ACS2023"
+    }
+  },
+  {
+    "id": "DISP-03",
+    "riskGroup": "고위험",
+    "definition": ">10% / 객관적 허혈·손상",
+    "entryCriteria": "다음 중 1개 이상: 새 허혈성 ECG 변화 / cTn-확인 심근손상 / 새 좌심실 수축기능부전 / 기능검사상 새 중등도-중증 허혈 / 혈역학 불안정 / 고위험 CDP 점수.",
+    "disposition": "입원 + 순환기. 침습적 관상동맥조영(ICA) 경로. ACS 확정 시 항혈전·재관류는 ACS2025(치료) 따름.",
+    "additionalCardiacTesting": "침습적 관상동맥조영(ICA).",
+    "evidenceGrade": "ICA 권고(true ACS·불안정·고위험 평가)",
+    "sourceKey": "ChestPain2021 · ESC_ACS2023 · ACS2025(치료)",
+    "raw": {
+      "위험군": "고위험",
+      "정의 (30일 사망/MACE)": ">10% / 객관적 허혈·손상",
+      "진입 기준 (hs-cTn · ECG · CDP)": "다음 중 1개 이상: 새 허혈성 ECG 변화 / cTn-확인 심근손상 / 새 좌심실 수축기능부전 / 기능검사상 새 중등도-중증 허혈 / 혈역학 불안정 / 고위험 CDP 점수.",
+      "권고 처분": "입원 + 순환기. 침습적 관상동맥조영(ICA) 경로. ACS 확정 시 항혈전·재관류는 ACS2025(치료) 따름.",
+      "추가 심장검사": "침습적 관상동맥조영(ICA).",
+      "근거등급(검증)": "ICA 권고(true ACS·불안정·고위험 평가)",
+      "출처 Key": "ChestPain2021 · ESC_ACS2023 · ACS2025(치료)"
+    }
+  },
+  {
+    "id": "DISP-04",
+    "riskGroup": "주의·운영 규칙",
+    "definition": "",
+    "entryCriteria": "",
+    "disposition": "",
+    "additionalCardiacTesting": "",
+    "evidenceGrade": "",
+    "sourceKey": "",
+    "raw": {
+      "위험군": "주의·운영 규칙",
+      "정의 (30일 사망/MACE)": null,
+      "진입 기준 (hs-cTn · ECG · CDP)": null,
+      "권고 처분": null,
+      "추가 심장검사": null,
+      "근거등급(검증)": null,
+      "출처 Key": null
+    }
+  },
+  {
+    "id": "DISP-05",
+    "riskGroup": "N1 — hs-cTn serial",
+    "definition": "ED 도착 후 1·2·3시간 재검. delta(상승/하강 변화) + 절대값을 assay-specific 컷오프로 해석. 단일 음성 결과로 조기 MI 배제 금지(R03). symptom onset이 짧으면 serial 경로 유지.",
+    "entryCriteria": "",
+    "disposition": "",
+    "additionalCardiacTesting": "",
+    "evidenceGrade": "",
+    "sourceKey": "",
+    "raw": {
+      "위험군": "N1 — hs-cTn serial",
+      "정의 (30일 사망/MACE)": "ED 도착 후 1·2·3시간 재검. delta(상승/하강 변화) + 절대값을 assay-specific 컷오프로 해석. 단일 음성 결과로 조기 MI 배제 금지(R03). symptom onset이 짧으면 serial 경로 유지.",
+      "진입 기준 (hs-cTn · ECG · CDP)": null,
+      "권고 처분": null,
+      "추가 심장검사": null,
+      "근거등급(검증)": null,
+      "출처 Key": null
+    }
+  },
+  {
+    "id": "DISP-06",
+    "riskGroup": "N2 — 위험점수 적용 규칙",
+    "definition": "HEART·EDACS는 conventional cTn 기반으로 개발/검증된 점수. hs-cTn를 99백분위 미만으로 보고하는 기관은 CDP rule-out 후 위험점수 불필요. conventional cTn(또는 99백분위 미만 미보고) 기관은 단독 NPV 부족으로 위험점수 필수.",
+    "entryCriteria": "",
+    "disposition": "",
+    "additionalCardiacTesting": "",
+    "evidenceGrade": "",
+    "sourceKey": "",
+    "raw": {
+      "위험군": "N2 — 위험점수 적용 규칙",
+      "정의 (30일 사망/MACE)": "HEART·EDACS는 conventional cTn 기반으로 개발/검증된 점수. hs-cTn를 99백분위 미만으로 보고하는 기관은 CDP rule-out 후 위험점수 불필요. conventional cTn(또는 99백분위 미만 미보고) 기관은 단독 NPV 부족으로 위험점수 필수.",
+      "진입 기준 (hs-cTn · ECG · CDP)": null,
+      "권고 처분": null,
+      "추가 심장검사": null,
+      "근거등급(검증)": null,
+      "출처 Key": null
+    }
+  },
+  {
+    "id": "DISP-07",
+    "riskGroup": "N3 — modified HEART(HEAR)/EDACS",
+    "definition": "cTn으로 MI가 배제된 뒤의 임상 위험 층화용. troponin 항목을 뺀 변형 점수.",
+    "entryCriteria": "",
+    "disposition": "",
+    "additionalCardiacTesting": "",
+    "evidenceGrade": "",
+    "sourceKey": "",
+    "raw": {
+      "위험군": "N3 — modified HEART(HEAR)/EDACS",
+      "정의 (30일 사망/MACE)": "cTn으로 MI가 배제된 뒤의 임상 위험 층화용. troponin 항목을 뺀 변형 점수.",
+      "진입 기준 (hs-cTn · ECG · CDP)": null,
+      "권고 처분": null,
+      "추가 심장검사": null,
+      "근거등급(검증)": null,
+      "출처 Key": null
+    }
+  },
+  {
+    "id": "DISP-08",
+    "riskGroup": "N4 — 비-ACS 치명진단 처분",
+    "definition": "아래 표는 ACS 경로. PE·AAS·tension PTX·tamponade·식도파열·천공은 각 노드의 영상기준으로 별도 처분(다음 표).",
+    "entryCriteria": "",
+    "disposition": "",
+    "additionalCardiacTesting": "",
+    "evidenceGrade": "",
+    "sourceKey": "",
+    "raw": {
+      "위험군": "N4 — 비-ACS 치명진단 처분",
+      "정의 (30일 사망/MACE)": "아래 표는 ACS 경로. PE·AAS·tension PTX·tamponade·식도파열·천공은 각 노드의 영상기준으로 별도 처분(다음 표).",
+      "진입 기준 (hs-cTn · ECG · CDP)": null,
+      "권고 처분": null,
+      "추가 심장검사": null,
+      "근거등급(검증)": null,
+      "출처 Key": null
+    }
+  },
+  {
+    "id": "DISP-09",
+    "riskGroup": "비-ACS 치명진단 처분 (각 노드 영상기준 연동)",
+    "definition": "",
+    "entryCriteria": "",
+    "disposition": "",
+    "additionalCardiacTesting": "",
+    "evidenceGrade": "",
+    "sourceKey": "",
+    "raw": {
+      "위험군": "비-ACS 치명진단 처분 (각 노드 영상기준 연동)",
+      "정의 (30일 사망/MACE)": null,
+      "진입 기준 (hs-cTn · ECG · CDP)": null,
+      "권고 처분": null,
+      "추가 심장검사": null,
+      "근거등급(검증)": null,
+      "출처 Key": null
+    }
+  },
+  {
+    "id": "DISP-10",
+    "riskGroup": "치명진단",
+    "definition": "위험층화/도구",
+    "entryCriteria": "확진 영상",
+    "disposition": "핵심 처분 원칙",
+    "additionalCardiacTesting": "출처 Key",
+    "evidenceGrade": "",
+    "sourceKey": "",
+    "raw": {
+      "위험군": "치명진단",
+      "정의 (30일 사망/MACE)": "위험층화/도구",
+      "진입 기준 (hs-cTn · ECG · CDP)": "확진 영상",
+      "권고 처분": "핵심 처분 원칙",
+      "추가 심장검사": "출처 Key",
+      "근거등급(검증)": null,
+      "출처 Key": null
+    }
+  },
+  {
+    "id": "DISP-11",
+    "riskGroup": "폐색전증 (PE)",
+    "definition": "Wells/Geneva + PERC(저확률) / D-dimer(저·중확률, 연령보정)",
+    "entryCriteria": "CTPA (대안 V/Q)",
+    "disposition": "고확률은 음성 D-dimer로 배제 금지; 혈역학 불안정=고위험 재관류",
+    "additionalCardiacTesting": "PE2019",
+    "evidenceGrade": "",
+    "sourceKey": "",
+    "raw": {
+      "위험군": "폐색전증 (PE)",
+      "정의 (30일 사망/MACE)": "Wells/Geneva + PERC(저확률) / D-dimer(저·중확률, 연령보정)",
+      "진입 기준 (hs-cTn · ECG · CDP)": "CTPA (대안 V/Q)",
+      "권고 처분": "고확률은 음성 D-dimer로 배제 금지; 혈역학 불안정=고위험 재관류",
+      "추가 심장검사": "PE2019",
+      "근거등급(검증)": null,
+      "출처 Key": null
+    }
+  },
+  {
+    "id": "DISP-12",
+    "riskGroup": "급성 대동맥증후군",
+    "definition": "ADD-RS (+저확률 D-dimer)",
+    "entryCriteria": "CTA chest/abdo/pelvis (불안정 TEE)",
+    "disposition": "중등도 이상은 영상 필수; 항응고·혈전용해 전 반드시 고려",
+    "additionalCardiacTesting": "Aortic2022",
+    "evidenceGrade": "",
+    "sourceKey": "",
+    "raw": {
+      "위험군": "급성 대동맥증후군",
+      "정의 (30일 사망/MACE)": "ADD-RS (+저확률 D-dimer)",
+      "진입 기준 (hs-cTn · ECG · CDP)": "CTA chest/abdo/pelvis (불안정 TEE)",
+      "권고 처분": "중등도 이상은 영상 필수; 항응고·혈전용해 전 반드시 고려",
+      "추가 심장검사": "Aortic2022",
+      "근거등급(검증)": null,
+      "출처 Key": null
+    }
+  },
+  {
+    "id": "DISP-13",
+    "riskGroup": "긴장성 기흉",
+    "definition": "임상진단(혈역학)",
+    "entryCriteria": "치료 후 CXR/US/CT",
+    "disposition": "영상 대기 말고 즉시 needle/finger 감압 후 chest tube",
+    "additionalCardiacTesting": "BTSPleural2023 · MSDTensionPTX",
+    "evidenceGrade": "",
+    "sourceKey": "",
+    "raw": {
+      "위험군": "긴장성 기흉",
+      "정의 (30일 사망/MACE)": "임상진단(혈역학)",
+      "진입 기준 (hs-cTn · ECG · CDP)": "치료 후 CXR/US/CT",
+      "권고 처분": "영상 대기 말고 즉시 needle/finger 감압 후 chest tube",
+      "추가 심장검사": "BTSPleural2023 · MSDTensionPTX",
+      "근거등급(검증)": null,
+      "출처 Key": null
+    }
+  },
+  {
+    "id": "DISP-14",
+    "riskGroup": "심장압전",
+    "definition": "POCUS/echo physiology",
+    "entryCriteria": "Echo(RA/RV collapse, IVC plethora)",
+    "disposition": "불안정 시 pericardiocentesis/외과 배액",
+    "additionalCardiacTesting": "MyoPeri2025",
+    "evidenceGrade": "",
+    "sourceKey": "",
+    "raw": {
+      "위험군": "심장압전",
+      "정의 (30일 사망/MACE)": "POCUS/echo physiology",
+      "진입 기준 (hs-cTn · ECG · CDP)": "Echo(RA/RV collapse, IVC plethora)",
+      "권고 처분": "불안정 시 pericardiocentesis/외과 배액",
+      "추가 심장검사": "MyoPeri2025",
+      "근거등급(검증)": null,
+      "출처 Key": null
+    }
+  },
+  {
+    "id": "DISP-15",
+    "riskGroup": "식도파열 (Boerhaave)",
+    "definition": "구토 후 흉통 자동 게이트",
+    "entryCriteria": "CT chest + 물용해성 조영 / CT esophagography",
+    "disposition": "NPO·광범위 항생제·외과/GI; Mallory-Weiss와 혼동 금지",
+    "additionalCardiacTesting": "WSES_Esoph2019",
+    "evidenceGrade": "",
+    "sourceKey": "",
+    "raw": {
+      "위험군": "식도파열 (Boerhaave)",
+      "정의 (30일 사망/MACE)": "구토 후 흉통 자동 게이트",
+      "진입 기준 (hs-cTn · ECG · CDP)": "CT chest + 물용해성 조영 / CT esophagography",
+      "권고 처분": "NPO·광범위 항생제·외과/GI; Mallory-Weiss와 혼동 금지",
+      "추가 심장검사": "WSES_Esoph2019",
+      "근거등급(검증)": null,
+      "출처 Key": null
+    }
+  },
+  {
+    "id": "DISP-16",
+    "riskGroup": "천공성 소화성 궤양",
+    "definition": "복막염/free air",
+    "entryCriteria": "Upright CXR / CT abdo·pelvis",
+    "disposition": "외과 응급·항생제; 진통으로 압통 감소해도 배제 아님",
+    "additionalCardiacTesting": "WSES_PUD2019",
+    "evidenceGrade": "",
+    "sourceKey": "",
+    "raw": {
+      "위험군": "천공성 소화성 궤양",
+      "정의 (30일 사망/MACE)": "복막염/free air",
+      "진입 기준 (hs-cTn · ECG · CDP)": "Upright CXR / CT abdo·pelvis",
+      "권고 처분": "외과 응급·항생제; 진통으로 압통 감소해도 배제 아님",
+      "추가 심장검사": "WSES_PUD2019",
+      "근거등급(검증)": null,
+      "출처 Key": null
+    }
+  }
+]

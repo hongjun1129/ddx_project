@@ -1,0 +1,6333 @@
+[
+  {
+    "id": "AK-001",
+    "section": "활력/즉시위험",
+    "label": "shock",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "긴장성 기흉"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#20 긴장성 기흉 / 앱 체크리스트 키: unilateral breath sound; shock; immediate decompression",
+    "raw": {
+      "Checklist ID": "AK-001",
+      "체크 섹션": "활력/즉시위험",
+      "앱 체크리스트 키(원문)": "shock",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "긴장성 기흉",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#20 긴장성 기흉 / 앱 체크리스트 키: unilateral breath sound; shock; immediate decompression"
+    }
+  },
+  {
+    "id": "AK-002",
+    "section": "활력/즉시위험",
+    "label": "hypertension/tachy",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "자극제 관련 관상동맥 허혈/연축"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#61 자극제 관련 관상동맥 허혈/연축 / 앱 체크리스트 키: stimulant use; hypertension/tachy; ECG/troponin",
+    "raw": {
+      "Checklist ID": "AK-002",
+      "체크 섹션": "활력/즉시위험",
+      "앱 체크리스트 키(원문)": "hypertension/tachy",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "자극제 관련 관상동맥 허혈/연축",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#61 자극제 관련 관상동맥 허혈/연축 / 앱 체크리스트 키: stimulant use; hypertension/tachy; ECG/troponin"
+    }
+  },
+  {
+    "id": "AK-003",
+    "section": "활력/즉시위험",
+    "label": "severe BP",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "고혈압 응급증 관련 흉통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#18 고혈압 응급증 관련 흉통 / 앱 체크리스트 키: severe BP; organ damage; ECG/troponin/renal/neuro",
+    "raw": {
+      "Checklist ID": "AK-003",
+      "체크 섹션": "활력/즉시위험",
+      "앱 체크리스트 키(원문)": "severe BP",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "고혈압 응급증 관련 흉통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#18 고혈압 응급증 관련 흉통 / 앱 체크리스트 키: severe BP; organ damage; ECG/troponin/renal/neuro"
+    }
+  },
+  {
+    "id": "AK-004",
+    "section": "활력/즉시위험",
+    "label": "tachypnea",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "과호흡증후군"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#55 과호흡증후군 / 앱 체크리스트 키: tachypnea; paresthesia; VBG; after rule-out",
+    "raw": {
+      "Checklist ID": "AK-004",
+      "체크 섹션": "활력/즉시위험",
+      "앱 체크리스트 키(원문)": "tachypnea",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "과호흡증후군",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#55 과호흡증후군 / 앱 체크리스트 키: tachypnea; paresthesia; VBG; after rule-out"
+    }
+  },
+  {
+    "id": "AK-005",
+    "section": "문진/증상",
+    "label": "dyspnea",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "급성 심부전 / 폐부종",
+      "폐색전증"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#12 급성 심부전 / 폐부종 / 앱 체크리스트 키: dyspnea; crackles; BNP; CXR/POCUS\n---\n#19 폐색전증 / 앱 체크리스트 키: pleuritic pain; dyspnea; DVT; Wells/PERC/D-dimer; CTPA",
+    "raw": {
+      "Checklist ID": "AK-005",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "dyspnea",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "급성 심부전 / 폐부종; 폐색전증",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#12 급성 심부전 / 폐부종 / 앱 체크리스트 키: dyspnea; crackles; BNP; CXR/POCUS\n---\n#19 폐색전증 / 앱 체크리스트 키: pleuritic pain; dyspnea; DVT; Wells/PERC/D-dimer; CTPA"
+    }
+  },
+  {
+    "id": "AK-006",
+    "section": "문진/증상",
+    "label": "pleuritic pain",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "폐색전증",
+      "흉막염"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#19 폐색전증 / 앱 체크리스트 키: pleuritic pain; dyspnea; DVT; Wells/PERC/D-dimer; CTPA\n---\n#24 흉막염 / 앱 체크리스트 키: pleuritic pain; rub; CXR/PE screen",
+    "raw": {
+      "Checklist ID": "AK-006",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "pleuritic pain",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "폐색전증; 흉막염",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#19 폐색전증 / 앱 체크리스트 키: pleuritic pain; dyspnea; DVT; Wells/PERC/D-dimer; CTPA\n---\n#24 흉막염 / 앱 체크리스트 키: pleuritic pain; rub; CXR/PE screen"
+    }
+  },
+  {
+    "id": "AK-007",
+    "section": "문진/증상",
+    "label": "pleuritic/positional",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "심낭염 / 심낭삼출 / 심장압전",
+      "자가면역성 장막염"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#10 심낭염 / 심낭삼출 / 심장압전 / 앱 체크리스트 키: pleuritic/positional; rub; diffuse ST/PR; echo\n---\n#85 자가면역성 장막염 / 앱 체크리스트 키: SLE/RA; pleuritic/positional; effusion; labs",
+    "raw": {
+      "Checklist ID": "AK-007",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "pleuritic/positional",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "심낭염 / 심낭삼출 / 심장압전; 자가면역성 장막염",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#10 심낭염 / 심낭삼출 / 심장압전 / 앱 체크리스트 키: pleuritic/positional; rub; diffuse ST/PR; echo\n---\n#85 자가면역성 장막염 / 앱 체크리스트 키: SLE/RA; pleuritic/positional; effusion; labs"
+    }
+  },
+  {
+    "id": "AK-008",
+    "section": "문진/증상",
+    "label": "abrupt back pain",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "급성 대동맥 증후군: 벽내혈종/관통성 궤양"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#59 급성 대동맥 증후군: 벽내혈종/관통성 궤양 / 앱 체크리스트 키: abrupt back pain; aortic risk; CTA protocol",
+    "raw": {
+      "Checklist ID": "AK-008",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "abrupt back pain",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "급성 대동맥 증후군: 벽내혈종/관통성 궤양",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#59 급성 대동맥 증후군: 벽내혈종/관통성 궤양 / 앱 체크리스트 키: abrupt back pain; aortic risk; CTA protocol"
+    }
+  },
+  {
+    "id": "AK-009",
+    "section": "문진/증상",
+    "label": "diaphoresis",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "ST분절상승 심근경색"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#1 ST분절상승 심근경색 / 앱 체크리스트 키: ECG; serial troponin; ACS risk; radiation; diaphoresis",
+    "raw": {
+      "Checklist ID": "AK-009",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "diaphoresis",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "ST분절상승 심근경색",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#1 ST분절상승 심근경색 / 앱 체크리스트 키: ECG; serial troponin; ACS risk; radiation; diaphoresis"
+    }
+  },
+  {
+    "id": "AK-010",
+    "section": "문진/증상",
+    "label": "fever/chest pain",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "겸상적혈구 급성흉부증후군"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#69 겸상적혈구 급성흉부증후군 / 앱 체크리스트 키: SCD; fever/chest pain; new infiltrate; hypoxia",
+    "raw": {
+      "Checklist ID": "AK-010",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "fever/chest pain",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "겸상적혈구 급성흉부증후군",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#69 겸상적혈구 급성흉부증후군 / 앱 체크리스트 키: SCD; fever/chest pain; new infiltrate; hypoxia"
+    }
+  },
+  {
+    "id": "AK-011",
+    "section": "문진/증상",
+    "label": "radiation",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "ST분절상승 심근경색"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#1 ST분절상승 심근경색 / 앱 체크리스트 키: ECG; serial troponin; ACS risk; radiation; diaphoresis",
+    "raw": {
+      "Checklist ID": "AK-011",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "radiation",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "ST분절상승 심근경색",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#1 ST분절상승 심근경색 / 앱 체크리스트 키: ECG; serial troponin; ACS risk; radiation; diaphoresis"
+    }
+  },
+  {
+    "id": "AK-012",
+    "section": "문진/증상",
+    "label": "sudden back/chest pain",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "흉부 대동맥류 파열 또는 누출"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#9 흉부 대동맥류 파열 또는 누출 / 앱 체크리스트 키: known aneurysm; sudden back/chest pain; CTA",
+    "raw": {
+      "Checklist ID": "AK-012",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "sudden back/chest pain",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "흉부 대동맥류 파열 또는 누출",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#9 흉부 대동맥류 파열 또는 누출 / 앱 체크리스트 키: known aneurysm; sudden back/chest pain; CTA"
+    }
+  },
+  {
+    "id": "AK-013",
+    "section": "문진/증상",
+    "label": "fever",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 3,
+    "relatedDiagnosisNames": [
+      "급성 담낭염",
+      "횡격막하 농양 / 간농양",
+      "흉쇄관절 감염 / 골수염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#39 급성 담낭염 / 앱 체크리스트 키: RUQ pain; Murphy; fever; US; Tokyo criteria\n---\n#79 횡격막하 농양 / 간농양 / 앱 체크리스트 키: fever; RUQ/shoulder; post-op; CT/US\n---\n#82 흉쇄관절 감염 / 골수염 / 앱 체크리스트 키: SC joint swelling; fever; IVDU/diabetes; CT/MRI/culture",
+    "raw": {
+      "Checklist ID": "AK-013",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "fever",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "3",
+      "관련 진단명": "급성 담낭염; 횡격막하 농양 / 간농양; 흉쇄관절 감염 / 골수염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#39 급성 담낭염 / 앱 체크리스트 키: RUQ pain; Murphy; fever; US; Tokyo criteria\n---\n#79 횡격막하 농양 / 간농양 / 앱 체크리스트 키: fever; RUQ/shoulder; post-op; CT/US\n---\n#82 흉쇄관절 감염 / 골수염 / 앱 체크리스트 키: SC joint swelling; fever; IVDU/diabetes; CT/MRI/culture"
+    }
+  },
+  {
+    "id": "AK-014",
+    "section": "문진/증상",
+    "label": "syncope",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 3,
+    "relatedDiagnosisNames": [
+      "비후성 심근병증",
+      "부정맥 관련 흉통",
+      "선천성 관상동맥 이상 / 심근교"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#15 비후성 심근병증 / 앱 체크리스트 키: young exertional; syncope; family sudden death; echo/CMR\n---\n#16 부정맥 관련 흉통 / 앱 체크리스트 키: palpitation; syncope; ECG monitor; electrolytes\n---\n#65 선천성 관상동맥 이상 / 심근교 / 앱 체크리스트 키: young exertional; syncope; CCTA coronary anatomy",
+    "raw": {
+      "Checklist ID": "AK-014",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "syncope",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "3",
+      "관련 진단명": "비후성 심근병증; 부정맥 관련 흉통; 선천성 관상동맥 이상 / 심근교",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#15 비후성 심근병증 / 앱 체크리스트 키: young exertional; syncope; family sudden death; echo/CMR\n---\n#16 부정맥 관련 흉통 / 앱 체크리스트 키: palpitation; syncope; ECG monitor; electrolytes\n---\n#65 선천성 관상동맥 이상 / 심근교 / 앱 체크리스트 키: young exertional; syncope; CCTA coronary anatomy"
+    }
+  },
+  {
+    "id": "AK-015",
+    "section": "문진/증상",
+    "label": "hemoptysis",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "폐경색",
+      "폐암 / 흉막종양"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#26 폐경색 / 앱 체크리스트 키: PE symptoms; hemoptysis; wedge opacity; CTPA\n---\n#30 폐암 / 흉막종양 / 앱 체크리스트 키: smoking; weight loss; hemoptysis; CT/biopsy",
+    "raw": {
+      "Checklist ID": "AK-015",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "hemoptysis",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "폐경색; 폐암 / 흉막종양",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#26 폐경색 / 앱 체크리스트 키: PE symptoms; hemoptysis; wedge opacity; CTPA\n---\n#30 폐암 / 흉막종양 / 앱 체크리스트 키: smoking; weight loss; hemoptysis; CT/biopsy"
+    }
+  },
+  {
+    "id": "AK-016",
+    "section": "문진/증상",
+    "label": "weight loss",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "폐암 / 흉막종양",
+      "식도암"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#30 폐암 / 흉막종양 / 앱 체크리스트 키: smoking; weight loss; hemoptysis; CT/biopsy\n---\n#76 식도암 / 앱 체크리스트 키: progressive dysphagia; weight loss; EGD biopsy",
+    "raw": {
+      "Checklist ID": "AK-016",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "weight loss",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "폐암 / 흉막종양; 식도암",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#30 폐암 / 흉막종양 / 앱 체크리스트 키: smoking; weight loss; hemoptysis; CT/biopsy\n---\n#76 식도암 / 앱 체크리스트 키: progressive dysphagia; weight loss; EGD biopsy"
+    }
+  },
+  {
+    "id": "AK-017",
+    "section": "문진/증상",
+    "label": "chronic widespread pain",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "섬유근통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#51 섬유근통 / 앱 체크리스트 키: chronic widespread pain; fatigue; sleep",
+    "raw": {
+      "Checklist ID": "AK-017",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "chronic widespread pain",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "섬유근통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#51 섬유근통 / 앱 체크리스트 키: chronic widespread pain; fatigue; sleep"
+    }
+  },
+  {
+    "id": "AK-018",
+    "section": "문진/증상",
+    "label": "exertional chest pain/syncope",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "대동맥판 협착"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#13 대동맥판 협착 / 앱 체크리스트 키: exertional chest pain/syncope; systolic murmur; TTE",
+    "raw": {
+      "Checklist ID": "AK-018",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "exertional chest pain/syncope",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "대동맥판 협착",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#13 대동맥판 협착 / 앱 체크리스트 키: exertional chest pain/syncope; systolic murmur; TTE"
+    }
+  },
+  {
+    "id": "AK-019",
+    "section": "문진/증상",
+    "label": "exertional syncope",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "폐고혈압 / 우심실 허혈"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#64 폐고혈압 / 우심실 허혈 / 앱 체크리스트 키: exertional syncope; RV signs; echo/RHC",
+    "raw": {
+      "Checklist ID": "AK-019",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "exertional syncope",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "폐고혈압 / 우심실 허혈",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#64 폐고혈압 / 우심실 허혈 / 앱 체크리스트 키: exertional syncope; RV signs; echo/RHC"
+    }
+  },
+  {
+    "id": "AK-020",
+    "section": "문진/증상",
+    "label": "fever cough sputum",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "폐렴"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#23 폐렴 / 앱 체크리스트 키: fever cough sputum; crackles; CXR",
+    "raw": {
+      "Checklist ID": "AK-020",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "fever cough sputum",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "폐렴",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#23 폐렴 / 앱 체크리스트 키: fever cough sputum; crackles; CXR"
+    }
+  },
+  {
+    "id": "AK-021",
+    "section": "문진/증상",
+    "label": "fever pneumonia",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "농흉 / 흉막감염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#66 농흉 / 흉막감염 / 앱 체크리스트 키: fever pneumonia; effusion; pleural pH/glucose; US",
+    "raw": {
+      "Checklist ID": "AK-021",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "fever pneumonia",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "농흉 / 흉막감염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#66 농흉 / 흉막감염 / 앱 체크리스트 키: fever pneumonia; effusion; pleural pH/glucose; US"
+    }
+  },
+  {
+    "id": "AK-022",
+    "section": "문진/증상",
+    "label": "foul sputum",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "폐농양"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#71 폐농양 / 앱 체크리스트 키: subacute fever; foul sputum; CT cavity",
+    "raw": {
+      "Checklist ID": "AK-022",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "foul sputum",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "폐농양",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#71 폐농양 / 앱 체크리스트 키: subacute fever; foul sputum; CT cavity"
+    }
+  },
+  {
+    "id": "AK-023",
+    "section": "문진/증상",
+    "label": "palpitation",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "부정맥 관련 흉통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#16 부정맥 관련 흉통 / 앱 체크리스트 키: palpitation; syncope; ECG monitor; electrolytes",
+    "raw": {
+      "Checklist ID": "AK-023",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "palpitation",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "부정맥 관련 흉통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#16 부정맥 관련 흉통 / 앱 체크리스트 키: palpitation; syncope; ECG monitor; electrolytes"
+    }
+  },
+  {
+    "id": "AK-024",
+    "section": "문진/증상",
+    "label": "palpitations",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "승모판 탈출증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#14 승모판 탈출증 / 앱 체크리스트 키: click/murmur; palpitations; TTE",
+    "raw": {
+      "Checklist ID": "AK-024",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "palpitations",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "승모판 탈출증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#14 승모판 탈출증 / 앱 체크리스트 키: click/murmur; palpitations; TTE"
+    }
+  },
+  {
+    "id": "AK-025",
+    "section": "문진/증상",
+    "label": "paresthesia",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "과호흡증후군"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#55 과호흡증후군 / 앱 체크리스트 키: tachypnea; paresthesia; VBG; after rule-out",
+    "raw": {
+      "Checklist ID": "AK-025",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "paresthesia",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "과호흡증후군",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#55 과호흡증후군 / 앱 체크리스트 키: tachypnea; paresthesia; VBG; after rule-out"
+    }
+  },
+  {
+    "id": "AK-026",
+    "section": "문진/증상",
+    "label": "pleuritic",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "바이러스성 흉막염 / 유행성 흉통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#67 바이러스성 흉막염 / 유행성 흉통 / 앱 체크리스트 키: URI prodrome; pleuritic; normal CXR after red flags",
+    "raw": {
+      "Checklist ID": "AK-026",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "pleuritic",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "바이러스성 흉막염 / 유행성 흉통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#67 바이러스성 흉막염 / 유행성 흉통 / 앱 체크리스트 키: URI prodrome; pleuritic; normal CXR after red flags"
+    }
+  },
+  {
+    "id": "AK-027",
+    "section": "문진/증상",
+    "label": "postprandial severe pain",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "감돈/교액성 식도열공·횡격막 탈장"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#90 감돈/교액성 식도열공·횡격막 탈장 / 앱 체크리스트 키: postprandial severe pain; vomiting; hernia history; CT",
+    "raw": {
+      "Checklist ID": "AK-027",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "postprandial severe pain",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "감돈/교액성 식도열공·횡격막 탈장",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#90 감돈/교액성 식도열공·횡격막 탈장 / 앱 체크리스트 키: postprandial severe pain; vomiting; hernia history; CT"
+    }
+  },
+  {
+    "id": "AK-028",
+    "section": "문진/증상",
+    "label": "rest/night pain",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "관상동맥 연축 / 변이형 협심증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#5 관상동맥 연축 / 변이형 협심증 / 앱 체크리스트 키: rest/night pain; transient ST; nitrate response; stimulant",
+    "raw": {
+      "Checklist ID": "AK-028",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "rest/night pain",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "관상동맥 연축 / 변이형 협심증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#5 관상동맥 연축 / 변이형 협심증 / 앱 체크리스트 키: rest/night pain; transient ST; nitrate response; stimulant"
+    }
+  },
+  {
+    "id": "AK-029",
+    "section": "문진/증상",
+    "label": "sputum",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "COPD 급성 악화"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#29 COPD 급성 악화 / 앱 체크리스트 키: COPD history; sputum; ABG; CXR",
+    "raw": {
+      "Checklist ID": "AK-029",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "sputum",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "COPD 급성 악화",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#29 COPD 급성 악화 / 앱 체크리스트 키: COPD history; sputum; ABG; CXR"
+    }
+  },
+  {
+    "id": "AK-030",
+    "section": "문진/증상",
+    "label": "subacute fever",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "폐농양"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#71 폐농양 / 앱 체크리스트 키: subacute fever; foul sputum; CT cavity",
+    "raw": {
+      "Checklist ID": "AK-030",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "subacute fever",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "폐농양",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#71 폐농양 / 앱 체크리스트 키: subacute fever; foul sputum; CT cavity"
+    }
+  },
+  {
+    "id": "AK-031",
+    "section": "문진/증상",
+    "label": "weight loss/night sweat",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "결핵성 흉막염 / 폐결핵"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#68 결핵성 흉막염 / 폐결핵 / 앱 체크리스트 키: weight loss/night sweat; TB exposure; effusion; AFB/ADA",
+    "raw": {
+      "Checklist ID": "AK-031",
+      "체크 섹션": "문진/증상",
+      "앱 체크리스트 키(원문)": "weight loss/night sweat",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "결핵성 흉막염 / 폐결핵",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#68 결핵성 흉막염 / 폐결핵 / 앱 체크리스트 키: weight loss/night sweat; TB exposure; effusion; AFB/ADA"
+    }
+  },
+  {
+    "id": "AK-032",
+    "section": "위험인자/과거력",
+    "label": "trauma",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "외상성 기흉 / 혈흉",
+      "흉벽 타박상 / 외상 후 흉통"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#22 외상성 기흉 / 혈흉 / 앱 체크리스트 키: trauma; breath sound; eFAST/CXR/CT\n---\n#47 흉벽 타박상 / 외상 후 흉통 / 앱 체크리스트 키: trauma; ecchymosis; eFAST/CXR/CT",
+    "raw": {
+      "Checklist ID": "AK-032",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "trauma",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "외상성 기흉 / 혈흉; 흉벽 타박상 / 외상 후 흉통",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#22 외상성 기흉 / 혈흉 / 앱 체크리스트 키: trauma; breath sound; eFAST/CXR/CT\n---\n#47 흉벽 타박상 / 외상 후 흉통 / 앱 체크리스트 키: trauma; ecchymosis; eFAST/CXR/CT"
+    }
+  },
+  {
+    "id": "AK-033",
+    "section": "위험인자/과거력",
+    "label": "ACS risk",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "ST분절상승 심근경색"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#1 ST분절상승 심근경색 / 앱 체크리스트 키: ECG; serial troponin; ACS risk; radiation; diaphoresis",
+    "raw": {
+      "Checklist ID": "AK-033",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "ACS risk",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "ST분절상승 심근경색",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#1 ST분절상승 심근경색 / 앱 체크리스트 키: ECG; serial troponin; ACS risk; radiation; diaphoresis"
+    }
+  },
+  {
+    "id": "AK-034",
+    "section": "위험인자/과거력",
+    "label": "DVT",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "폐색전증"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#19 폐색전증 / 앱 체크리스트 키: pleuritic pain; dyspnea; DVT; Wells/PERC/D-dimer; CTPA",
+    "raw": {
+      "Checklist ID": "AK-034",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "DVT",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "폐색전증",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#19 폐색전증 / 앱 체크리스트 키: pleuritic pain; dyspnea; DVT; Wells/PERC/D-dimer; CTPA"
+    }
+  },
+  {
+    "id": "AK-035",
+    "section": "위험인자/과거력",
+    "label": "FMD",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "자발성 관상동맥 박리"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#7 자발성 관상동맥 박리 / 앱 체크리스트 키: young female ACS; postpartum; FMD; angiography",
+    "raw": {
+      "Checklist ID": "AK-035",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "FMD",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "자발성 관상동맥 박리",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#7 자발성 관상동맥 박리 / 앱 체크리스트 키: young female ACS; postpartum; FMD; angiography"
+    }
+  },
+  {
+    "id": "AK-036",
+    "section": "위험인자/과거력",
+    "label": "SCD",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "겸상적혈구 급성흉부증후군"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#69 겸상적혈구 급성흉부증후군 / 앱 체크리스트 키: SCD; fever/chest pain; new infiltrate; hypoxia",
+    "raw": {
+      "Checklist ID": "AK-036",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "SCD",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "겸상적혈구 급성흉부증후군",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#69 겸상적혈구 급성흉부증후군 / 앱 체크리스트 키: SCD; fever/chest pain; new infiltrate; hypoxia"
+    }
+  },
+  {
+    "id": "AK-037",
+    "section": "위험인자/과거력",
+    "label": "aortic risk",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "급성 대동맥 증후군: 벽내혈종/관통성 궤양"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#59 급성 대동맥 증후군: 벽내혈종/관통성 궤양 / 앱 체크리스트 키: abrupt back pain; aortic risk; CTA protocol",
+    "raw": {
+      "Checklist ID": "AK-037",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "aortic risk",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "급성 대동맥 증후군: 벽내혈종/관통성 궤양",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#59 급성 대동맥 증후군: 벽내혈종/관통성 궤양 / 앱 체크리스트 키: abrupt back pain; aortic risk; CTA protocol"
+    }
+  },
+  {
+    "id": "AK-038",
+    "section": "위험인자/과거력",
+    "label": "high-energy trauma",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "외상성 대혈관 손상"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#88 외상성 대혈관 손상 / 앱 체크리스트 키: high-energy trauma; widened mediastinum; CTA",
+    "raw": {
+      "Checklist ID": "AK-038",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "high-energy trauma",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "외상성 대혈관 손상",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#88 외상성 대혈관 손상 / 앱 체크리스트 키: high-energy trauma; widened mediastinum; CTA"
+    }
+  },
+  {
+    "id": "AK-039",
+    "section": "위험인자/과거력",
+    "label": "known aneurysm",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "흉부 대동맥류 파열 또는 누출"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#9 흉부 대동맥류 파열 또는 누출 / 앱 체크리스트 키: known aneurysm; sudden back/chest pain; CTA",
+    "raw": {
+      "Checklist ID": "AK-039",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "known aneurysm",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "흉부 대동맥류 파열 또는 누출",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#9 흉부 대동맥류 파열 또는 누출 / 앱 체크리스트 키: known aneurysm; sudden back/chest pain; CTA"
+    }
+  },
+  {
+    "id": "AK-040",
+    "section": "위험인자/과거력",
+    "label": "postpartum",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "자발성 관상동맥 박리"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#7 자발성 관상동맥 박리 / 앱 체크리스트 키: young female ACS; postpartum; FMD; angiography",
+    "raw": {
+      "Checklist ID": "AK-040",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "postpartum",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "자발성 관상동맥 박리",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#7 자발성 관상동맥 박리 / 앱 체크리스트 키: young female ACS; postpartum; FMD; angiography"
+    }
+  },
+  {
+    "id": "AK-041",
+    "section": "위험인자/과거력",
+    "label": "immunocompromise",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "식도염",
+      "약제성/감염성/호산구성 식도염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#32 식도염 / 앱 체크리스트 키: odynophagia; dysphagia; immunocompromise; EGD\n---\n#75 약제성/감염성/호산구성 식도염 / 앱 체크리스트 키: pill history; odynophagia; immunocompromise; EGD biopsy",
+    "raw": {
+      "Checklist ID": "AK-041",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "immunocompromise",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "식도염; 약제성/감염성/호산구성 식도염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#32 식도염 / 앱 체크리스트 키: odynophagia; dysphagia; immunocompromise; EGD\n---\n#75 약제성/감염성/호산구성 식도염 / 앱 체크리스트 키: pill history; odynophagia; immunocompromise; EGD biopsy"
+    }
+  },
+  {
+    "id": "AK-042",
+    "section": "위험인자/과거력",
+    "label": "ACS with low CAD risk",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "관상동맥 색전/혈전증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#60 관상동맥 색전/혈전증 / 앱 체크리스트 키: AF/valve/IE; ACS with low CAD risk; echo/TEE",
+    "raw": {
+      "Checklist ID": "AK-042",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "ACS with low CAD risk",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "관상동맥 색전/혈전증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#60 관상동맥 색전/혈전증 / 앱 체크리스트 키: AF/valve/IE; ACS with low CAD risk; echo/TEE"
+    }
+  },
+  {
+    "id": "AK-043",
+    "section": "위험인자/과거력",
+    "label": "CO exposure",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "일산화탄소 중독 관련 심근허혈"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#86 일산화탄소 중독 관련 심근허혈 / 앱 체크리스트 키: CO exposure; headache; multiple patients; COHb/troponin",
+    "raw": {
+      "Checklist ID": "AK-043",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "CO exposure",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "일산화탄소 중독 관련 심근허혈",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#86 일산화탄소 중독 관련 심근허혈 / 앱 체크리스트 키: CO exposure; headache; multiple patients; COHb/troponin"
+    }
+  },
+  {
+    "id": "AK-044",
+    "section": "위험인자/과거력",
+    "label": "COPD history",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "COPD 급성 악화"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#29 COPD 급성 악화 / 앱 체크리스트 키: COPD history; sputum; ABG; CXR",
+    "raw": {
+      "Checklist ID": "AK-044",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "COPD history",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "COPD 급성 악화",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#29 COPD 급성 악화 / 앱 체크리스트 키: COPD history; sputum; ABG; CXR"
+    }
+  },
+  {
+    "id": "AK-045",
+    "section": "위험인자/과거력",
+    "label": "IVDU/diabetes",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "흉쇄관절 감염 / 골수염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#82 흉쇄관절 감염 / 골수염 / 앱 체크리스트 키: SC joint swelling; fever; IVDU/diabetes; CT/MRI/culture",
+    "raw": {
+      "Checklist ID": "AK-045",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "IVDU/diabetes",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "흉쇄관절 감염 / 골수염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#82 흉쇄관절 감염 / 골수염 / 앱 체크리스트 키: SC joint swelling; fever; IVDU/diabetes; CT/MRI/culture"
+    }
+  },
+  {
+    "id": "AK-046",
+    "section": "위험인자/과거력",
+    "label": "NSAID",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "소화성 궤양"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#36 소화성 궤양 / 앱 체크리스트 키: epigastric burning; NSAID; melena; EGD",
+    "raw": {
+      "Checklist ID": "AK-046",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "NSAID",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "소화성 궤양",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#36 소화성 궤양 / 앱 체크리스트 키: epigastric burning; NSAID; melena; EGD"
+    }
+  },
+  {
+    "id": "AK-047",
+    "section": "위험인자/과거력",
+    "label": "alcohol/gallstone",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "급성 췌장염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#41 급성 췌장염 / 앱 체크리스트 키: epigastric to back; lipase; alcohol/gallstone",
+    "raw": {
+      "Checklist ID": "AK-047",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "alcohol/gallstone",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "급성 췌장염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#41 급성 췌장염 / 앱 체크리스트 키: epigastric to back; lipase; alcohol/gallstone"
+    }
+  },
+  {
+    "id": "AK-048",
+    "section": "위험인자/과거력",
+    "label": "blunt trauma",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "폐좌상 / 동요흉"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#89 폐좌상 / 동요흉 / 앱 체크리스트 키: blunt trauma; hypoxia; CT/CXR; paradoxical movement",
+    "raw": {
+      "Checklist ID": "AK-048",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "blunt trauma",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "폐좌상 / 동요흉",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#89 폐좌상 / 동요흉 / 앱 체크리스트 키: blunt trauma; hypoxia; CT/CXR; paradoxical movement"
+    }
+  },
+  {
+    "id": "AK-049",
+    "section": "위험인자/과거력",
+    "label": "family sudden death",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "비후성 심근병증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#15 비후성 심근병증 / 앱 체크리스트 키: young exertional; syncope; family sudden death; echo/CMR",
+    "raw": {
+      "Checklist ID": "AK-049",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "family sudden death",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "비후성 심근병증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#15 비후성 심근병증 / 앱 체크리스트 키: young exertional; syncope; family sudden death; echo/CMR"
+    }
+  },
+  {
+    "id": "AK-050",
+    "section": "위험인자/과거력",
+    "label": "hernia history",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "감돈/교액성 식도열공·횡격막 탈장"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#90 감돈/교액성 식도열공·횡격막 탈장 / 앱 체크리스트 키: postprandial severe pain; vomiting; hernia history; CT",
+    "raw": {
+      "Checklist ID": "AK-050",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "hernia history",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "감돈/교액성 식도열공·횡격막 탈장",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#90 감돈/교액성 식도열공·횡격막 탈장 / 앱 체크리스트 키: postprandial severe pain; vomiting; hernia history; CT"
+    }
+  },
+  {
+    "id": "AK-051",
+    "section": "위험인자/과거력",
+    "label": "pill history",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "약제성/감염성/호산구성 식도염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#75 약제성/감염성/호산구성 식도염 / 앱 체크리스트 키: pill history; odynophagia; immunocompromise; EGD biopsy",
+    "raw": {
+      "Checklist ID": "AK-051",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "pill history",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "약제성/감염성/호산구성 식도염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#75 약제성/감염성/호산구성 식도염 / 앱 체크리스트 키: pill history; odynophagia; immunocompromise; EGD biopsy"
+    }
+  },
+  {
+    "id": "AK-052",
+    "section": "위험인자/과거력",
+    "label": "smoking",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "폐암 / 흉막종양"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#30 폐암 / 흉막종양 / 앱 체크리스트 키: smoking; weight loss; hemoptysis; CT/biopsy",
+    "raw": {
+      "Checklist ID": "AK-052",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "smoking",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "폐암 / 흉막종양",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#30 폐암 / 흉막종양 / 앱 체크리스트 키: smoking; weight loss; hemoptysis; CT/biopsy"
+    }
+  },
+  {
+    "id": "AK-053",
+    "section": "위험인자/과거력",
+    "label": "stimulant",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "관상동맥 연축 / 변이형 협심증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#5 관상동맥 연축 / 변이형 협심증 / 앱 체크리스트 키: rest/night pain; transient ST; nitrate response; stimulant",
+    "raw": {
+      "Checklist ID": "AK-053",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "stimulant",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "관상동맥 연축 / 변이형 협심증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#5 관상동맥 연축 / 변이형 협심증 / 앱 체크리스트 키: rest/night pain; transient ST; nitrate response; stimulant"
+    }
+  },
+  {
+    "id": "AK-054",
+    "section": "위험인자/과거력",
+    "label": "tall thin/smoking",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "자연기흉"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#21 자연기흉 / 앱 체크리스트 키: sudden unilateral; tall thin/smoking; CXR/US",
+    "raw": {
+      "Checklist ID": "AK-054",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "tall thin/smoking",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "자연기흉",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#21 자연기흉 / 앱 체크리스트 키: sudden unilateral; tall thin/smoking; CXR/US"
+    }
+  },
+  {
+    "id": "AK-055",
+    "section": "위험인자/과거력",
+    "label": "trauma/CPR/cough",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "늑골골절"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#46 늑골골절 / 앱 체크리스트 키: trauma/CPR/cough; focal tenderness; CXR/CT",
+    "raw": {
+      "Checklist ID": "AK-055",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "trauma/CPR/cough",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "늑골골절",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#46 늑골골절 / 앱 체크리스트 키: trauma/CPR/cough; focal tenderness; CXR/CT"
+    }
+  },
+  {
+    "id": "AK-056",
+    "section": "위험인자/과거력",
+    "label": "trauma/exertion",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "흉벽 근육통 / 근육염좌"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#45 흉벽 근육통 / 근육염좌 / 앱 체크리스트 키: movement-related; reproducible; trauma/exertion",
+    "raw": {
+      "Checklist ID": "AK-056",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "trauma/exertion",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "흉벽 근육통 / 근육염좌",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#45 흉벽 근육통 / 근육염좌 / 앱 체크리스트 키: movement-related; reproducible; trauma/exertion"
+    }
+  },
+  {
+    "id": "AK-057",
+    "section": "위험인자/과거력",
+    "label": "zoster/trauma",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "늑간신경통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#48 늑간신경통 / 앱 체크리스트 키: dermatomal; neuropathic; zoster/trauma",
+    "raw": {
+      "Checklist ID": "AK-057",
+      "체크 섹션": "위험인자/과거력",
+      "앱 체크리스트 키(원문)": "zoster/trauma",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "늑간신경통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#48 늑간신경통 / 앱 체크리스트 키: dermatomal; neuropathic; zoster/trauma"
+    }
+  },
+  {
+    "id": "AK-058",
+    "section": "신체진찰",
+    "label": "rub",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "심낭염 / 심낭삼출 / 심장압전",
+      "흉막염"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#10 심낭염 / 심낭삼출 / 심장압전 / 앱 체크리스트 키: pleuritic/positional; rub; diffuse ST/PR; echo\n---\n#24 흉막염 / 앱 체크리스트 키: pleuritic pain; rub; CXR/PE screen",
+    "raw": {
+      "Checklist ID": "AK-058",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "rub",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "심낭염 / 심낭삼출 / 심장압전; 흉막염",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#10 심낭염 / 심낭삼출 / 심장압전 / 앱 체크리스트 키: pleuritic/positional; rub; diffuse ST/PR; echo\n---\n#24 흉막염 / 앱 체크리스트 키: pleuritic pain; rub; CXR/PE screen"
+    }
+  },
+  {
+    "id": "AK-059",
+    "section": "신체진찰",
+    "label": "subcutaneous emphysema",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "종격동기종 / 기종격",
+      "식도파열"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#27 종격동기종 / 기종격 / 앱 체크리스트 키: subcutaneous emphysema; vomiting/asthma; CT\n---\n#34 식도파열 / 앱 체크리스트 키: vomiting before pain; subcutaneous emphysema; CT esophagram",
+    "raw": {
+      "Checklist ID": "AK-059",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "subcutaneous emphysema",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "종격동기종 / 기종격; 식도파열",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#27 종격동기종 / 기종격 / 앱 체크리스트 키: subcutaneous emphysema; vomiting/asthma; CT\n---\n#34 식도파열 / 앱 체크리스트 키: vomiting before pain; subcutaneous emphysema; CT esophagram"
+    }
+  },
+  {
+    "id": "AK-060",
+    "section": "신체진찰",
+    "label": "JVD",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "심장압전 독립 게이트"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#63 심장압전 독립 게이트 / 앱 체크리스트 키: hypotension; JVD; pulsus; POCUS/echo",
+    "raw": {
+      "Checklist ID": "AK-060",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "JVD",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "심장압전 독립 게이트",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#63 심장압전 독립 게이트 / 앱 체크리스트 키: hypotension; JVD; pulsus; POCUS/echo"
+    }
+  },
+  {
+    "id": "AK-061",
+    "section": "신체진찰",
+    "label": "breath sound",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "외상성 기흉 / 혈흉"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#22 외상성 기흉 / 혈흉 / 앱 체크리스트 키: trauma; breath sound; eFAST/CXR/CT",
+    "raw": {
+      "Checklist ID": "AK-061",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "breath sound",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "외상성 기흉 / 혈흉",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#22 외상성 기흉 / 혈흉 / 앱 체크리스트 키: trauma; breath sound; eFAST/CXR/CT"
+    }
+  },
+  {
+    "id": "AK-062",
+    "section": "신체진찰",
+    "label": "neuro",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "급성 대동맥 박리"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#8 급성 대동맥 박리 / 앱 체크리스트 키: abrupt tearing; pulse deficit; neuro; CTA aorta",
+    "raw": {
+      "Checklist ID": "AK-062",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "neuro",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "급성 대동맥 박리",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#8 급성 대동맥 박리 / 앱 체크리스트 키: abrupt tearing; pulse deficit; neuro; CTA aorta"
+    }
+  },
+  {
+    "id": "AK-063",
+    "section": "신체진찰",
+    "label": "peritonitis",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "천공성 소화성 궤양"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#73 천공성 소화성 궤양 / 앱 체크리스트 키: sudden epigastric; peritonitis; free air; CT",
+    "raw": {
+      "Checklist ID": "AK-063",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "peritonitis",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "천공성 소화성 궤양",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#73 천공성 소화성 궤양 / 앱 체크리스트 키: sudden epigastric; peritonitis; free air; CT"
+    }
+  },
+  {
+    "id": "AK-064",
+    "section": "신체진찰",
+    "label": "pulse deficit",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "급성 대동맥 박리"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#8 급성 대동맥 박리 / 앱 체크리스트 키: abrupt tearing; pulse deficit; neuro; CTA aorta",
+    "raw": {
+      "Checklist ID": "AK-064",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "pulse deficit",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "급성 대동맥 박리",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#8 급성 대동맥 박리 / 앱 체크리스트 키: abrupt tearing; pulse deficit; neuro; CTA aorta"
+    }
+  },
+  {
+    "id": "AK-065",
+    "section": "신체진찰",
+    "label": "pulsus",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "심장압전 독립 게이트"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#63 심장압전 독립 게이트 / 앱 체크리스트 키: hypotension; JVD; pulsus; POCUS/echo",
+    "raw": {
+      "Checklist ID": "AK-065",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "pulsus",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "심장압전 독립 게이트",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#63 심장압전 독립 게이트 / 앱 체크리스트 키: hypotension; JVD; pulsus; POCUS/echo"
+    }
+  },
+  {
+    "id": "AK-066",
+    "section": "신체진찰",
+    "label": "unilateral breath sound",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "긴장성 기흉"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#20 긴장성 기흉 / 앱 체크리스트 키: unilateral breath sound; shock; immediate decompression",
+    "raw": {
+      "Checklist ID": "AK-066",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "unilateral breath sound",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "긴장성 기흉",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#20 긴장성 기흉 / 앱 체크리스트 키: unilateral breath sound; shock; immediate decompression"
+    }
+  },
+  {
+    "id": "AK-067",
+    "section": "신체진찰",
+    "label": "crackles",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "급성 심부전 / 폐부종",
+      "폐렴"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#12 급성 심부전 / 폐부종 / 앱 체크리스트 키: dyspnea; crackles; BNP; CXR/POCUS\n---\n#23 폐렴 / 앱 체크리스트 키: fever cough sputum; crackles; CXR",
+    "raw": {
+      "Checklist ID": "AK-067",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "crackles",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "급성 심부전 / 폐부종; 폐렴",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#12 급성 심부전 / 폐부종 / 앱 체크리스트 키: dyspnea; crackles; BNP; CXR/POCUS\n---\n#23 폐렴 / 앱 체크리스트 키: fever cough sputum; crackles; CXR"
+    }
+  },
+  {
+    "id": "AK-068",
+    "section": "신체진찰",
+    "label": "Murphy",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "급성 담낭염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#39 급성 담낭염 / 앱 체크리스트 키: RUQ pain; Murphy; fever; US; Tokyo criteria",
+    "raw": {
+      "Checklist ID": "AK-068",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "Murphy",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "급성 담낭염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#39 급성 담낭염 / 앱 체크리스트 키: RUQ pain; Murphy; fever; US; Tokyo criteria"
+    }
+  },
+  {
+    "id": "AK-069",
+    "section": "신체진찰",
+    "label": "SC joint swelling",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "흉쇄관절 감염 / 골수염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#82 흉쇄관절 감염 / 골수염 / 앱 체크리스트 키: SC joint swelling; fever; IVDU/diabetes; CT/MRI/culture",
+    "raw": {
+      "Checklist ID": "AK-069",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "SC joint swelling",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "흉쇄관절 감염 / 골수염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#82 흉쇄관절 감염 / 골수염 / 앱 체크리스트 키: SC joint swelling; fever; IVDU/diabetes; CT/MRI/culture"
+    }
+  },
+  {
+    "id": "AK-070",
+    "section": "신체진찰",
+    "label": "back tenderness",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "흉추 압박골절"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#80 흉추 압박골절 / 앱 체크리스트 키: elderly/osteoporosis; back tenderness; spine imaging",
+    "raw": {
+      "Checklist ID": "AK-070",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "back tenderness",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "흉추 압박골절",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#80 흉추 압박골절 / 앱 체크리스트 키: elderly/osteoporosis; back tenderness; spine imaging"
+    }
+  },
+  {
+    "id": "AK-071",
+    "section": "신체진찰",
+    "label": "breast redness/mass",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "유방/흉벽 감염 또는 Mondor disease"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#87 유방/흉벽 감염 또는 Mondor disease / 앱 체크리스트 키: breast redness/mass; lactation; cord; US",
+    "raw": {
+      "Checklist ID": "AK-071",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "breast redness/mass",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "유방/흉벽 감염 또는 Mondor disease",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#87 유방/흉벽 감염 또는 Mondor disease / 앱 체크리스트 키: breast redness/mass; lactation; cord; US"
+    }
+  },
+  {
+    "id": "AK-072",
+    "section": "신체진찰",
+    "label": "click/murmur",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "승모판 탈출증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#14 승모판 탈출증 / 앱 체크리스트 키: click/murmur; palpitations; TTE",
+    "raw": {
+      "Checklist ID": "AK-072",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "click/murmur",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "승모판 탈출증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#14 승모판 탈출증 / 앱 체크리스트 키: click/murmur; palpitations; TTE"
+    }
+  },
+  {
+    "id": "AK-073",
+    "section": "신체진찰",
+    "label": "clicking",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "갈비뼈 미끄럼 증후군"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#81 갈비뼈 미끄럼 증후군 / 앱 체크리스트 키: lower rib pain; clicking; hooking maneuver",
+    "raw": {
+      "Checklist ID": "AK-073",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "clicking",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "갈비뼈 미끄럼 증후군",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#81 갈비뼈 미끄럼 증후군 / 앱 체크리스트 키: lower rib pain; clicking; hooking maneuver"
+    }
+  },
+  {
+    "id": "AK-074",
+    "section": "신체진찰",
+    "label": "cord",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "유방/흉벽 감염 또는 Mondor disease"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#87 유방/흉벽 감염 또는 Mondor disease / 앱 체크리스트 키: breast redness/mass; lactation; cord; US",
+    "raw": {
+      "Checklist ID": "AK-074",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "cord",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "유방/흉벽 감염 또는 Mondor disease",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#87 유방/흉벽 감염 또는 Mondor disease / 앱 체크리스트 키: breast redness/mass; lactation; cord; US"
+    }
+  },
+  {
+    "id": "AK-075",
+    "section": "신체진찰",
+    "label": "decreased breath sound",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "흉막삼출"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#25 흉막삼출 / 앱 체크리스트 키: dullness; decreased breath sound; US; thoracentesis",
+    "raw": {
+      "Checklist ID": "AK-075",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "decreased breath sound",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "흉막삼출",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#25 흉막삼출 / 앱 체크리스트 키: dullness; decreased breath sound; US; thoracentesis"
+    }
+  },
+  {
+    "id": "AK-076",
+    "section": "신체진찰",
+    "label": "ecchymosis",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "흉벽 타박상 / 외상 후 흉통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#47 흉벽 타박상 / 외상 후 흉통 / 앱 체크리스트 키: trauma; ecchymosis; eFAST/CXR/CT",
+    "raw": {
+      "Checklist ID": "AK-076",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "ecchymosis",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "흉벽 타박상 / 외상 후 흉통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#47 흉벽 타박상 / 외상 후 흉통 / 앱 체크리스트 키: trauma; ecchymosis; eFAST/CXR/CT"
+    }
+  },
+  {
+    "id": "AK-077",
+    "section": "신체진찰",
+    "label": "focal tenderness",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "늑골골절"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#46 늑골골절 / 앱 체크리스트 키: trauma/CPR/cough; focal tenderness; CXR/CT",
+    "raw": {
+      "Checklist ID": "AK-077",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "focal tenderness",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "늑골골절",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#46 늑골골절 / 앱 체크리스트 키: trauma/CPR/cough; focal tenderness; CXR/CT"
+    }
+  },
+  {
+    "id": "AK-078",
+    "section": "신체진찰",
+    "label": "hooking maneuver",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "갈비뼈 미끄럼 증후군"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#81 갈비뼈 미끄럼 증후군 / 앱 체크리스트 키: lower rib pain; clicking; hooking maneuver",
+    "raw": {
+      "Checklist ID": "AK-078",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "hooking maneuver",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "갈비뼈 미끄럼 증후군",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#81 갈비뼈 미끄럼 증후군 / 앱 체크리스트 키: lower rib pain; clicking; hooking maneuver"
+    }
+  },
+  {
+    "id": "AK-079",
+    "section": "신체진찰",
+    "label": "localized swelling",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "Tietze 증후군"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#44 Tietze 증후군 / 앱 체크리스트 키: localized swelling; tenderness",
+    "raw": {
+      "Checklist ID": "AK-079",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "localized swelling",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "Tietze 증후군",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#44 Tietze 증후군 / 앱 체크리스트 키: localized swelling; tenderness"
+    }
+  },
+  {
+    "id": "AK-080",
+    "section": "신체진찰",
+    "label": "neuro deficit",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "경추 또는 흉추 신경근병증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#49 경추 또는 흉추 신경근병증 / 앱 체크리스트 키: neck/back movement; neuro deficit; MRI",
+    "raw": {
+      "Checklist ID": "AK-080",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "neuro deficit",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "경추 또는 흉추 신경근병증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#49 경추 또는 흉추 신경근병증 / 앱 체크리스트 키: neck/back movement; neuro deficit; MRI"
+    }
+  },
+  {
+    "id": "AK-081",
+    "section": "신체진찰",
+    "label": "neuropathic",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "늑간신경통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#48 늑간신경통 / 앱 체크리스트 키: dermatomal; neuropathic; zoster/trauma",
+    "raw": {
+      "Checklist ID": "AK-081",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "neuropathic",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "늑간신경통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#48 늑간신경통 / 앱 체크리스트 키: dermatomal; neuropathic; zoster/trauma"
+    }
+  },
+  {
+    "id": "AK-082",
+    "section": "신체진찰",
+    "label": "paradoxical movement",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "폐좌상 / 동요흉"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#89 폐좌상 / 동요흉 / 앱 체크리스트 키: blunt trauma; hypoxia; CT/CXR; paradoxical movement",
+    "raw": {
+      "Checklist ID": "AK-082",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "paradoxical movement",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "폐좌상 / 동요흉",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#89 폐좌상 / 동요흉 / 앱 체크리스트 키: blunt trauma; hypoxia; CT/CXR; paradoxical movement"
+    }
+  },
+  {
+    "id": "AK-083",
+    "section": "신체진찰",
+    "label": "reproducible tenderness",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "늑연골염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#43 늑연골염 / 앱 체크리스트 키: reproducible tenderness; movement; no red flag",
+    "raw": {
+      "Checklist ID": "AK-083",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "reproducible tenderness",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "늑연골염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#43 늑연골염 / 앱 체크리스트 키: reproducible tenderness; movement; no red flag"
+    }
+  },
+  {
+    "id": "AK-084",
+    "section": "신체진찰",
+    "label": "systolic murmur",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "대동맥판 협착"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#13 대동맥판 협착 / 앱 체크리스트 키: exertional chest pain/syncope; systolic murmur; TTE",
+    "raw": {
+      "Checklist ID": "AK-084",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "systolic murmur",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "대동맥판 협착",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#13 대동맥판 협착 / 앱 체크리스트 키: exertional chest pain/syncope; systolic murmur; TTE"
+    }
+  },
+  {
+    "id": "AK-085",
+    "section": "신체진찰",
+    "label": "tenderness",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "Tietze 증후군"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#44 Tietze 증후군 / 앱 체크리스트 키: localized swelling; tenderness",
+    "raw": {
+      "Checklist ID": "AK-085",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "tenderness",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "Tietze 증후군",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#44 Tietze 증후군 / 앱 체크리스트 키: localized swelling; tenderness"
+    }
+  },
+  {
+    "id": "AK-086",
+    "section": "신체진찰",
+    "label": "vesicles",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "대상포진"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#50 대상포진 / 앱 체크리스트 키: dermatomal pain; vesicles; immunosuppression",
+    "raw": {
+      "Checklist ID": "AK-086",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "vesicles",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "대상포진",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#50 대상포진 / 앱 체크리스트 키: dermatomal pain; vesicles; immunosuppression"
+    }
+  },
+  {
+    "id": "AK-087",
+    "section": "신체진찰",
+    "label": "wheeze",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "천식 급성 악화"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#28 천식 급성 악화 / 앱 체크리스트 키: wheeze; PEF; response to bronchodilator",
+    "raw": {
+      "Checklist ID": "AK-087",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "wheeze",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "천식 급성 악화",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#28 천식 급성 악화 / 앱 체크리스트 키: wheeze; PEF; response to bronchodilator"
+    }
+  },
+  {
+    "id": "AK-088",
+    "section": "신체진찰",
+    "label": "xiphoid focal tenderness",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "검상돌기통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#83 검상돌기통 / 앱 체크리스트 키: xiphoid focal tenderness; reproducible",
+    "raw": {
+      "Checklist ID": "AK-088",
+      "체크 섹션": "신체진찰",
+      "앱 체크리스트 키(원문)": "xiphoid focal tenderness",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "검상돌기통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#83 검상돌기통 / 앱 체크리스트 키: xiphoid focal tenderness; reproducible"
+    }
+  },
+  {
+    "id": "AK-089",
+    "section": "ECG/혈액/검사",
+    "label": "LFT",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "담관염"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#40 담관염 / 앱 체크리스트 키: fever jaundice RUQ; LFT; biliary dilation; drainage",
+    "raw": {
+      "Checklist ID": "AK-089",
+      "체크 섹션": "ECG/혈액/검사",
+      "앱 체크리스트 키(원문)": "LFT",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "담관염",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#40 담관염 / 앱 체크리스트 키: fever jaundice RUQ; LFT; biliary dilation; drainage"
+    }
+  },
+  {
+    "id": "AK-090",
+    "section": "ECG/혈액/검사",
+    "label": "serial ECG/troponin",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "불안정 협심증 / ACS"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#3 불안정 협심증 / ACS / 앱 체크리스트 키: new/worsening/rest angina; serial ECG/troponin",
+    "raw": {
+      "Checklist ID": "AK-090",
+      "체크 섹션": "ECG/혈액/검사",
+      "앱 체크리스트 키(원문)": "serial ECG/troponin",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "불안정 협심증 / ACS",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#3 불안정 협심증 / ACS / 앱 체크리스트 키: new/worsening/rest angina; serial ECG/troponin"
+    }
+  },
+  {
+    "id": "AK-091",
+    "section": "ECG/혈액/검사",
+    "label": "serial hs-cTn",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "비ST분절상승 심근경색"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#2 비ST분절상승 심근경색 / 앱 체크리스트 키: serial hs-cTn; ECG dynamic change; GRACE/HEART",
+    "raw": {
+      "Checklist ID": "AK-091",
+      "체크 섹션": "ECG/혈액/검사",
+      "앱 체크리스트 키(원문)": "serial hs-cTn",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "비ST분절상승 심근경색",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#2 비ST분절상승 심근경색 / 앱 체크리스트 키: serial hs-cTn; ECG dynamic change; GRACE/HEART"
+    }
+  },
+  {
+    "id": "AK-092",
+    "section": "ECG/혈액/검사",
+    "label": "serial troponin",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "ST분절상승 심근경색"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#1 ST분절상승 심근경색 / 앱 체크리스트 키: ECG; serial troponin; ACS risk; radiation; diaphoresis",
+    "raw": {
+      "Checklist ID": "AK-092",
+      "체크 섹션": "ECG/혈액/검사",
+      "앱 체크리스트 키(원문)": "serial troponin",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "ST분절상승 심근경색",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#1 ST분절상승 심근경색 / 앱 체크리스트 키: ECG; serial troponin; ACS risk; radiation; diaphoresis"
+    }
+  },
+  {
+    "id": "AK-093",
+    "section": "ECG/혈액/검사",
+    "label": "ABG",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "COPD 급성 악화"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#29 COPD 급성 악화 / 앱 체크리스트 키: COPD history; sputum; ABG; CXR",
+    "raw": {
+      "Checklist ID": "AK-093",
+      "체크 섹션": "ECG/혈액/검사",
+      "앱 체크리스트 키(원문)": "ABG",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "COPD 급성 악화",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#29 COPD 급성 악화 / 앱 체크리스트 키: COPD history; sputum; ABG; CXR"
+    }
+  },
+  {
+    "id": "AK-094",
+    "section": "ECG/혈액/검사",
+    "label": "AFB/ADA",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "결핵성 흉막염 / 폐결핵"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#68 결핵성 흉막염 / 폐결핵 / 앱 체크리스트 키: weight loss/night sweat; TB exposure; effusion; AFB/ADA",
+    "raw": {
+      "Checklist ID": "AK-094",
+      "체크 섹션": "ECG/혈액/검사",
+      "앱 체크리스트 키(원문)": "AFB/ADA",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "결핵성 흉막염 / 폐결핵",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#68 결핵성 흉막염 / 폐결핵 / 앱 체크리스트 키: weight loss/night sweat; TB exposure; effusion; AFB/ADA"
+    }
+  },
+  {
+    "id": "AK-095",
+    "section": "ECG/혈액/검사",
+    "label": "BNP",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "급성 심부전 / 폐부종"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#12 급성 심부전 / 폐부종 / 앱 체크리스트 키: dyspnea; crackles; BNP; CXR/POCUS",
+    "raw": {
+      "Checklist ID": "AK-095",
+      "체크 섹션": "ECG/혈액/검사",
+      "앱 체크리스트 키(원문)": "BNP",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "급성 심부전 / 폐부종",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#12 급성 심부전 / 폐부종 / 앱 체크리스트 키: dyspnea; crackles; BNP; CXR/POCUS"
+    }
+  },
+  {
+    "id": "AK-096",
+    "section": "ECG/혈액/검사",
+    "label": "COHb/troponin",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "일산화탄소 중독 관련 심근허혈"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#86 일산화탄소 중독 관련 심근허혈 / 앱 체크리스트 키: CO exposure; headache; multiple patients; COHb/troponin",
+    "raw": {
+      "Checklist ID": "AK-096",
+      "체크 섹션": "ECG/혈액/검사",
+      "앱 체크리스트 키(원문)": "COHb/troponin",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "일산화탄소 중독 관련 심근허혈",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#86 일산화탄소 중독 관련 심근허혈 / 앱 체크리스트 키: CO exposure; headache; multiple patients; COHb/troponin"
+    }
+  },
+  {
+    "id": "AK-097",
+    "section": "ECG/혈액/검사",
+    "label": "ECG/troponin",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "자극제 관련 관상동맥 허혈/연축"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#61 자극제 관련 관상동맥 허혈/연축 / 앱 체크리스트 키: stimulant use; hypertension/tachy; ECG/troponin",
+    "raw": {
+      "Checklist ID": "AK-097",
+      "체크 섹션": "ECG/혈액/검사",
+      "앱 체크리스트 키(원문)": "ECG/troponin",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "자극제 관련 관상동맥 허혈/연축",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#61 자극제 관련 관상동맥 허혈/연축 / 앱 체크리스트 키: stimulant use; hypertension/tachy; ECG/troponin"
+    }
+  },
+  {
+    "id": "AK-098",
+    "section": "ECG/혈액/검사",
+    "label": "ECG/troponin/renal/neuro",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "고혈압 응급증 관련 흉통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#18 고혈압 응급증 관련 흉통 / 앱 체크리스트 키: severe BP; organ damage; ECG/troponin/renal/neuro",
+    "raw": {
+      "Checklist ID": "AK-098",
+      "체크 섹션": "ECG/혈액/검사",
+      "앱 체크리스트 키(원문)": "ECG/troponin/renal/neuro",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "고혈압 응급증 관련 흉통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#18 고혈압 응급증 관련 흉통 / 앱 체크리스트 키: severe BP; organ damage; ECG/troponin/renal/neuro"
+    }
+  },
+  {
+    "id": "AK-099",
+    "section": "ECG/혈액/검사",
+    "label": "PCR",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "바이러스 폐렴 / COVID-19 / 인플루엔자"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#70 바이러스 폐렴 / COVID-19 / 인플루엔자 / 앱 체크리스트 키: viral syndrome; exposure; PCR; CXR",
+    "raw": {
+      "Checklist ID": "AK-099",
+      "체크 섹션": "ECG/혈액/검사",
+      "앱 체크리스트 키(원문)": "PCR",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "바이러스 폐렴 / COVID-19 / 인플루엔자",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#70 바이러스 폐렴 / COVID-19 / 인플루엔자 / 앱 체크리스트 키: viral syndrome; exposure; PCR; CXR"
+    }
+  },
+  {
+    "id": "AK-100",
+    "section": "ECG/혈액/검사",
+    "label": "VBG",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "과호흡증후군"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#55 과호흡증후군 / 앱 체크리스트 키: tachypnea; paresthesia; VBG; after rule-out",
+    "raw": {
+      "Checklist ID": "AK-100",
+      "체크 섹션": "ECG/혈액/검사",
+      "앱 체크리스트 키(원문)": "VBG",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "과호흡증후군",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#55 과호흡증후군 / 앱 체크리스트 키: tachypnea; paresthesia; VBG; after rule-out"
+    }
+  },
+  {
+    "id": "AK-101",
+    "section": "ECG/혈액/검사",
+    "label": "electrolytes",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "부정맥 관련 흉통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#16 부정맥 관련 흉통 / 앱 체크리스트 키: palpitation; syncope; ECG monitor; electrolytes",
+    "raw": {
+      "Checklist ID": "AK-101",
+      "체크 섹션": "ECG/혈액/검사",
+      "앱 체크리스트 키(원문)": "electrolytes",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "부정맥 관련 흉통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#16 부정맥 관련 흉통 / 앱 체크리스트 키: palpitation; syncope; ECG monitor; electrolytes"
+    }
+  },
+  {
+    "id": "AK-102",
+    "section": "ECG/혈액/검사",
+    "label": "headache",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "일산화탄소 중독 관련 심근허혈"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#86 일산화탄소 중독 관련 심근허혈 / 앱 체크리스트 키: CO exposure; headache; multiple patients; COHb/troponin",
+    "raw": {
+      "Checklist ID": "AK-102",
+      "체크 섹션": "ECG/혈액/검사",
+      "앱 체크리스트 키(원문)": "headache",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "일산화탄소 중독 관련 심근허혈",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#86 일산화탄소 중독 관련 심근허혈 / 앱 체크리스트 키: CO exposure; headache; multiple patients; COHb/troponin"
+    }
+  },
+  {
+    "id": "AK-103",
+    "section": "ECG/혈액/검사",
+    "label": "lipase",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "급성 췌장염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#41 급성 췌장염 / 앱 체크리스트 키: epigastric to back; lipase; alcohol/gallstone",
+    "raw": {
+      "Checklist ID": "AK-103",
+      "체크 섹션": "ECG/혈액/검사",
+      "앱 체크리스트 키(원문)": "lipase",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "급성 췌장염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#41 급성 췌장염 / 앱 체크리스트 키: epigastric to back; lipase; alcohol/gallstone"
+    }
+  },
+  {
+    "id": "AK-104",
+    "section": "ECG/혈액/검사",
+    "label": "troponin",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "심근염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#11 심근염 / 앱 체크리스트 키: viral prodrome; troponin; arrhythmia; echo/CMR",
+    "raw": {
+      "Checklist ID": "AK-104",
+      "체크 섹션": "ECG/혈액/검사",
+      "앱 체크리스트 키(원문)": "troponin",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "심근염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#11 심근염 / 앱 체크리스트 키: viral prodrome; troponin; arrhythmia; echo/CMR"
+    }
+  },
+  {
+    "id": "AK-105",
+    "section": "ECG/혈액/검사",
+    "label": "troponin rise/fall",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "2형 심근경색"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#58 2형 심근경색 / 앱 체크리스트 키: troponin rise/fall; anemia/hypoxia/sepsis/tachy",
+    "raw": {
+      "Checklist ID": "AK-105",
+      "체크 섹션": "ECG/혈액/검사",
+      "앱 체크리스트 키(원문)": "troponin rise/fall",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "2형 심근경색",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#58 2형 심근경색 / 앱 체크리스트 키: troponin rise/fall; anemia/hypoxia/sepsis/tachy"
+    }
+  },
+  {
+    "id": "AK-106",
+    "section": "영상/시술/확진",
+    "label": "CTA",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "흉부 대동맥류 파열 또는 누출",
+      "외상성 대혈관 손상"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#9 흉부 대동맥류 파열 또는 누출 / 앱 체크리스트 키: known aneurysm; sudden back/chest pain; CTA\n---\n#88 외상성 대혈관 손상 / 앱 체크리스트 키: high-energy trauma; widened mediastinum; CTA",
+    "raw": {
+      "Checklist ID": "AK-106",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "CTA",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "흉부 대동맥류 파열 또는 누출; 외상성 대혈관 손상",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#9 흉부 대동맥류 파열 또는 누출 / 앱 체크리스트 키: known aneurysm; sudden back/chest pain; CTA\n---\n#88 외상성 대혈관 손상 / 앱 체크리스트 키: high-energy trauma; widened mediastinum; CTA"
+    }
+  },
+  {
+    "id": "AK-107",
+    "section": "영상/시술/확진",
+    "label": "CTPA",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "폐색전증",
+      "폐경색"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#19 폐색전증 / 앱 체크리스트 키: pleuritic pain; dyspnea; DVT; Wells/PERC/D-dimer; CTPA\n---\n#26 폐경색 / 앱 체크리스트 키: PE symptoms; hemoptysis; wedge opacity; CTPA",
+    "raw": {
+      "Checklist ID": "AK-107",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "CTPA",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "폐색전증; 폐경색",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#19 폐색전증 / 앱 체크리스트 키: pleuritic pain; dyspnea; DVT; Wells/PERC/D-dimer; CTPA\n---\n#26 폐경색 / 앱 체크리스트 키: PE symptoms; hemoptysis; wedge opacity; CTPA"
+    }
+  },
+  {
+    "id": "AK-108",
+    "section": "영상/시술/확진",
+    "label": "eFAST/CXR/CT",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "외상성 기흉 / 혈흉",
+      "흉벽 타박상 / 외상 후 흉통"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#22 외상성 기흉 / 혈흉 / 앱 체크리스트 키: trauma; breath sound; eFAST/CXR/CT\n---\n#47 흉벽 타박상 / 외상 후 흉통 / 앱 체크리스트 키: trauma; ecchymosis; eFAST/CXR/CT",
+    "raw": {
+      "Checklist ID": "AK-108",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "eFAST/CXR/CT",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "외상성 기흉 / 혈흉; 흉벽 타박상 / 외상 후 흉통",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#22 외상성 기흉 / 혈흉 / 앱 체크리스트 키: trauma; breath sound; eFAST/CXR/CT\n---\n#47 흉벽 타박상 / 외상 후 흉통 / 앱 체크리스트 키: trauma; ecchymosis; eFAST/CXR/CT"
+    }
+  },
+  {
+    "id": "AK-109",
+    "section": "영상/시술/확진",
+    "label": "CT esophagram",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "식도파열"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#34 식도파열 / 앱 체크리스트 키: vomiting before pain; subcutaneous emphysema; CT esophagram",
+    "raw": {
+      "Checklist ID": "AK-109",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "CT esophagram",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "식도파열",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#34 식도파열 / 앱 체크리스트 키: vomiting before pain; subcutaneous emphysema; CT esophagram"
+    }
+  },
+  {
+    "id": "AK-110",
+    "section": "영상/시술/확진",
+    "label": "CT mediastinum",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "종격동염"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#72 종격동염 / 앱 체크리스트 키: esophageal rupture; post-op; fever sepsis; CT mediastinum",
+    "raw": {
+      "Checklist ID": "AK-110",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "CT mediastinum",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "종격동염",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#72 종격동염 / 앱 체크리스트 키: esophageal rupture; post-op; fever sepsis; CT mediastinum"
+    }
+  },
+  {
+    "id": "AK-111",
+    "section": "영상/시술/확진",
+    "label": "CTA aorta",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "급성 대동맥 박리"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#8 급성 대동맥 박리 / 앱 체크리스트 키: abrupt tearing; pulse deficit; neuro; CTA aorta",
+    "raw": {
+      "Checklist ID": "AK-111",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "CTA aorta",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "급성 대동맥 박리",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#8 급성 대동맥 박리 / 앱 체크리스트 키: abrupt tearing; pulse deficit; neuro; CTA aorta"
+    }
+  },
+  {
+    "id": "AK-112",
+    "section": "영상/시술/확진",
+    "label": "CTA protocol",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "급성 대동맥 증후군: 벽내혈종/관통성 궤양"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#59 급성 대동맥 증후군: 벽내혈종/관통성 궤양 / 앱 체크리스트 키: abrupt back pain; aortic risk; CTA protocol",
+    "raw": {
+      "Checklist ID": "AK-112",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "CTA protocol",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "급성 대동맥 증후군: 벽내혈종/관통성 궤양",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#59 급성 대동맥 증후군: 벽내혈종/관통성 궤양 / 앱 체크리스트 키: abrupt back pain; aortic risk; CTA protocol"
+    }
+  },
+  {
+    "id": "AK-113",
+    "section": "영상/시술/확진",
+    "label": "POCUS/echo",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "심장압전 독립 게이트"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#63 심장압전 독립 게이트 / 앱 체크리스트 키: hypotension; JVD; pulsus; POCUS/echo",
+    "raw": {
+      "Checklist ID": "AK-113",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "POCUS/echo",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "심장압전 독립 게이트",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#63 심장압전 독립 게이트 / 앱 체크리스트 키: hypotension; JVD; pulsus; POCUS/echo"
+    }
+  },
+  {
+    "id": "AK-114",
+    "section": "영상/시술/확진",
+    "label": "angiography",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "자발성 관상동맥 박리"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#7 자발성 관상동맥 박리 / 앱 체크리스트 키: young female ACS; postpartum; FMD; angiography",
+    "raw": {
+      "Checklist ID": "AK-114",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "angiography",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "자발성 관상동맥 박리",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#7 자발성 관상동맥 박리 / 앱 체크리스트 키: young female ACS; postpartum; FMD; angiography"
+    }
+  },
+  {
+    "id": "AK-115",
+    "section": "영상/시술/확진",
+    "label": "echo",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "심낭염 / 심낭삼출 / 심장압전"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#10 심낭염 / 심낭삼출 / 심장압전 / 앱 체크리스트 키: pleuritic/positional; rub; diffuse ST/PR; echo",
+    "raw": {
+      "Checklist ID": "AK-115",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "echo",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "심낭염 / 심낭삼출 / 심장압전",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#10 심낭염 / 심낭삼출 / 심장압전 / 앱 체크리스트 키: pleuritic/positional; rub; diffuse ST/PR; echo"
+    }
+  },
+  {
+    "id": "AK-116",
+    "section": "영상/시술/확진",
+    "label": "CXR",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 3,
+    "relatedDiagnosisNames": [
+      "폐렴",
+      "COPD 급성 악화",
+      "바이러스 폐렴 / COVID-19 / 인플루엔자"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#23 폐렴 / 앱 체크리스트 키: fever cough sputum; crackles; CXR\n---\n#29 COPD 급성 악화 / 앱 체크리스트 키: COPD history; sputum; ABG; CXR\n---\n#70 바이러스 폐렴 / COVID-19 / 인플루엔자 / 앱 체크리스트 키: viral syndrome; exposure; PCR; CXR",
+    "raw": {
+      "Checklist ID": "AK-116",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "CXR",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "3",
+      "관련 진단명": "폐렴; COPD 급성 악화; 바이러스 폐렴 / COVID-19 / 인플루엔자",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#23 폐렴 / 앱 체크리스트 키: fever cough sputum; crackles; CXR\n---\n#29 COPD 급성 악화 / 앱 체크리스트 키: COPD history; sputum; ABG; CXR\n---\n#70 바이러스 폐렴 / COVID-19 / 인플루엔자 / 앱 체크리스트 키: viral syndrome; exposure; PCR; CXR"
+    }
+  },
+  {
+    "id": "AK-117",
+    "section": "영상/시술/확진",
+    "label": "EGD",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 3,
+    "relatedDiagnosisNames": [
+      "식도염",
+      "Mallory-Weiss tear",
+      "소화성 궤양"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#32 식도염 / 앱 체크리스트 키: odynophagia; dysphagia; immunocompromise; EGD\n---\n#35 Mallory-Weiss tear / 앱 체크리스트 키: vomiting + hematemesis; EGD\n---\n#36 소화성 궤양 / 앱 체크리스트 키: epigastric burning; NSAID; melena; EGD",
+    "raw": {
+      "Checklist ID": "AK-117",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "EGD",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "3",
+      "관련 진단명": "식도염; Mallory-Weiss tear; 소화성 궤양",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#32 식도염 / 앱 체크리스트 키: odynophagia; dysphagia; immunocompromise; EGD\n---\n#35 Mallory-Weiss tear / 앱 체크리스트 키: vomiting + hematemesis; EGD\n---\n#36 소화성 궤양 / 앱 체크리스트 키: epigastric burning; NSAID; melena; EGD"
+    }
+  },
+  {
+    "id": "AK-118",
+    "section": "영상/시술/확진",
+    "label": "EGD biopsy",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "약제성/감염성/호산구성 식도염",
+      "식도암"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#75 약제성/감염성/호산구성 식도염 / 앱 체크리스트 키: pill history; odynophagia; immunocompromise; EGD biopsy\n---\n#76 식도암 / 앱 체크리스트 키: progressive dysphagia; weight loss; EGD biopsy",
+    "raw": {
+      "Checklist ID": "AK-118",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "EGD biopsy",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "약제성/감염성/호산구성 식도염; 식도암",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#75 약제성/감염성/호산구성 식도염 / 앱 체크리스트 키: pill history; odynophagia; immunocompromise; EGD biopsy\n---\n#76 식도암 / 앱 체크리스트 키: progressive dysphagia; weight loss; EGD biopsy"
+    }
+  },
+  {
+    "id": "AK-119",
+    "section": "영상/시술/확진",
+    "label": "TTE",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "대동맥판 협착",
+      "승모판 탈출증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#13 대동맥판 협착 / 앱 체크리스트 키: exertional chest pain/syncope; systolic murmur; TTE\n---\n#14 승모판 탈출증 / 앱 체크리스트 키: click/murmur; palpitations; TTE",
+    "raw": {
+      "Checklist ID": "AK-119",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "TTE",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "대동맥판 협착; 승모판 탈출증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#13 대동맥판 협착 / 앱 체크리스트 키: exertional chest pain/syncope; systolic murmur; TTE\n---\n#14 승모판 탈출증 / 앱 체크리스트 키: click/murmur; palpitations; TTE"
+    }
+  },
+  {
+    "id": "AK-120",
+    "section": "영상/시술/확진",
+    "label": "echo/CMR",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "심근염",
+      "비후성 심근병증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#11 심근염 / 앱 체크리스트 키: viral prodrome; troponin; arrhythmia; echo/CMR\n---\n#15 비후성 심근병증 / 앱 체크리스트 키: young exertional; syncope; family sudden death; echo/CMR",
+    "raw": {
+      "Checklist ID": "AK-120",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "echo/CMR",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "심근염; 비후성 심근병증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#11 심근염 / 앱 체크리스트 키: viral prodrome; troponin; arrhythmia; echo/CMR\n---\n#15 비후성 심근병증 / 앱 체크리스트 키: young exertional; syncope; family sudden death; echo/CMR"
+    }
+  },
+  {
+    "id": "AK-121",
+    "section": "영상/시술/확진",
+    "label": "manometry",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "식도경련 / 식도운동장애",
+      "이완불능증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#33 식도경련 / 식도운동장애 / 앱 체크리스트 키: dysphagia; temperature trigger; manometry\n---\n#74 이완불능증 / 앱 체크리스트 키: solid+liquid dysphagia; regurgitation; manometry",
+    "raw": {
+      "Checklist ID": "AK-121",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "manometry",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "식도경련 / 식도운동장애; 이완불능증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#33 식도경련 / 식도운동장애 / 앱 체크리스트 키: dysphagia; temperature trigger; manometry\n---\n#74 이완불능증 / 앱 체크리스트 키: solid+liquid dysphagia; regurgitation; manometry"
+    }
+  },
+  {
+    "id": "AK-122",
+    "section": "영상/시술/확진",
+    "label": "CCTA coronary anatomy",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "선천성 관상동맥 이상 / 심근교"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#65 선천성 관상동맥 이상 / 심근교 / 앱 체크리스트 키: young exertional; syncope; CCTA coronary anatomy",
+    "raw": {
+      "Checklist ID": "AK-122",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "CCTA coronary anatomy",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "선천성 관상동맥 이상 / 심근교",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#65 선천성 관상동맥 이상 / 심근교 / 앱 체크리스트 키: young exertional; syncope; CCTA coronary anatomy"
+    }
+  },
+  {
+    "id": "AK-123",
+    "section": "영상/시술/확진",
+    "label": "CCTA/stress test",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "안정형 협심증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#4 안정형 협심증 / 앱 체크리스트 키: exertional; rest relief; CCTA/stress test",
+    "raw": {
+      "Checklist ID": "AK-123",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "CCTA/stress test",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "안정형 협심증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#4 안정형 협심증 / 앱 체크리스트 키: exertional; rest relief; CCTA/stress test"
+    }
+  },
+  {
+    "id": "AK-124",
+    "section": "영상/시술/확진",
+    "label": "CMR/OCT",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "MINOCA"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#62 MINOCA / 앱 체크리스트 키: MI + nonobstructive coronaries; CMR/OCT",
+    "raw": {
+      "Checklist ID": "AK-124",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "CMR/OCT",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "MINOCA",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#62 MINOCA / 앱 체크리스트 키: MI + nonobstructive coronaries; CMR/OCT"
+    }
+  },
+  {
+    "id": "AK-125",
+    "section": "영상/시술/확진",
+    "label": "CT abdomen",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "비장경색"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#78 비장경색 / 앱 체크리스트 키: LUQ/left chest; AF/IE; CT abdomen",
+    "raw": {
+      "Checklist ID": "AK-125",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "CT abdomen",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "비장경색",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#78 비장경색 / 앱 체크리스트 키: LUQ/left chest; AF/IE; CT abdomen"
+    }
+  },
+  {
+    "id": "AK-126",
+    "section": "영상/시술/확진",
+    "label": "CT cavity",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "폐농양"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#71 폐농양 / 앱 체크리스트 키: subacute fever; foul sputum; CT cavity",
+    "raw": {
+      "Checklist ID": "AK-126",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "CT cavity",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "폐농양",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#71 폐농양 / 앱 체크리스트 키: subacute fever; foul sputum; CT cavity"
+    }
+  },
+  {
+    "id": "AK-127",
+    "section": "영상/시술/확진",
+    "label": "CT/CXR",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "폐좌상 / 동요흉"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#89 폐좌상 / 동요흉 / 앱 체크리스트 키: blunt trauma; hypoxia; CT/CXR; paradoxical movement",
+    "raw": {
+      "Checklist ID": "AK-127",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "CT/CXR",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "폐좌상 / 동요흉",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#89 폐좌상 / 동요흉 / 앱 체크리스트 키: blunt trauma; hypoxia; CT/CXR; paradoxical movement"
+    }
+  },
+  {
+    "id": "AK-128",
+    "section": "영상/시술/확진",
+    "label": "CT/MRI/culture",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "흉쇄관절 감염 / 골수염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#82 흉쇄관절 감염 / 골수염 / 앱 체크리스트 키: SC joint swelling; fever; IVDU/diabetes; CT/MRI/culture",
+    "raw": {
+      "Checklist ID": "AK-128",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "CT/MRI/culture",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "흉쇄관절 감염 / 골수염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#82 흉쇄관절 감염 / 골수염 / 앱 체크리스트 키: SC joint swelling; fever; IVDU/diabetes; CT/MRI/culture"
+    }
+  },
+  {
+    "id": "AK-129",
+    "section": "영상/시술/확진",
+    "label": "CT/barium/EGD",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "열공탈장"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#42 열공탈장 / 앱 체크리스트 키: postprandial; reflux; dysphagia; CT/barium/EGD",
+    "raw": {
+      "Checklist ID": "AK-129",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "CT/barium/EGD",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "열공탈장",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#42 열공탈장 / 앱 체크리스트 키: postprandial; reflux; dysphagia; CT/barium/EGD"
+    }
+  },
+  {
+    "id": "AK-130",
+    "section": "영상/시술/확진",
+    "label": "CXR/CT",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "늑골골절"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#46 늑골골절 / 앱 체크리스트 키: trauma/CPR/cough; focal tenderness; CXR/CT",
+    "raw": {
+      "Checklist ID": "AK-130",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "CXR/CT",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "늑골골절",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#46 늑골골절 / 앱 체크리스트 키: trauma/CPR/cough; focal tenderness; CXR/CT"
+    }
+  },
+  {
+    "id": "AK-131",
+    "section": "영상/시술/확진",
+    "label": "CXR/PE screen",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "흉막염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#24 흉막염 / 앱 체크리스트 키: pleuritic pain; rub; CXR/PE screen",
+    "raw": {
+      "Checklist ID": "AK-131",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "CXR/PE screen",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "흉막염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#24 흉막염 / 앱 체크리스트 키: pleuritic pain; rub; CXR/PE screen"
+    }
+  },
+  {
+    "id": "AK-132",
+    "section": "영상/시술/확진",
+    "label": "CXR/POCUS",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "급성 심부전 / 폐부종"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#12 급성 심부전 / 폐부종 / 앱 체크리스트 키: dyspnea; crackles; BNP; CXR/POCUS",
+    "raw": {
+      "Checklist ID": "AK-132",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "CXR/POCUS",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "급성 심부전 / 폐부종",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#12 급성 심부전 / 폐부종 / 앱 체크리스트 키: dyspnea; crackles; BNP; CXR/POCUS"
+    }
+  },
+  {
+    "id": "AK-133",
+    "section": "영상/시술/확진",
+    "label": "CXR/US",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "자연기흉"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#21 자연기흉 / 앱 체크리스트 키: sudden unilateral; tall thin/smoking; CXR/US",
+    "raw": {
+      "Checklist ID": "AK-133",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "CXR/US",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "자연기흉",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#21 자연기흉 / 앱 체크리스트 키: sudden unilateral; tall thin/smoking; CXR/US"
+    }
+  },
+  {
+    "id": "AK-134",
+    "section": "영상/시술/확진",
+    "label": "H pylori/EGD",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "위염 / 기능성 소화불량"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#37 위염 / 기능성 소화불량 / 앱 체크리스트 키: epigastric; alarm symptoms; H pylori/EGD",
+    "raw": {
+      "Checklist ID": "AK-134",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "H pylori/EGD",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "위염 / 기능성 소화불량",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#37 위염 / 기능성 소화불량 / 앱 체크리스트 키: epigastric; alarm symptoms; H pylori/EGD"
+    }
+  },
+  {
+    "id": "AK-135",
+    "section": "영상/시술/확진",
+    "label": "MRI",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "경추 또는 흉추 신경근병증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#49 경추 또는 흉추 신경근병증 / 앱 체크리스트 키: neck/back movement; neuro deficit; MRI",
+    "raw": {
+      "Checklist ID": "AK-135",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "MRI",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "경추 또는 흉추 신경근병증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#49 경추 또는 흉추 신경근병증 / 앱 체크리스트 키: neck/back movement; neuro deficit; MRI"
+    }
+  },
+  {
+    "id": "AK-136",
+    "section": "영상/시술/확진",
+    "label": "duplex/CTA",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "흉곽출구증후군"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#52 흉곽출구증후군 / 앱 체크리스트 키: arm symptoms; overhead; vascular signs; duplex/CTA",
+    "raw": {
+      "Checklist ID": "AK-136",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "duplex/CTA",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "흉곽출구증후군",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#52 흉곽출구증후군 / 앱 체크리스트 키: arm symptoms; overhead; vascular signs; duplex/CTA"
+    }
+  },
+  {
+    "id": "AK-137",
+    "section": "영상/시술/확진",
+    "label": "echo apical ballooning",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "스트레스성 심근병증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#17 스트레스성 심근병증 / 앱 체크리스트 키: stress trigger; postmenopausal; echo apical ballooning; ACS rule-out",
+    "raw": {
+      "Checklist ID": "AK-137",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "echo apical ballooning",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "스트레스성 심근병증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#17 스트레스성 심근병증 / 앱 체크리스트 키: stress trigger; postmenopausal; echo apical ballooning; ACS rule-out"
+    }
+  },
+  {
+    "id": "AK-138",
+    "section": "영상/시술/확진",
+    "label": "echo/RHC",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "폐고혈압 / 우심실 허혈"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#64 폐고혈압 / 우심실 허혈 / 앱 체크리스트 키: exertional syncope; RV signs; echo/RHC",
+    "raw": {
+      "Checklist ID": "AK-138",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "echo/RHC",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "폐고혈압 / 우심실 허혈",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#64 폐고혈압 / 우심실 허혈 / 앱 체크리스트 키: exertional syncope; RV signs; echo/RHC"
+    }
+  },
+  {
+    "id": "AK-139",
+    "section": "영상/시술/확진",
+    "label": "echo/TEE",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "관상동맥 색전/혈전증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#60 관상동맥 색전/혈전증 / 앱 체크리스트 키: AF/valve/IE; ACS with low CAD risk; echo/TEE",
+    "raw": {
+      "Checklist ID": "AK-139",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "echo/TEE",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "관상동맥 색전/혈전증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#60 관상동맥 색전/혈전증 / 앱 체크리스트 키: AF/valve/IE; ACS with low CAD risk; echo/TEE"
+    }
+  },
+  {
+    "id": "AK-140",
+    "section": "영상/시술/확진",
+    "label": "lactation",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "유방/흉벽 감염 또는 Mondor disease"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#87 유방/흉벽 감염 또는 Mondor disease / 앱 체크리스트 키: breast redness/mass; lactation; cord; US",
+    "raw": {
+      "Checklist ID": "AK-140",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "lactation",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "유방/흉벽 감염 또는 Mondor disease",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#87 유방/흉벽 감염 또는 Mondor disease / 앱 체크리스트 키: breast redness/mass; lactation; cord; US"
+    }
+  },
+  {
+    "id": "AK-141",
+    "section": "영상/시술/확진",
+    "label": "normal CXR after red flags",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "바이러스성 흉막염 / 유행성 흉통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#67 바이러스성 흉막염 / 유행성 흉통 / 앱 체크리스트 키: URI prodrome; pleuritic; normal CXR after red flags",
+    "raw": {
+      "Checklist ID": "AK-141",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "normal CXR after red flags",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "바이러스성 흉막염 / 유행성 흉통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#67 바이러스성 흉막염 / 유행성 흉통 / 앱 체크리스트 키: URI prodrome; pleuritic; normal CXR after red flags"
+    }
+  },
+  {
+    "id": "AK-142",
+    "section": "영상/시술/확진",
+    "label": "stimulant use",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "자극제 관련 관상동맥 허혈/연축"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#61 자극제 관련 관상동맥 허혈/연축 / 앱 체크리스트 키: stimulant use; hypertension/tachy; ECG/troponin",
+    "raw": {
+      "Checklist ID": "AK-142",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "stimulant use",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "자극제 관련 관상동맥 허혈/연축",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#61 자극제 관련 관상동맥 허혈/연축 / 앱 체크리스트 키: stimulant use; hypertension/tachy; ECG/troponin"
+    }
+  },
+  {
+    "id": "AK-143",
+    "section": "영상/시술/확진",
+    "label": "ultrasound/LFT",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "담석증 / 담도산통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#38 담석증 / 담도산통 / 앱 체크리스트 키: RUQ/epigastric; fatty meal; ultrasound/LFT",
+    "raw": {
+      "Checklist ID": "AK-143",
+      "체크 섹션": "영상/시술/확진",
+      "앱 체크리스트 키(원문)": "ultrasound/LFT",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "담석증 / 담도산통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#38 담석증 / 담도산통 / 앱 체크리스트 키: RUQ/epigastric; fatty meal; ultrasound/LFT"
+    }
+  },
+  {
+    "id": "AK-144",
+    "section": "Score/기준",
+    "label": "GRACE/HEART",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "비ST분절상승 심근경색"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#2 비ST분절상승 심근경색 / 앱 체크리스트 키: serial hs-cTn; ECG dynamic change; GRACE/HEART",
+    "raw": {
+      "Checklist ID": "AK-144",
+      "체크 섹션": "Score/기준",
+      "앱 체크리스트 키(원문)": "GRACE/HEART",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "비ST분절상승 심근경색",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#2 비ST분절상승 심근경색 / 앱 체크리스트 키: serial hs-cTn; ECG dynamic change; GRACE/HEART"
+    }
+  },
+  {
+    "id": "AK-145",
+    "section": "Score/기준",
+    "label": "Wells/PERC/D-dimer",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "폐색전증"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#19 폐색전증 / 앱 체크리스트 키: pleuritic pain; dyspnea; DVT; Wells/PERC/D-dimer; CTPA",
+    "raw": {
+      "Checklist ID": "AK-145",
+      "체크 섹션": "Score/기준",
+      "앱 체크리스트 키(원문)": "Wells/PERC/D-dimer",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "폐색전증",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#19 폐색전증 / 앱 체크리스트 키: pleuritic pain; dyspnea; DVT; Wells/PERC/D-dimer; CTPA"
+    }
+  },
+  {
+    "id": "AK-146",
+    "section": "Score/기준",
+    "label": "fever sepsis",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "종격동염"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#72 종격동염 / 앱 체크리스트 키: esophageal rupture; post-op; fever sepsis; CT mediastinum",
+    "raw": {
+      "Checklist ID": "AK-146",
+      "체크 섹션": "Score/기준",
+      "앱 체크리스트 키(원문)": "fever sepsis",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "종격동염",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#72 종격동염 / 앱 체크리스트 키: esophageal rupture; post-op; fever sepsis; CT mediastinum"
+    }
+  },
+  {
+    "id": "AK-147",
+    "section": "Score/기준",
+    "label": "Rome",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "기능성 흉통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#56 기능성 흉통 / 앱 체크리스트 키: noncardiac recurrent; normal workup; Rome",
+    "raw": {
+      "Checklist ID": "AK-147",
+      "체크 섹션": "Score/기준",
+      "앱 체크리스트 키(원문)": "Rome",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "기능성 흉통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#56 기능성 흉통 / 앱 체크리스트 키: noncardiac recurrent; normal workup; Rome"
+    }
+  },
+  {
+    "id": "AK-148",
+    "section": "Score/기준",
+    "label": "Tokyo criteria",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "급성 담낭염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#39 급성 담낭염 / 앱 체크리스트 키: RUQ pain; Murphy; fever; US; Tokyo criteria",
+    "raw": {
+      "Checklist ID": "AK-148",
+      "체크 섹션": "Score/기준",
+      "앱 체크리스트 키(원문)": "Tokyo criteria",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "급성 담낭염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#39 급성 담낭염 / 앱 체크리스트 키: RUQ pain; Murphy; fever; US; Tokyo criteria"
+    }
+  },
+  {
+    "id": "AK-149",
+    "section": "Score/기준",
+    "label": "URI prodrome",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "바이러스성 흉막염 / 유행성 흉통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#67 바이러스성 흉막염 / 유행성 흉통 / 앱 체크리스트 키: URI prodrome; pleuritic; normal CXR after red flags",
+    "raw": {
+      "Checklist ID": "AK-149",
+      "체크 섹션": "Score/기준",
+      "앱 체크리스트 키(원문)": "URI prodrome",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "바이러스성 흉막염 / 유행성 흉통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#67 바이러스성 흉막염 / 유행성 흉통 / 앱 체크리스트 키: URI prodrome; pleuritic; normal CXR after red flags"
+    }
+  },
+  {
+    "id": "AK-150",
+    "section": "Score/기준",
+    "label": "anemia/hypoxia/sepsis/tachy",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "2형 심근경색"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#58 2형 심근경색 / 앱 체크리스트 키: troponin rise/fall; anemia/hypoxia/sepsis/tachy",
+    "raw": {
+      "Checklist ID": "AK-150",
+      "체크 섹션": "Score/기준",
+      "앱 체크리스트 키(원문)": "anemia/hypoxia/sepsis/tachy",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "2형 심근경색",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#58 2형 심근경색 / 앱 체크리스트 키: troponin rise/fall; anemia/hypoxia/sepsis/tachy"
+    }
+  },
+  {
+    "id": "AK-151",
+    "section": "Score/기준",
+    "label": "heartburn",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "위식도역류질환"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#31 위식도역류질환 / 앱 체크리스트 키: heartburn; regurgitation; meal/lying; alarm symptoms",
+    "raw": {
+      "Checklist ID": "AK-151",
+      "체크 섹션": "Score/기준",
+      "앱 체크리스트 키(원문)": "heartburn",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "위식도역류질환",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#31 위식도역류질환 / 앱 체크리스트 키: heartburn; regurgitation; meal/lying; alarm symptoms"
+    }
+  },
+  {
+    "id": "AK-152",
+    "section": "Score/기준",
+    "label": "viral prodrome",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "심근염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#11 심근염 / 앱 체크리스트 키: viral prodrome; troponin; arrhythmia; echo/CMR",
+    "raw": {
+      "Checklist ID": "AK-152",
+      "체크 섹션": "Score/기준",
+      "앱 체크리스트 키(원문)": "viral prodrome",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "심근염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#11 심근염 / 앱 체크리스트 키: viral prodrome; troponin; arrhythmia; echo/CMR"
+    }
+  },
+  {
+    "id": "AK-153",
+    "section": "Score/기준",
+    "label": "viral syndrome",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "바이러스 폐렴 / COVID-19 / 인플루엔자"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#70 바이러스 폐렴 / COVID-19 / 인플루엔자 / 앱 체크리스트 키: viral syndrome; exposure; PCR; CXR",
+    "raw": {
+      "Checklist ID": "AK-153",
+      "체크 섹션": "Score/기준",
+      "앱 체크리스트 키(원문)": "viral syndrome",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "바이러스 폐렴 / COVID-19 / 인플루엔자",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#70 바이러스 폐렴 / COVID-19 / 인플루엔자 / 앱 체크리스트 키: viral syndrome; exposure; PCR; CXR"
+    }
+  },
+  {
+    "id": "AK-154",
+    "section": "위장관/식도",
+    "label": "fever jaundice RUQ",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "담관염"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#40 담관염 / 앱 체크리스트 키: fever jaundice RUQ; LFT; biliary dilation; drainage",
+    "raw": {
+      "Checklist ID": "AK-154",
+      "체크 섹션": "위장관/식도",
+      "앱 체크리스트 키(원문)": "fever jaundice RUQ",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "담관염",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#40 담관염 / 앱 체크리스트 키: fever jaundice RUQ; LFT; biliary dilation; drainage"
+    }
+  },
+  {
+    "id": "AK-155",
+    "section": "위장관/식도",
+    "label": "sudden epigastric",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "천공성 소화성 궤양"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#73 천공성 소화성 궤양 / 앱 체크리스트 키: sudden epigastric; peritonitis; free air; CT",
+    "raw": {
+      "Checklist ID": "AK-155",
+      "체크 섹션": "위장관/식도",
+      "앱 체크리스트 키(원문)": "sudden epigastric",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "천공성 소화성 궤양",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#73 천공성 소화성 궤양 / 앱 체크리스트 키: sudden epigastric; peritonitis; free air; CT"
+    }
+  },
+  {
+    "id": "AK-156",
+    "section": "위장관/식도",
+    "label": "vomiting before pain",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "식도파열"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#34 식도파열 / 앱 체크리스트 키: vomiting before pain; subcutaneous emphysema; CT esophagram",
+    "raw": {
+      "Checklist ID": "AK-156",
+      "체크 섹션": "위장관/식도",
+      "앱 체크리스트 키(원문)": "vomiting before pain",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "식도파열",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#34 식도파열 / 앱 체크리스트 키: vomiting before pain; subcutaneous emphysema; CT esophagram"
+    }
+  },
+  {
+    "id": "AK-157",
+    "section": "위장관/식도",
+    "label": "dysphagia",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 3,
+    "relatedDiagnosisNames": [
+      "식도염",
+      "식도경련 / 식도운동장애",
+      "열공탈장"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#32 식도염 / 앱 체크리스트 키: odynophagia; dysphagia; immunocompromise; EGD\n---\n#33 식도경련 / 식도운동장애 / 앱 체크리스트 키: dysphagia; temperature trigger; manometry\n---\n#42 열공탈장 / 앱 체크리스트 키: postprandial; reflux; dysphagia; CT/barium/EGD",
+    "raw": {
+      "Checklist ID": "AK-157",
+      "체크 섹션": "위장관/식도",
+      "앱 체크리스트 키(원문)": "dysphagia",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "3",
+      "관련 진단명": "식도염; 식도경련 / 식도운동장애; 열공탈장",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#32 식도염 / 앱 체크리스트 키: odynophagia; dysphagia; immunocompromise; EGD\n---\n#33 식도경련 / 식도운동장애 / 앱 체크리스트 키: dysphagia; temperature trigger; manometry\n---\n#42 열공탈장 / 앱 체크리스트 키: postprandial; reflux; dysphagia; CT/barium/EGD"
+    }
+  },
+  {
+    "id": "AK-158",
+    "section": "위장관/식도",
+    "label": "odynophagia",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "식도염",
+      "약제성/감염성/호산구성 식도염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#32 식도염 / 앱 체크리스트 키: odynophagia; dysphagia; immunocompromise; EGD\n---\n#75 약제성/감염성/호산구성 식도염 / 앱 체크리스트 키: pill history; odynophagia; immunocompromise; EGD biopsy",
+    "raw": {
+      "Checklist ID": "AK-158",
+      "체크 섹션": "위장관/식도",
+      "앱 체크리스트 키(원문)": "odynophagia",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "식도염; 약제성/감염성/호산구성 식도염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#32 식도염 / 앱 체크리스트 키: odynophagia; dysphagia; immunocompromise; EGD\n---\n#75 약제성/감염성/호산구성 식도염 / 앱 체크리스트 키: pill history; odynophagia; immunocompromise; EGD biopsy"
+    }
+  },
+  {
+    "id": "AK-159",
+    "section": "위장관/식도",
+    "label": "regurgitation",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "위식도역류질환",
+      "이완불능증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#31 위식도역류질환 / 앱 체크리스트 키: heartburn; regurgitation; meal/lying; alarm symptoms\n---\n#74 이완불능증 / 앱 체크리스트 키: solid+liquid dysphagia; regurgitation; manometry",
+    "raw": {
+      "Checklist ID": "AK-159",
+      "체크 섹션": "위장관/식도",
+      "앱 체크리스트 키(원문)": "regurgitation",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "위식도역류질환; 이완불능증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#31 위식도역류질환 / 앱 체크리스트 키: heartburn; regurgitation; meal/lying; alarm symptoms\n---\n#74 이완불능증 / 앱 체크리스트 키: solid+liquid dysphagia; regurgitation; manometry"
+    }
+  },
+  {
+    "id": "AK-160",
+    "section": "위장관/식도",
+    "label": "RUQ pain",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "급성 담낭염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#39 급성 담낭염 / 앱 체크리스트 키: RUQ pain; Murphy; fever; US; Tokyo criteria",
+    "raw": {
+      "Checklist ID": "AK-160",
+      "체크 섹션": "위장관/식도",
+      "앱 체크리스트 키(원문)": "RUQ pain",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "급성 담낭염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#39 급성 담낭염 / 앱 체크리스트 키: RUQ pain; Murphy; fever; US; Tokyo criteria"
+    }
+  },
+  {
+    "id": "AK-161",
+    "section": "위장관/식도",
+    "label": "RUQ/epigastric",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "담석증 / 담도산통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#38 담석증 / 담도산통 / 앱 체크리스트 키: RUQ/epigastric; fatty meal; ultrasound/LFT",
+    "raw": {
+      "Checklist ID": "AK-161",
+      "체크 섹션": "위장관/식도",
+      "앱 체크리스트 키(원문)": "RUQ/epigastric",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "담석증 / 담도산통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#38 담석증 / 담도산통 / 앱 체크리스트 키: RUQ/epigastric; fatty meal; ultrasound/LFT"
+    }
+  },
+  {
+    "id": "AK-162",
+    "section": "위장관/식도",
+    "label": "RUQ/shoulder",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "횡격막하 농양 / 간농양"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#79 횡격막하 농양 / 간농양 / 앱 체크리스트 키: fever; RUQ/shoulder; post-op; CT/US",
+    "raw": {
+      "Checklist ID": "AK-162",
+      "체크 섹션": "위장관/식도",
+      "앱 체크리스트 키(원문)": "RUQ/shoulder",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "횡격막하 농양 / 간농양",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#79 횡격막하 농양 / 간농양 / 앱 체크리스트 키: fever; RUQ/shoulder; post-op; CT/US"
+    }
+  },
+  {
+    "id": "AK-163",
+    "section": "위장관/식도",
+    "label": "epigastric",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "위염 / 기능성 소화불량"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#37 위염 / 기능성 소화불량 / 앱 체크리스트 키: epigastric; alarm symptoms; H pylori/EGD",
+    "raw": {
+      "Checklist ID": "AK-163",
+      "체크 섹션": "위장관/식도",
+      "앱 체크리스트 키(원문)": "epigastric",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "위염 / 기능성 소화불량",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#37 위염 / 기능성 소화불량 / 앱 체크리스트 키: epigastric; alarm symptoms; H pylori/EGD"
+    }
+  },
+  {
+    "id": "AK-164",
+    "section": "위장관/식도",
+    "label": "epigastric burning",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "소화성 궤양"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#36 소화성 궤양 / 앱 체크리스트 키: epigastric burning; NSAID; melena; EGD",
+    "raw": {
+      "Checklist ID": "AK-164",
+      "체크 섹션": "위장관/식도",
+      "앱 체크리스트 키(원문)": "epigastric burning",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "소화성 궤양",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#36 소화성 궤양 / 앱 체크리스트 키: epigastric burning; NSAID; melena; EGD"
+    }
+  },
+  {
+    "id": "AK-165",
+    "section": "위장관/식도",
+    "label": "epigastric to back",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "급성 췌장염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#41 급성 췌장염 / 앱 체크리스트 키: epigastric to back; lipase; alcohol/gallstone",
+    "raw": {
+      "Checklist ID": "AK-165",
+      "체크 섹션": "위장관/식도",
+      "앱 체크리스트 키(원문)": "epigastric to back",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "급성 췌장염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#41 급성 췌장염 / 앱 체크리스트 키: epigastric to back; lipase; alcohol/gallstone"
+    }
+  },
+  {
+    "id": "AK-166",
+    "section": "위장관/식도",
+    "label": "fatty meal",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "담석증 / 담도산통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#38 담석증 / 담도산통 / 앱 체크리스트 키: RUQ/epigastric; fatty meal; ultrasound/LFT",
+    "raw": {
+      "Checklist ID": "AK-166",
+      "체크 섹션": "위장관/식도",
+      "앱 체크리스트 키(원문)": "fatty meal",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "담석증 / 담도산통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#38 담석증 / 담도산통 / 앱 체크리스트 키: RUQ/epigastric; fatty meal; ultrasound/LFT"
+    }
+  },
+  {
+    "id": "AK-167",
+    "section": "위장관/식도",
+    "label": "melena",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "소화성 궤양"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#36 소화성 궤양 / 앱 체크리스트 키: epigastric burning; NSAID; melena; EGD",
+    "raw": {
+      "Checklist ID": "AK-167",
+      "체크 섹션": "위장관/식도",
+      "앱 체크리스트 키(원문)": "melena",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "소화성 궤양",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#36 소화성 궤양 / 앱 체크리스트 키: epigastric burning; NSAID; melena; EGD"
+    }
+  },
+  {
+    "id": "AK-168",
+    "section": "위장관/식도",
+    "label": "progressive dysphagia",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "식도암"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#76 식도암 / 앱 체크리스트 키: progressive dysphagia; weight loss; EGD biopsy",
+    "raw": {
+      "Checklist ID": "AK-168",
+      "체크 섹션": "위장관/식도",
+      "앱 체크리스트 키(원문)": "progressive dysphagia",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "식도암",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#76 식도암 / 앱 체크리스트 키: progressive dysphagia; weight loss; EGD biopsy"
+    }
+  },
+  {
+    "id": "AK-169",
+    "section": "위장관/식도",
+    "label": "severe epigastric/chest",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "위염전 / 위확장"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#77 위염전 / 위확장 / 앱 체크리스트 키: severe epigastric/chest; retching; NG failure; CT",
+    "raw": {
+      "Checklist ID": "AK-169",
+      "체크 섹션": "위장관/식도",
+      "앱 체크리스트 키(원문)": "severe epigastric/chest",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "위염전 / 위확장",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#77 위염전 / 위확장 / 앱 체크리스트 키: severe epigastric/chest; retching; NG failure; CT"
+    }
+  },
+  {
+    "id": "AK-170",
+    "section": "위장관/식도",
+    "label": "solid+liquid dysphagia",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "이완불능증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#74 이완불능증 / 앱 체크리스트 키: solid+liquid dysphagia; regurgitation; manometry",
+    "raw": {
+      "Checklist ID": "AK-170",
+      "체크 섹션": "위장관/식도",
+      "앱 체크리스트 키(원문)": "solid+liquid dysphagia",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "이완불능증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#74 이완불능증 / 앱 체크리스트 키: solid+liquid dysphagia; regurgitation; manometry"
+    }
+  },
+  {
+    "id": "AK-171",
+    "section": "위장관/식도",
+    "label": "vomiting",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "감돈/교액성 식도열공·횡격막 탈장"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#90 감돈/교액성 식도열공·횡격막 탈장 / 앱 체크리스트 키: postprandial severe pain; vomiting; hernia history; CT",
+    "raw": {
+      "Checklist ID": "AK-171",
+      "체크 섹션": "위장관/식도",
+      "앱 체크리스트 키(원문)": "vomiting",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "감돈/교액성 식도열공·횡격막 탈장",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#90 감돈/교액성 식도열공·횡격막 탈장 / 앱 체크리스트 키: postprandial severe pain; vomiting; hernia history; CT"
+    }
+  },
+  {
+    "id": "AK-172",
+    "section": "위장관/식도",
+    "label": "vomiting + hematemesis",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "Mallory-Weiss tear"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#35 Mallory-Weiss tear / 앱 체크리스트 키: vomiting + hematemesis; EGD",
+    "raw": {
+      "Checklist ID": "AK-172",
+      "체크 섹션": "위장관/식도",
+      "앱 체크리스트 키(원문)": "vomiting + hematemesis",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "Mallory-Weiss tear",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#35 Mallory-Weiss tear / 앱 체크리스트 키: vomiting + hematemesis; EGD"
+    }
+  },
+  {
+    "id": "AK-173",
+    "section": "위장관/식도",
+    "label": "vomiting/asthma",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "종격동기종 / 기종격"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#27 종격동기종 / 기종격 / 앱 체크리스트 키: subcutaneous emphysema; vomiting/asthma; CT",
+    "raw": {
+      "Checklist ID": "AK-173",
+      "체크 섹션": "위장관/식도",
+      "앱 체크리스트 키(원문)": "vomiting/asthma",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "종격동기종 / 기종격",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#27 종격동기종 / 기종격 / 앱 체크리스트 키: subcutaneous emphysema; vomiting/asthma; CT"
+    }
+  },
+  {
+    "id": "AK-174",
+    "section": "근골격/신경/흉벽",
+    "label": "reproducible",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "흉벽 근육통 / 근육염좌",
+      "검상돌기통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#45 흉벽 근육통 / 근육염좌 / 앱 체크리스트 키: movement-related; reproducible; trauma/exertion\n---\n#83 검상돌기통 / 앱 체크리스트 키: xiphoid focal tenderness; reproducible",
+    "raw": {
+      "Checklist ID": "AK-174",
+      "체크 섹션": "근골격/신경/흉벽",
+      "앱 체크리스트 키(원문)": "reproducible",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "흉벽 근육통 / 근육염좌; 검상돌기통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#45 흉벽 근육통 / 근육염좌 / 앱 체크리스트 키: movement-related; reproducible; trauma/exertion\n---\n#83 검상돌기통 / 앱 체크리스트 키: xiphoid focal tenderness; reproducible"
+    }
+  },
+  {
+    "id": "AK-175",
+    "section": "근골격/신경/흉벽",
+    "label": "dermatomal",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "늑간신경통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#48 늑간신경통 / 앱 체크리스트 키: dermatomal; neuropathic; zoster/trauma",
+    "raw": {
+      "Checklist ID": "AK-175",
+      "체크 섹션": "근골격/신경/흉벽",
+      "앱 체크리스트 키(원문)": "dermatomal",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "늑간신경통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#48 늑간신경통 / 앱 체크리스트 키: dermatomal; neuropathic; zoster/trauma"
+    }
+  },
+  {
+    "id": "AK-176",
+    "section": "근골격/신경/흉벽",
+    "label": "dermatomal pain",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "대상포진"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#50 대상포진 / 앱 체크리스트 키: dermatomal pain; vesicles; immunosuppression",
+    "raw": {
+      "Checklist ID": "AK-176",
+      "체크 섹션": "근골격/신경/흉벽",
+      "앱 체크리스트 키(원문)": "dermatomal pain",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "대상포진",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#50 대상포진 / 앱 체크리스트 키: dermatomal pain; vesicles; immunosuppression"
+    }
+  },
+  {
+    "id": "AK-177",
+    "section": "근골격/신경/흉벽",
+    "label": "lower rib pain",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "갈비뼈 미끄럼 증후군"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#81 갈비뼈 미끄럼 증후군 / 앱 체크리스트 키: lower rib pain; clicking; hooking maneuver",
+    "raw": {
+      "Checklist ID": "AK-177",
+      "체크 섹션": "근골격/신경/흉벽",
+      "앱 체크리스트 키(원문)": "lower rib pain",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "갈비뼈 미끄럼 증후군",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#81 갈비뼈 미끄럼 증후군 / 앱 체크리스트 키: lower rib pain; clicking; hooking maneuver"
+    }
+  },
+  {
+    "id": "AK-178",
+    "section": "근골격/신경/흉벽",
+    "label": "movement-related",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "흉벽 근육통 / 근육염좌"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#45 흉벽 근육통 / 근육염좌 / 앱 체크리스트 키: movement-related; reproducible; trauma/exertion",
+    "raw": {
+      "Checklist ID": "AK-178",
+      "체크 섹션": "근골격/신경/흉벽",
+      "앱 체크리스트 키(원문)": "movement-related",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "흉벽 근육통 / 근육염좌",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#45 흉벽 근육통 / 근육염좌 / 앱 체크리스트 키: movement-related; reproducible; trauma/exertion"
+    }
+  },
+  {
+    "id": "AK-179",
+    "section": "근골격/신경/흉벽",
+    "label": "overhead",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "흉곽출구증후군"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#52 흉곽출구증후군 / 앱 체크리스트 키: arm symptoms; overhead; vascular signs; duplex/CTA",
+    "raw": {
+      "Checklist ID": "AK-179",
+      "체크 섹션": "근골격/신경/흉벽",
+      "앱 체크리스트 키(원문)": "overhead",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "흉곽출구증후군",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#52 흉곽출구증후군 / 앱 체크리스트 키: arm symptoms; overhead; vascular signs; duplex/CTA"
+    }
+  },
+  {
+    "id": "AK-180",
+    "section": "근골격/신경/흉벽",
+    "label": "spine imaging",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "흉추 압박골절"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#80 흉추 압박골절 / 앱 체크리스트 키: elderly/osteoporosis; back tenderness; spine imaging",
+    "raw": {
+      "Checklist ID": "AK-180",
+      "체크 섹션": "근골격/신경/흉벽",
+      "앱 체크리스트 키(원문)": "spine imaging",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "흉추 압박골절",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#80 흉추 압박골절 / 앱 체크리스트 키: elderly/osteoporosis; back tenderness; spine imaging"
+    }
+  },
+  {
+    "id": "AK-181",
+    "section": "정신/기능",
+    "label": "excessive health anxiety",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "신체증상장애 / 스트레스 관련 흉통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#57 신체증상장애 / 스트레스 관련 흉통 / 앱 체크리스트 키: recurrent symptoms; excessive health anxiety; after safe rule-out",
+    "raw": {
+      "Checklist ID": "AK-181",
+      "체크 섹션": "정신/기능",
+      "앱 체크리스트 키(원문)": "excessive health anxiety",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "신체증상장애 / 스트레스 관련 흉통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#57 신체증상장애 / 스트레스 관련 흉통 / 앱 체크리스트 키: recurrent symptoms; excessive health anxiety; after safe rule-out"
+    }
+  },
+  {
+    "id": "AK-182",
+    "section": "정신/기능",
+    "label": "fear/palpitations",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "공황발작 / 공황장애"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#53 공황발작 / 공황장애 / 앱 체크리스트 키: fear/palpitations; hyperventilation; after red flags ruled out",
+    "raw": {
+      "Checklist ID": "AK-182",
+      "체크 섹션": "정신/기능",
+      "앱 체크리스트 키(원문)": "fear/palpitations",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "공황발작 / 공황장애",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#53 공황발작 / 공황장애 / 앱 체크리스트 키: fear/palpitations; hyperventilation; after red flags ruled out"
+    }
+  },
+  {
+    "id": "AK-183",
+    "section": "정신/기능",
+    "label": "hyperventilation",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "공황발작 / 공황장애"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#53 공황발작 / 공황장애 / 앱 체크리스트 키: fear/palpitations; hyperventilation; after red flags ruled out",
+    "raw": {
+      "Checklist ID": "AK-183",
+      "체크 섹션": "정신/기능",
+      "앱 체크리스트 키(원문)": "hyperventilation",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "공황발작 / 공황장애",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#53 공황발작 / 공황장애 / 앱 체크리스트 키: fear/palpitations; hyperventilation; after red flags ruled out"
+    }
+  },
+  {
+    "id": "AK-184",
+    "section": "기타",
+    "label": "CT",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 4,
+    "relatedDiagnosisNames": [
+      "종격동기종 / 기종격",
+      "천공성 소화성 궤양",
+      "위염전 / 위확장",
+      "감돈/교액성 식도열공·횡격막 탈장"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#27 종격동기종 / 기종격 / 앱 체크리스트 키: subcutaneous emphysema; vomiting/asthma; CT\n---\n#73 천공성 소화성 궤양 / 앱 체크리스트 키: sudden epigastric; peritonitis; free air; CT\n---\n#77 위염전 / 위확장 / 앱 체크리스트 키: severe epigastric/chest; retching; NG failure; CT",
+    "raw": {
+      "Checklist ID": "AK-184",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "CT",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "4",
+      "관련 진단명": "종격동기종 / 기종격; 천공성 소화성 궤양; 위염전 / 위확장; 감돈/교액성 식도열공·횡격막 탈장",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#27 종격동기종 / 기종격 / 앱 체크리스트 키: subcutaneous emphysema; vomiting/asthma; CT\n---\n#73 천공성 소화성 궤양 / 앱 체크리스트 키: sudden epigastric; peritonitis; free air; CT\n---\n#77 위염전 / 위확장 / 앱 체크리스트 키: severe epigastric/chest; retching; NG failure; CT"
+    }
+  },
+  {
+    "id": "AK-185",
+    "section": "기타",
+    "label": "hypoxia",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "겸상적혈구 급성흉부증후군",
+      "폐좌상 / 동요흉"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#69 겸상적혈구 급성흉부증후군 / 앱 체크리스트 키: SCD; fever/chest pain; new infiltrate; hypoxia\n---\n#89 폐좌상 / 동요흉 / 앱 체크리스트 키: blunt trauma; hypoxia; CT/CXR; paradoxical movement",
+    "raw": {
+      "Checklist ID": "AK-185",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "hypoxia",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "겸상적혈구 급성흉부증후군; 폐좌상 / 동요흉",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#69 겸상적혈구 급성흉부증후군 / 앱 체크리스트 키: SCD; fever/chest pain; new infiltrate; hypoxia\n---\n#89 폐좌상 / 동요흉 / 앱 체크리스트 키: blunt trauma; hypoxia; CT/CXR; paradoxical movement"
+    }
+  },
+  {
+    "id": "AK-186",
+    "section": "기타",
+    "label": "post-op",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "종격동염",
+      "횡격막하 농양 / 간농양"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#72 종격동염 / 앱 체크리스트 키: esophageal rupture; post-op; fever sepsis; CT mediastinum\n---\n#79 횡격막하 농양 / 간농양 / 앱 체크리스트 키: fever; RUQ/shoulder; post-op; CT/US",
+    "raw": {
+      "Checklist ID": "AK-186",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "post-op",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "종격동염; 횡격막하 농양 / 간농양",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#72 종격동염 / 앱 체크리스트 키: esophageal rupture; post-op; fever sepsis; CT mediastinum\n---\n#79 횡격막하 농양 / 간농양 / 앱 체크리스트 키: fever; RUQ/shoulder; post-op; CT/US"
+    }
+  },
+  {
+    "id": "AK-187",
+    "section": "기타",
+    "label": "ECG",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "ST분절상승 심근경색"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#1 ST분절상승 심근경색 / 앱 체크리스트 키: ECG; serial troponin; ACS risk; radiation; diaphoresis",
+    "raw": {
+      "Checklist ID": "AK-187",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "ECG",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "ST분절상승 심근경색",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#1 ST분절상승 심근경색 / 앱 체크리스트 키: ECG; serial troponin; ACS risk; radiation; diaphoresis"
+    }
+  },
+  {
+    "id": "AK-188",
+    "section": "기타",
+    "label": "ECG dynamic change",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "비ST분절상승 심근경색"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#2 비ST분절상승 심근경색 / 앱 체크리스트 키: serial hs-cTn; ECG dynamic change; GRACE/HEART",
+    "raw": {
+      "Checklist ID": "AK-188",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "ECG dynamic change",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "비ST분절상승 심근경색",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#2 비ST분절상승 심근경색 / 앱 체크리스트 키: serial hs-cTn; ECG dynamic change; GRACE/HEART"
+    }
+  },
+  {
+    "id": "AK-189",
+    "section": "기타",
+    "label": "abrupt tearing",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "급성 대동맥 박리"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#8 급성 대동맥 박리 / 앱 체크리스트 키: abrupt tearing; pulse deficit; neuro; CTA aorta",
+    "raw": {
+      "Checklist ID": "AK-189",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "abrupt tearing",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "급성 대동맥 박리",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#8 급성 대동맥 박리 / 앱 체크리스트 키: abrupt tearing; pulse deficit; neuro; CTA aorta"
+    }
+  },
+  {
+    "id": "AK-190",
+    "section": "기타",
+    "label": "biliary dilation",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "담관염"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#40 담관염 / 앱 체크리스트 키: fever jaundice RUQ; LFT; biliary dilation; drainage",
+    "raw": {
+      "Checklist ID": "AK-190",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "biliary dilation",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "담관염",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#40 담관염 / 앱 체크리스트 키: fever jaundice RUQ; LFT; biliary dilation; drainage"
+    }
+  },
+  {
+    "id": "AK-191",
+    "section": "기타",
+    "label": "diffuse ST/PR",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "심낭염 / 심낭삼출 / 심장압전"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#10 심낭염 / 심낭삼출 / 심장압전 / 앱 체크리스트 키: pleuritic/positional; rub; diffuse ST/PR; echo",
+    "raw": {
+      "Checklist ID": "AK-191",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "diffuse ST/PR",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "심낭염 / 심낭삼출 / 심장압전",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#10 심낭염 / 심낭삼출 / 심장압전 / 앱 체크리스트 키: pleuritic/positional; rub; diffuse ST/PR; echo"
+    }
+  },
+  {
+    "id": "AK-192",
+    "section": "기타",
+    "label": "drainage",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "담관염"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#40 담관염 / 앱 체크리스트 키: fever jaundice RUQ; LFT; biliary dilation; drainage",
+    "raw": {
+      "Checklist ID": "AK-192",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "drainage",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "담관염",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#40 담관염 / 앱 체크리스트 키: fever jaundice RUQ; LFT; biliary dilation; drainage"
+    }
+  },
+  {
+    "id": "AK-193",
+    "section": "기타",
+    "label": "esophageal rupture",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "종격동염"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#72 종격동염 / 앱 체크리스트 키: esophageal rupture; post-op; fever sepsis; CT mediastinum",
+    "raw": {
+      "Checklist ID": "AK-193",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "esophageal rupture",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "종격동염",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#72 종격동염 / 앱 체크리스트 키: esophageal rupture; post-op; fever sepsis; CT mediastinum"
+    }
+  },
+  {
+    "id": "AK-194",
+    "section": "기타",
+    "label": "free air",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "천공성 소화성 궤양"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#73 천공성 소화성 궤양 / 앱 체크리스트 키: sudden epigastric; peritonitis; free air; CT",
+    "raw": {
+      "Checklist ID": "AK-194",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "free air",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "천공성 소화성 궤양",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#73 천공성 소화성 궤양 / 앱 체크리스트 키: sudden epigastric; peritonitis; free air; CT"
+    }
+  },
+  {
+    "id": "AK-195",
+    "section": "기타",
+    "label": "hypotension",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "심장압전 독립 게이트"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#63 심장압전 독립 게이트 / 앱 체크리스트 키: hypotension; JVD; pulsus; POCUS/echo",
+    "raw": {
+      "Checklist ID": "AK-195",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "hypotension",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "심장압전 독립 게이트",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#63 심장압전 독립 게이트 / 앱 체크리스트 키: hypotension; JVD; pulsus; POCUS/echo"
+    }
+  },
+  {
+    "id": "AK-196",
+    "section": "기타",
+    "label": "immediate decompression",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "긴장성 기흉"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#20 긴장성 기흉 / 앱 체크리스트 키: unilateral breath sound; shock; immediate decompression",
+    "raw": {
+      "Checklist ID": "AK-196",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "immediate decompression",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "긴장성 기흉",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#20 긴장성 기흉 / 앱 체크리스트 키: unilateral breath sound; shock; immediate decompression"
+    }
+  },
+  {
+    "id": "AK-197",
+    "section": "기타",
+    "label": "new infiltrate",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "겸상적혈구 급성흉부증후군"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#69 겸상적혈구 급성흉부증후군 / 앱 체크리스트 키: SCD; fever/chest pain; new infiltrate; hypoxia",
+    "raw": {
+      "Checklist ID": "AK-197",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "new infiltrate",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "겸상적혈구 급성흉부증후군",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#69 겸상적혈구 급성흉부증후군 / 앱 체크리스트 키: SCD; fever/chest pain; new infiltrate; hypoxia"
+    }
+  },
+  {
+    "id": "AK-198",
+    "section": "기타",
+    "label": "new/worsening/rest angina",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "불안정 협심증 / ACS"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#3 불안정 협심증 / ACS / 앱 체크리스트 키: new/worsening/rest angina; serial ECG/troponin",
+    "raw": {
+      "Checklist ID": "AK-198",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "new/worsening/rest angina",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "불안정 협심증 / ACS",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#3 불안정 협심증 / ACS / 앱 체크리스트 키: new/worsening/rest angina; serial ECG/troponin"
+    }
+  },
+  {
+    "id": "AK-199",
+    "section": "기타",
+    "label": "widened mediastinum",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "외상성 대혈관 손상"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#88 외상성 대혈관 손상 / 앱 체크리스트 키: high-energy trauma; widened mediastinum; CTA",
+    "raw": {
+      "Checklist ID": "AK-199",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "widened mediastinum",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "외상성 대혈관 손상",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#88 외상성 대혈관 손상 / 앱 체크리스트 키: high-energy trauma; widened mediastinum; CTA"
+    }
+  },
+  {
+    "id": "AK-200",
+    "section": "기타",
+    "label": "young female ACS",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "자발성 관상동맥 박리"
+    ],
+    "isRedFlagRelated": true,
+    "sourceExample": "#7 자발성 관상동맥 박리 / 앱 체크리스트 키: young female ACS; postpartum; FMD; angiography",
+    "raw": {
+      "Checklist ID": "AK-200",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "young female ACS",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "자발성 관상동맥 박리",
+      "Red/Must-not-miss 연관": "예",
+      "출처 앱키 셀 예시": "#7 자발성 관상동맥 박리 / 앱 체크리스트 키: young female ACS; postpartum; FMD; angiography"
+    }
+  },
+  {
+    "id": "AK-201",
+    "section": "기타",
+    "label": "US",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 4,
+    "relatedDiagnosisNames": [
+      "흉막삼출",
+      "급성 담낭염",
+      "농흉 / 흉막감염",
+      "유방/흉벽 감염 또는 Mondor disease"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#25 흉막삼출 / 앱 체크리스트 키: dullness; decreased breath sound; US; thoracentesis\n---\n#39 급성 담낭염 / 앱 체크리스트 키: RUQ pain; Murphy; fever; US; Tokyo criteria\n---\n#66 농흉 / 흉막감염 / 앱 체크리스트 키: fever pneumonia; effusion; pleural pH/glucose; US",
+    "raw": {
+      "Checklist ID": "AK-201",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "US",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "4",
+      "관련 진단명": "흉막삼출; 급성 담낭염; 농흉 / 흉막감염; 유방/흉벽 감염 또는 Mondor disease",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#25 흉막삼출 / 앱 체크리스트 키: dullness; decreased breath sound; US; thoracentesis\n---\n#39 급성 담낭염 / 앱 체크리스트 키: RUQ pain; Murphy; fever; US; Tokyo criteria\n---\n#66 농흉 / 흉막감염 / 앱 체크리스트 키: fever pneumonia; effusion; pleural pH/glucose; US"
+    }
+  },
+  {
+    "id": "AK-202",
+    "section": "기타",
+    "label": "effusion",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 3,
+    "relatedDiagnosisNames": [
+      "농흉 / 흉막감염",
+      "결핵성 흉막염 / 폐결핵",
+      "자가면역성 장막염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#66 농흉 / 흉막감염 / 앱 체크리스트 키: fever pneumonia; effusion; pleural pH/glucose; US\n---\n#68 결핵성 흉막염 / 폐결핵 / 앱 체크리스트 키: weight loss/night sweat; TB exposure; effusion; AFB/ADA\n---\n#85 자가면역성 장막염 / 앱 체크리스트 키: SLE/RA; pleuritic/positional; effusion; labs",
+    "raw": {
+      "Checklist ID": "AK-202",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "effusion",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "3",
+      "관련 진단명": "농흉 / 흉막감염; 결핵성 흉막염 / 폐결핵; 자가면역성 장막염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#66 농흉 / 흉막감염 / 앱 체크리스트 키: fever pneumonia; effusion; pleural pH/glucose; US\n---\n#68 결핵성 흉막염 / 폐결핵 / 앱 체크리스트 키: weight loss/night sweat; TB exposure; effusion; AFB/ADA\n---\n#85 자가면역성 장막염 / 앱 체크리스트 키: SLE/RA; pleuritic/positional; effusion; labs"
+    }
+  },
+  {
+    "id": "AK-203",
+    "section": "기타",
+    "label": "after rule-out",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "불안장애 관련 흉통",
+      "과호흡증후군"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#54 불안장애 관련 흉통 / 앱 체크리스트 키: stress association; after rule-out\n---\n#55 과호흡증후군 / 앱 체크리스트 키: tachypnea; paresthesia; VBG; after rule-out",
+    "raw": {
+      "Checklist ID": "AK-203",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "after rule-out",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "불안장애 관련 흉통; 과호흡증후군",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#54 불안장애 관련 흉통 / 앱 체크리스트 키: stress association; after rule-out\n---\n#55 과호흡증후군 / 앱 체크리스트 키: tachypnea; paresthesia; VBG; after rule-out"
+    }
+  },
+  {
+    "id": "AK-204",
+    "section": "기타",
+    "label": "alarm symptoms",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "위식도역류질환",
+      "위염 / 기능성 소화불량"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#31 위식도역류질환 / 앱 체크리스트 키: heartburn; regurgitation; meal/lying; alarm symptoms\n---\n#37 위염 / 기능성 소화불량 / 앱 체크리스트 키: epigastric; alarm symptoms; H pylori/EGD",
+    "raw": {
+      "Checklist ID": "AK-204",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "alarm symptoms",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "위식도역류질환; 위염 / 기능성 소화불량",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#31 위식도역류질환 / 앱 체크리스트 키: heartburn; regurgitation; meal/lying; alarm symptoms\n---\n#37 위염 / 기능성 소화불량 / 앱 체크리스트 키: epigastric; alarm symptoms; H pylori/EGD"
+    }
+  },
+  {
+    "id": "AK-205",
+    "section": "기타",
+    "label": "young exertional",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 2,
+    "relatedDiagnosisNames": [
+      "비후성 심근병증",
+      "선천성 관상동맥 이상 / 심근교"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#15 비후성 심근병증 / 앱 체크리스트 키: young exertional; syncope; family sudden death; echo/CMR\n---\n#65 선천성 관상동맥 이상 / 심근교 / 앱 체크리스트 키: young exertional; syncope; CCTA coronary anatomy",
+    "raw": {
+      "Checklist ID": "AK-205",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "young exertional",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "2",
+      "관련 진단명": "비후성 심근병증; 선천성 관상동맥 이상 / 심근교",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#15 비후성 심근병증 / 앱 체크리스트 키: young exertional; syncope; family sudden death; echo/CMR\n---\n#65 선천성 관상동맥 이상 / 심근교 / 앱 체크리스트 키: young exertional; syncope; CCTA coronary anatomy"
+    }
+  },
+  {
+    "id": "AK-206",
+    "section": "기타",
+    "label": "ACS rule-out",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "스트레스성 심근병증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#17 스트레스성 심근병증 / 앱 체크리스트 키: stress trigger; postmenopausal; echo apical ballooning; ACS rule-out",
+    "raw": {
+      "Checklist ID": "AK-206",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "ACS rule-out",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "스트레스성 심근병증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#17 스트레스성 심근병증 / 앱 체크리스트 키: stress trigger; postmenopausal; echo apical ballooning; ACS rule-out"
+    }
+  },
+  {
+    "id": "AK-207",
+    "section": "기타",
+    "label": "AF/IE",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "비장경색"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#78 비장경색 / 앱 체크리스트 키: LUQ/left chest; AF/IE; CT abdomen",
+    "raw": {
+      "Checklist ID": "AK-207",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "AF/IE",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "비장경색",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#78 비장경색 / 앱 체크리스트 키: LUQ/left chest; AF/IE; CT abdomen"
+    }
+  },
+  {
+    "id": "AK-208",
+    "section": "기타",
+    "label": "AF/valve/IE",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "관상동맥 색전/혈전증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#60 관상동맥 색전/혈전증 / 앱 체크리스트 키: AF/valve/IE; ACS with low CAD risk; echo/TEE",
+    "raw": {
+      "Checklist ID": "AK-208",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "AF/valve/IE",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "관상동맥 색전/혈전증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#60 관상동맥 색전/혈전증 / 앱 체크리스트 키: AF/valve/IE; ACS with low CAD risk; echo/TEE"
+    }
+  },
+  {
+    "id": "AK-209",
+    "section": "기타",
+    "label": "CFR/IMR",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "미세혈관 협심증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#6 미세혈관 협심증 / 앱 체크리스트 키: normal coronaries but angina; stress perfusion; CFR/IMR",
+    "raw": {
+      "Checklist ID": "AK-209",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "CFR/IMR",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "미세혈관 협심증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#6 미세혈관 협심증 / 앱 체크리스트 키: normal coronaries but angina; stress perfusion; CFR/IMR"
+    }
+  },
+  {
+    "id": "AK-210",
+    "section": "기타",
+    "label": "CT/US",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "횡격막하 농양 / 간농양"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#79 횡격막하 농양 / 간농양 / 앱 체크리스트 키: fever; RUQ/shoulder; post-op; CT/US",
+    "raw": {
+      "Checklist ID": "AK-210",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "CT/US",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "횡격막하 농양 / 간농양",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#79 횡격막하 농양 / 간농양 / 앱 체크리스트 키: fever; RUQ/shoulder; post-op; CT/US"
+    }
+  },
+  {
+    "id": "AK-211",
+    "section": "기타",
+    "label": "CT/biopsy",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "폐암 / 흉막종양"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#30 폐암 / 흉막종양 / 앱 체크리스트 키: smoking; weight loss; hemoptysis; CT/biopsy",
+    "raw": {
+      "Checklist ID": "AK-211",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "CT/biopsy",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "폐암 / 흉막종양",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#30 폐암 / 흉막종양 / 앱 체크리스트 키: smoking; weight loss; hemoptysis; CT/biopsy"
+    }
+  },
+  {
+    "id": "AK-212",
+    "section": "기타",
+    "label": "ECG monitor",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "부정맥 관련 흉통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#16 부정맥 관련 흉통 / 앱 체크리스트 키: palpitation; syncope; ECG monitor; electrolytes",
+    "raw": {
+      "Checklist ID": "AK-212",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "ECG monitor",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "부정맥 관련 흉통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#16 부정맥 관련 흉통 / 앱 체크리스트 키: palpitation; syncope; ECG monitor; electrolytes"
+    }
+  },
+  {
+    "id": "AK-213",
+    "section": "기타",
+    "label": "LUQ/left chest",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "비장경색"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#78 비장경색 / 앱 체크리스트 키: LUQ/left chest; AF/IE; CT abdomen",
+    "raw": {
+      "Checklist ID": "AK-213",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "LUQ/left chest",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "비장경색",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#78 비장경색 / 앱 체크리스트 키: LUQ/left chest; AF/IE; CT abdomen"
+    }
+  },
+  {
+    "id": "AK-214",
+    "section": "기타",
+    "label": "MI + nonobstructive coronaries",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "MINOCA"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#62 MINOCA / 앱 체크리스트 키: MI + nonobstructive coronaries; CMR/OCT",
+    "raw": {
+      "Checklist ID": "AK-214",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "MI + nonobstructive coronaries",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "MINOCA",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#62 MINOCA / 앱 체크리스트 키: MI + nonobstructive coronaries; CMR/OCT"
+    }
+  },
+  {
+    "id": "AK-215",
+    "section": "기타",
+    "label": "NG failure",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "위염전 / 위확장"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#77 위염전 / 위확장 / 앱 체크리스트 키: severe epigastric/chest; retching; NG failure; CT",
+    "raw": {
+      "Checklist ID": "AK-215",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "NG failure",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "위염전 / 위확장",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#77 위염전 / 위확장 / 앱 체크리스트 키: severe epigastric/chest; retching; NG failure; CT"
+    }
+  },
+  {
+    "id": "AK-216",
+    "section": "기타",
+    "label": "PE symptoms",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "폐경색"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#26 폐경색 / 앱 체크리스트 키: PE symptoms; hemoptysis; wedge opacity; CTPA",
+    "raw": {
+      "Checklist ID": "AK-216",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "PE symptoms",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "폐경색",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#26 폐경색 / 앱 체크리스트 키: PE symptoms; hemoptysis; wedge opacity; CTPA"
+    }
+  },
+  {
+    "id": "AK-217",
+    "section": "기타",
+    "label": "PEF",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "천식 급성 악화"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#28 천식 급성 악화 / 앱 체크리스트 키: wheeze; PEF; response to bronchodilator",
+    "raw": {
+      "Checklist ID": "AK-217",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "PEF",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "천식 급성 악화",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#28 천식 급성 악화 / 앱 체크리스트 키: wheeze; PEF; response to bronchodilator"
+    }
+  },
+  {
+    "id": "AK-218",
+    "section": "기타",
+    "label": "RV signs",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "폐고혈압 / 우심실 허혈"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#64 폐고혈압 / 우심실 허혈 / 앱 체크리스트 키: exertional syncope; RV signs; echo/RHC",
+    "raw": {
+      "Checklist ID": "AK-218",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "RV signs",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "폐고혈압 / 우심실 허혈",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#64 폐고혈압 / 우심실 허혈 / 앱 체크리스트 키: exertional syncope; RV signs; echo/RHC"
+    }
+  },
+  {
+    "id": "AK-219",
+    "section": "기타",
+    "label": "SLE/RA",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "자가면역성 장막염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#85 자가면역성 장막염 / 앱 체크리스트 키: SLE/RA; pleuritic/positional; effusion; labs",
+    "raw": {
+      "Checklist ID": "AK-219",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "SLE/RA",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "자가면역성 장막염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#85 자가면역성 장막염 / 앱 체크리스트 키: SLE/RA; pleuritic/positional; effusion; labs"
+    }
+  },
+  {
+    "id": "AK-220",
+    "section": "기타",
+    "label": "TB exposure",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "결핵성 흉막염 / 폐결핵"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#68 결핵성 흉막염 / 폐결핵 / 앱 체크리스트 키: weight loss/night sweat; TB exposure; effusion; AFB/ADA",
+    "raw": {
+      "Checklist ID": "AK-220",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "TB exposure",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "결핵성 흉막염 / 폐결핵",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#68 결핵성 흉막염 / 폐결핵 / 앱 체크리스트 키: weight loss/night sweat; TB exposure; effusion; AFB/ADA"
+    }
+  },
+  {
+    "id": "AK-221",
+    "section": "기타",
+    "label": "after red flags ruled out",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "공황발작 / 공황장애"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#53 공황발작 / 공황장애 / 앱 체크리스트 키: fear/palpitations; hyperventilation; after red flags ruled out",
+    "raw": {
+      "Checklist ID": "AK-221",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "after red flags ruled out",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "공황발작 / 공황장애",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#53 공황발작 / 공황장애 / 앱 체크리스트 키: fear/palpitations; hyperventilation; after red flags ruled out"
+    }
+  },
+  {
+    "id": "AK-222",
+    "section": "기타",
+    "label": "after safe rule-out",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "신체증상장애 / 스트레스 관련 흉통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#57 신체증상장애 / 스트레스 관련 흉통 / 앱 체크리스트 키: recurrent symptoms; excessive health anxiety; after safe rule-out",
+    "raw": {
+      "Checklist ID": "AK-222",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "after safe rule-out",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "신체증상장애 / 스트레스 관련 흉통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#57 신체증상장애 / 스트레스 관련 흉통 / 앱 체크리스트 키: recurrent symptoms; excessive health anxiety; after safe rule-out"
+    }
+  },
+  {
+    "id": "AK-223",
+    "section": "기타",
+    "label": "arm symptoms",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "흉곽출구증후군"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#52 흉곽출구증후군 / 앱 체크리스트 키: arm symptoms; overhead; vascular signs; duplex/CTA",
+    "raw": {
+      "Checklist ID": "AK-223",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "arm symptoms",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "흉곽출구증후군",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#52 흉곽출구증후군 / 앱 체크리스트 키: arm symptoms; overhead; vascular signs; duplex/CTA"
+    }
+  },
+  {
+    "id": "AK-224",
+    "section": "기타",
+    "label": "arrhythmia",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "심근염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#11 심근염 / 앱 체크리스트 키: viral prodrome; troponin; arrhythmia; echo/CMR",
+    "raw": {
+      "Checklist ID": "AK-224",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "arrhythmia",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "심근염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#11 심근염 / 앱 체크리스트 키: viral prodrome; troponin; arrhythmia; echo/CMR"
+    }
+  },
+  {
+    "id": "AK-225",
+    "section": "기타",
+    "label": "brief sharp",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "전흉부 포착 증후군"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#84 전흉부 포착 증후군 / 앱 체크리스트 키: young; brief sharp; no exertional red flags",
+    "raw": {
+      "Checklist ID": "AK-225",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "brief sharp",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "전흉부 포착 증후군",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#84 전흉부 포착 증후군 / 앱 체크리스트 키: young; brief sharp; no exertional red flags"
+    }
+  },
+  {
+    "id": "AK-226",
+    "section": "기타",
+    "label": "dullness",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "흉막삼출"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#25 흉막삼출 / 앱 체크리스트 키: dullness; decreased breath sound; US; thoracentesis",
+    "raw": {
+      "Checklist ID": "AK-226",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "dullness",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "흉막삼출",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#25 흉막삼출 / 앱 체크리스트 키: dullness; decreased breath sound; US; thoracentesis"
+    }
+  },
+  {
+    "id": "AK-227",
+    "section": "기타",
+    "label": "elderly/osteoporosis",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "흉추 압박골절"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#80 흉추 압박골절 / 앱 체크리스트 키: elderly/osteoporosis; back tenderness; spine imaging",
+    "raw": {
+      "Checklist ID": "AK-227",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "elderly/osteoporosis",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "흉추 압박골절",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#80 흉추 압박골절 / 앱 체크리스트 키: elderly/osteoporosis; back tenderness; spine imaging"
+    }
+  },
+  {
+    "id": "AK-228",
+    "section": "기타",
+    "label": "exertional",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "안정형 협심증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#4 안정형 협심증 / 앱 체크리스트 키: exertional; rest relief; CCTA/stress test",
+    "raw": {
+      "Checklist ID": "AK-228",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "exertional",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "안정형 협심증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#4 안정형 협심증 / 앱 체크리스트 키: exertional; rest relief; CCTA/stress test"
+    }
+  },
+  {
+    "id": "AK-229",
+    "section": "기타",
+    "label": "exposure",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "바이러스 폐렴 / COVID-19 / 인플루엔자"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#70 바이러스 폐렴 / COVID-19 / 인플루엔자 / 앱 체크리스트 키: viral syndrome; exposure; PCR; CXR",
+    "raw": {
+      "Checklist ID": "AK-229",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "exposure",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "바이러스 폐렴 / COVID-19 / 인플루엔자",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#70 바이러스 폐렴 / COVID-19 / 인플루엔자 / 앱 체크리스트 키: viral syndrome; exposure; PCR; CXR"
+    }
+  },
+  {
+    "id": "AK-230",
+    "section": "기타",
+    "label": "fatigue",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "섬유근통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#51 섬유근통 / 앱 체크리스트 키: chronic widespread pain; fatigue; sleep",
+    "raw": {
+      "Checklist ID": "AK-230",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "fatigue",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "섬유근통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#51 섬유근통 / 앱 체크리스트 키: chronic widespread pain; fatigue; sleep"
+    }
+  },
+  {
+    "id": "AK-231",
+    "section": "기타",
+    "label": "immunosuppression",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "대상포진"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#50 대상포진 / 앱 체크리스트 키: dermatomal pain; vesicles; immunosuppression",
+    "raw": {
+      "Checklist ID": "AK-231",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "immunosuppression",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "대상포진",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#50 대상포진 / 앱 체크리스트 키: dermatomal pain; vesicles; immunosuppression"
+    }
+  },
+  {
+    "id": "AK-232",
+    "section": "기타",
+    "label": "labs",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "자가면역성 장막염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#85 자가면역성 장막염 / 앱 체크리스트 키: SLE/RA; pleuritic/positional; effusion; labs",
+    "raw": {
+      "Checklist ID": "AK-232",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "labs",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "자가면역성 장막염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#85 자가면역성 장막염 / 앱 체크리스트 키: SLE/RA; pleuritic/positional; effusion; labs"
+    }
+  },
+  {
+    "id": "AK-233",
+    "section": "기타",
+    "label": "meal/lying",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "위식도역류질환"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#31 위식도역류질환 / 앱 체크리스트 키: heartburn; regurgitation; meal/lying; alarm symptoms",
+    "raw": {
+      "Checklist ID": "AK-233",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "meal/lying",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "위식도역류질환",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#31 위식도역류질환 / 앱 체크리스트 키: heartburn; regurgitation; meal/lying; alarm symptoms"
+    }
+  },
+  {
+    "id": "AK-234",
+    "section": "기타",
+    "label": "movement",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "늑연골염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#43 늑연골염 / 앱 체크리스트 키: reproducible tenderness; movement; no red flag",
+    "raw": {
+      "Checklist ID": "AK-234",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "movement",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "늑연골염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#43 늑연골염 / 앱 체크리스트 키: reproducible tenderness; movement; no red flag"
+    }
+  },
+  {
+    "id": "AK-235",
+    "section": "기타",
+    "label": "multiple patients",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "일산화탄소 중독 관련 심근허혈"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#86 일산화탄소 중독 관련 심근허혈 / 앱 체크리스트 키: CO exposure; headache; multiple patients; COHb/troponin",
+    "raw": {
+      "Checklist ID": "AK-235",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "multiple patients",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "일산화탄소 중독 관련 심근허혈",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#86 일산화탄소 중독 관련 심근허혈 / 앱 체크리스트 키: CO exposure; headache; multiple patients; COHb/troponin"
+    }
+  },
+  {
+    "id": "AK-236",
+    "section": "기타",
+    "label": "neck/back movement",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "경추 또는 흉추 신경근병증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#49 경추 또는 흉추 신경근병증 / 앱 체크리스트 키: neck/back movement; neuro deficit; MRI",
+    "raw": {
+      "Checklist ID": "AK-236",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "neck/back movement",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "경추 또는 흉추 신경근병증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#49 경추 또는 흉추 신경근병증 / 앱 체크리스트 키: neck/back movement; neuro deficit; MRI"
+    }
+  },
+  {
+    "id": "AK-237",
+    "section": "기타",
+    "label": "nitrate response",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "관상동맥 연축 / 변이형 협심증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#5 관상동맥 연축 / 변이형 협심증 / 앱 체크리스트 키: rest/night pain; transient ST; nitrate response; stimulant",
+    "raw": {
+      "Checklist ID": "AK-237",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "nitrate response",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "관상동맥 연축 / 변이형 협심증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#5 관상동맥 연축 / 변이형 협심증 / 앱 체크리스트 키: rest/night pain; transient ST; nitrate response; stimulant"
+    }
+  },
+  {
+    "id": "AK-238",
+    "section": "기타",
+    "label": "no exertional red flags",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "전흉부 포착 증후군"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#84 전흉부 포착 증후군 / 앱 체크리스트 키: young; brief sharp; no exertional red flags",
+    "raw": {
+      "Checklist ID": "AK-238",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "no exertional red flags",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "전흉부 포착 증후군",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#84 전흉부 포착 증후군 / 앱 체크리스트 키: young; brief sharp; no exertional red flags"
+    }
+  },
+  {
+    "id": "AK-239",
+    "section": "기타",
+    "label": "no red flag",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "늑연골염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#43 늑연골염 / 앱 체크리스트 키: reproducible tenderness; movement; no red flag",
+    "raw": {
+      "Checklist ID": "AK-239",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "no red flag",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "늑연골염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#43 늑연골염 / 앱 체크리스트 키: reproducible tenderness; movement; no red flag"
+    }
+  },
+  {
+    "id": "AK-240",
+    "section": "기타",
+    "label": "noncardiac recurrent",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "기능성 흉통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#56 기능성 흉통 / 앱 체크리스트 키: noncardiac recurrent; normal workup; Rome",
+    "raw": {
+      "Checklist ID": "AK-240",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "noncardiac recurrent",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "기능성 흉통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#56 기능성 흉통 / 앱 체크리스트 키: noncardiac recurrent; normal workup; Rome"
+    }
+  },
+  {
+    "id": "AK-241",
+    "section": "기타",
+    "label": "normal coronaries but angina",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "미세혈관 협심증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#6 미세혈관 협심증 / 앱 체크리스트 키: normal coronaries but angina; stress perfusion; CFR/IMR",
+    "raw": {
+      "Checklist ID": "AK-241",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "normal coronaries but angina",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "미세혈관 협심증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#6 미세혈관 협심증 / 앱 체크리스트 키: normal coronaries but angina; stress perfusion; CFR/IMR"
+    }
+  },
+  {
+    "id": "AK-242",
+    "section": "기타",
+    "label": "normal workup",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "기능성 흉통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#56 기능성 흉통 / 앱 체크리스트 키: noncardiac recurrent; normal workup; Rome",
+    "raw": {
+      "Checklist ID": "AK-242",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "normal workup",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "기능성 흉통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#56 기능성 흉통 / 앱 체크리스트 키: noncardiac recurrent; normal workup; Rome"
+    }
+  },
+  {
+    "id": "AK-243",
+    "section": "기타",
+    "label": "organ damage",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "고혈압 응급증 관련 흉통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#18 고혈압 응급증 관련 흉통 / 앱 체크리스트 키: severe BP; organ damage; ECG/troponin/renal/neuro",
+    "raw": {
+      "Checklist ID": "AK-243",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "organ damage",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "고혈압 응급증 관련 흉통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#18 고혈압 응급증 관련 흉통 / 앱 체크리스트 키: severe BP; organ damage; ECG/troponin/renal/neuro"
+    }
+  },
+  {
+    "id": "AK-244",
+    "section": "기타",
+    "label": "pleural pH/glucose",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "농흉 / 흉막감염"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#66 농흉 / 흉막감염 / 앱 체크리스트 키: fever pneumonia; effusion; pleural pH/glucose; US",
+    "raw": {
+      "Checklist ID": "AK-244",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "pleural pH/glucose",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "농흉 / 흉막감염",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#66 농흉 / 흉막감염 / 앱 체크리스트 키: fever pneumonia; effusion; pleural pH/glucose; US"
+    }
+  },
+  {
+    "id": "AK-245",
+    "section": "기타",
+    "label": "postmenopausal",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "스트레스성 심근병증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#17 스트레스성 심근병증 / 앱 체크리스트 키: stress trigger; postmenopausal; echo apical ballooning; ACS rule-out",
+    "raw": {
+      "Checklist ID": "AK-245",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "postmenopausal",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "스트레스성 심근병증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#17 스트레스성 심근병증 / 앱 체크리스트 키: stress trigger; postmenopausal; echo apical ballooning; ACS rule-out"
+    }
+  },
+  {
+    "id": "AK-246",
+    "section": "기타",
+    "label": "postprandial",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "열공탈장"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#42 열공탈장 / 앱 체크리스트 키: postprandial; reflux; dysphagia; CT/barium/EGD",
+    "raw": {
+      "Checklist ID": "AK-246",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "postprandial",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "열공탈장",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#42 열공탈장 / 앱 체크리스트 키: postprandial; reflux; dysphagia; CT/barium/EGD"
+    }
+  },
+  {
+    "id": "AK-247",
+    "section": "기타",
+    "label": "recurrent symptoms",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "신체증상장애 / 스트레스 관련 흉통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#57 신체증상장애 / 스트레스 관련 흉통 / 앱 체크리스트 키: recurrent symptoms; excessive health anxiety; after safe rule-out",
+    "raw": {
+      "Checklist ID": "AK-247",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "recurrent symptoms",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "신체증상장애 / 스트레스 관련 흉통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#57 신체증상장애 / 스트레스 관련 흉통 / 앱 체크리스트 키: recurrent symptoms; excessive health anxiety; after safe rule-out"
+    }
+  },
+  {
+    "id": "AK-248",
+    "section": "기타",
+    "label": "reflux",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "열공탈장"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#42 열공탈장 / 앱 체크리스트 키: postprandial; reflux; dysphagia; CT/barium/EGD",
+    "raw": {
+      "Checklist ID": "AK-248",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "reflux",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "열공탈장",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#42 열공탈장 / 앱 체크리스트 키: postprandial; reflux; dysphagia; CT/barium/EGD"
+    }
+  },
+  {
+    "id": "AK-249",
+    "section": "기타",
+    "label": "response to bronchodilator",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "천식 급성 악화"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#28 천식 급성 악화 / 앱 체크리스트 키: wheeze; PEF; response to bronchodilator",
+    "raw": {
+      "Checklist ID": "AK-249",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "response to bronchodilator",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "천식 급성 악화",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#28 천식 급성 악화 / 앱 체크리스트 키: wheeze; PEF; response to bronchodilator"
+    }
+  },
+  {
+    "id": "AK-250",
+    "section": "기타",
+    "label": "rest relief",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "안정형 협심증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#4 안정형 협심증 / 앱 체크리스트 키: exertional; rest relief; CCTA/stress test",
+    "raw": {
+      "Checklist ID": "AK-250",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "rest relief",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "안정형 협심증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#4 안정형 협심증 / 앱 체크리스트 키: exertional; rest relief; CCTA/stress test"
+    }
+  },
+  {
+    "id": "AK-251",
+    "section": "기타",
+    "label": "retching",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "위염전 / 위확장"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#77 위염전 / 위확장 / 앱 체크리스트 키: severe epigastric/chest; retching; NG failure; CT",
+    "raw": {
+      "Checklist ID": "AK-251",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "retching",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "위염전 / 위확장",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#77 위염전 / 위확장 / 앱 체크리스트 키: severe epigastric/chest; retching; NG failure; CT"
+    }
+  },
+  {
+    "id": "AK-252",
+    "section": "기타",
+    "label": "sleep",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "섬유근통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#51 섬유근통 / 앱 체크리스트 키: chronic widespread pain; fatigue; sleep",
+    "raw": {
+      "Checklist ID": "AK-252",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "sleep",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "섬유근통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#51 섬유근통 / 앱 체크리스트 키: chronic widespread pain; fatigue; sleep"
+    }
+  },
+  {
+    "id": "AK-253",
+    "section": "기타",
+    "label": "stress association",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "불안장애 관련 흉통"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#54 불안장애 관련 흉통 / 앱 체크리스트 키: stress association; after rule-out",
+    "raw": {
+      "Checklist ID": "AK-253",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "stress association",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "불안장애 관련 흉통",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#54 불안장애 관련 흉통 / 앱 체크리스트 키: stress association; after rule-out"
+    }
+  },
+  {
+    "id": "AK-254",
+    "section": "기타",
+    "label": "stress perfusion",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "미세혈관 협심증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#6 미세혈관 협심증 / 앱 체크리스트 키: normal coronaries but angina; stress perfusion; CFR/IMR",
+    "raw": {
+      "Checklist ID": "AK-254",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "stress perfusion",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "미세혈관 협심증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#6 미세혈관 협심증 / 앱 체크리스트 키: normal coronaries but angina; stress perfusion; CFR/IMR"
+    }
+  },
+  {
+    "id": "AK-255",
+    "section": "기타",
+    "label": "stress trigger",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "스트레스성 심근병증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#17 스트레스성 심근병증 / 앱 체크리스트 키: stress trigger; postmenopausal; echo apical ballooning; ACS rule-out",
+    "raw": {
+      "Checklist ID": "AK-255",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "stress trigger",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "스트레스성 심근병증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#17 스트레스성 심근병증 / 앱 체크리스트 키: stress trigger; postmenopausal; echo apical ballooning; ACS rule-out"
+    }
+  },
+  {
+    "id": "AK-256",
+    "section": "기타",
+    "label": "sudden unilateral",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "자연기흉"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#21 자연기흉 / 앱 체크리스트 키: sudden unilateral; tall thin/smoking; CXR/US",
+    "raw": {
+      "Checklist ID": "AK-256",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "sudden unilateral",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "자연기흉",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#21 자연기흉 / 앱 체크리스트 키: sudden unilateral; tall thin/smoking; CXR/US"
+    }
+  },
+  {
+    "id": "AK-257",
+    "section": "기타",
+    "label": "temperature trigger",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "식도경련 / 식도운동장애"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#33 식도경련 / 식도운동장애 / 앱 체크리스트 키: dysphagia; temperature trigger; manometry",
+    "raw": {
+      "Checklist ID": "AK-257",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "temperature trigger",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "식도경련 / 식도운동장애",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#33 식도경련 / 식도운동장애 / 앱 체크리스트 키: dysphagia; temperature trigger; manometry"
+    }
+  },
+  {
+    "id": "AK-258",
+    "section": "기타",
+    "label": "thoracentesis",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "흉막삼출"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#25 흉막삼출 / 앱 체크리스트 키: dullness; decreased breath sound; US; thoracentesis",
+    "raw": {
+      "Checklist ID": "AK-258",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "thoracentesis",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "흉막삼출",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#25 흉막삼출 / 앱 체크리스트 키: dullness; decreased breath sound; US; thoracentesis"
+    }
+  },
+  {
+    "id": "AK-259",
+    "section": "기타",
+    "label": "transient ST",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "관상동맥 연축 / 변이형 협심증"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#5 관상동맥 연축 / 변이형 협심증 / 앱 체크리스트 키: rest/night pain; transient ST; nitrate response; stimulant",
+    "raw": {
+      "Checklist ID": "AK-259",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "transient ST",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "관상동맥 연축 / 변이형 협심증",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#5 관상동맥 연축 / 변이형 협심증 / 앱 체크리스트 키: rest/night pain; transient ST; nitrate response; stimulant"
+    }
+  },
+  {
+    "id": "AK-260",
+    "section": "기타",
+    "label": "vascular signs",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "흉곽출구증후군"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#52 흉곽출구증후군 / 앱 체크리스트 키: arm symptoms; overhead; vascular signs; duplex/CTA",
+    "raw": {
+      "Checklist ID": "AK-260",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "vascular signs",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "흉곽출구증후군",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#52 흉곽출구증후군 / 앱 체크리스트 키: arm symptoms; overhead; vascular signs; duplex/CTA"
+    }
+  },
+  {
+    "id": "AK-261",
+    "section": "기타",
+    "label": "wedge opacity",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "폐경색"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#26 폐경색 / 앱 체크리스트 키: PE symptoms; hemoptysis; wedge opacity; CTPA",
+    "raw": {
+      "Checklist ID": "AK-261",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "wedge opacity",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "폐경색",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#26 폐경색 / 앱 체크리스트 키: PE symptoms; hemoptysis; wedge opacity; CTPA"
+    }
+  },
+  {
+    "id": "AK-262",
+    "section": "기타",
+    "label": "young",
+    "status": "unknown",
+    "memo": "",
+    "relatedDiagnosisCount": 1,
+    "relatedDiagnosisNames": [
+      "전흉부 포착 증후군"
+    ],
+    "isRedFlagRelated": false,
+    "sourceExample": "#84 전흉부 포착 증후군 / 앱 체크리스트 키: young; brief sharp; no exertional red flags",
+    "raw": {
+      "Checklist ID": "AK-262",
+      "체크 섹션": "기타",
+      "앱 체크리스트 키(원문)": "young",
+      "평가값": "미확인",
+      "메모": null,
+      "관련 진단 수": "1",
+      "관련 진단명": "전흉부 포착 증후군",
+      "Red/Must-not-miss 연관": "아니오",
+      "출처 앱키 셀 예시": "#84 전흉부 포착 증후군 / 앱 체크리스트 키: young; brief sharp; no exertional red flags"
+    }
+  }
+]

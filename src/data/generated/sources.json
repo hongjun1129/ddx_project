@@ -1,0 +1,310 @@
+[
+  {
+    "key": "ACS2025",
+    "title": "",
+    "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001309",
+    "raw": {
+      "Key": "ACS2025",
+      "Source / guideline": "2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for ACS",
+      "URL": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001309",
+      "Coverage": "ACS, STEMI/NSTEMI/UA, troponin workflow",
+      "DOI / 정확한 출처": "10.1161/CIR.0000000000001309",
+      "발행연도": "2025",
+      "근거유형": "치료중심(진단 보조)"
+    }
+  },
+  {
+    "key": "ESC_ACS2023",
+    "title": "",
+    "url": "https://academic.oup.com/eurheartj/article/44/38/3720/7243210",
+    "raw": {
+      "Key": "ESC_ACS2023",
+      "Source / guideline": "2023 ESC Guideline for Acute Coronary Syndromes",
+      "URL": "https://academic.oup.com/eurheartj/article/44/38/3720/7243210",
+      "Coverage": "ACS diagnosis/risk stratification",
+      "DOI / 정확한 출처": "10.1093/eurheartj/ehad191",
+      "발행연도": "2023",
+      "근거유형": "혼합(진단+치료)"
+    }
+  },
+  {
+    "key": "ChestPain2021",
+    "title": "",
+    "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001029",
+    "raw": {
+      "Key": "ChestPain2021",
+      "Source / guideline": "2021 AHA/ACC Guideline for Evaluation and Diagnosis of Chest Pain",
+      "URL": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001029",
+      "Coverage": "General chest pain workflow, ECG/troponin, risk-based testing",
+      "DOI / 정확한 출처": "10.1161/CIR.0000000000001029",
+      "발행연도": "2021",
+      "근거유형": "진단중심(핵심)"
+    }
+  },
+  {
+    "key": "Aortic2022",
+    "title": "",
+    "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001106",
+    "raw": {
+      "Key": "Aortic2022",
+      "Source / guideline": "2022 ACC/AHA Guideline for Aortic Disease",
+      "URL": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001106",
+      "Coverage": "Aortic dissection, aneurysm, acute aortic syndrome",
+      "DOI / 정확한 출처": "10.1161/CIR.0000000000001106",
+      "발행연도": "2022",
+      "근거유형": "혼합(진단+치료)"
+    }
+  },
+  {
+    "key": "PE2019",
+    "title": "",
+    "url": "https://academic.oup.com/eurheartj/article/41/4/543/5556136",
+    "raw": {
+      "Key": "PE2019",
+      "Source / guideline": "2019 ESC Guideline for Acute Pulmonary Embolism",
+      "URL": "https://academic.oup.com/eurheartj/article/41/4/543/5556136",
+      "Coverage": "PE pretest probability, D-dimer, CTPA/VQ",
+      "DOI / 정확한 출처": "10.1093/eurheartj/ehz405",
+      "발행연도": "2019",
+      "근거유형": "혼합(진단+치료)"
+    }
+  },
+  {
+    "key": "BTSPleural2023",
+    "title": "",
+    "url": "https://thorax.bmj.com/content/78/Suppl_3/s1",
+    "raw": {
+      "Key": "BTSPleural2023",
+      "Source / guideline": "British Thoracic Society Guideline for Pleural Disease 2023",
+      "URL": "https://thorax.bmj.com/content/78/Suppl_3/s1",
+      "Coverage": "Pneumothorax, pleural effusion, pleural infection",
+      "DOI / 정확한 출처": "10.1136/thorax-2023-220304",
+      "발행연도": "2023",
+      "근거유형": "혼합(진단+치료)"
+    }
+  },
+  {
+    "key": "CAP2019",
+    "title": "",
+    "url": "https://www.atsjournals.org/doi/10.1164/rccm.201908-1581ST",
+    "raw": {
+      "Key": "CAP2019",
+      "Source / guideline": "ATS/IDSA Community-Acquired Pneumonia Guideline",
+      "URL": "https://www.atsjournals.org/doi/10.1164/rccm.201908-1581ST",
+      "Coverage": "Pneumonia diagnostic and management framework",
+      "DOI / 정확한 출처": "10.1164/rccm.201908-1581ST",
+      "발행연도": "2019",
+      "근거유형": "혼합(진단+치료)"
+    }
+  },
+  {
+    "key": "GERD2022",
+    "title": "",
+    "url": "https://journals.lww.com/ajg/fulltext/2022/01000/acg_clinical_guideline_for_the_diagnosis_and.14.aspx",
+    "raw": {
+      "Key": "GERD2022",
+      "Source / guideline": "ACG Guideline for GERD",
+      "URL": "https://journals.lww.com/ajg/fulltext/2022/01000/acg_clinical_guideline_for_the_diagnosis_and.14.aspx",
+      "Coverage": "GERD, noncardiac chest pain, PPI/EGD/pH",
+      "DOI / 정확한 출처": "10.14309/ajg.0000000000001538",
+      "발행연도": "2022",
+      "근거유형": "혼합(진단+치료)"
+    }
+  },
+  {
+    "key": "Pancreatitis2024",
+    "title": "",
+    "url": "https://doi.org/10.14309/ajg.0000000000002645",
+    "raw": {
+      "Key": "Pancreatitis2024",
+      "Source / guideline": "ACG Acute Pancreatitis Guideline 2024",
+      "URL": "https://doi.org/10.14309/ajg.0000000000002645",
+      "Coverage": "Acute pancreatitis diagnosis and imaging use",
+      "DOI / 정확한 출처": "10.14309/ajg.0000000000002645",
+      "발행연도": "2024",
+      "근거유형": "혼합(진단+치료)"
+    }
+  },
+  {
+    "key": "WSES_PUD2019",
+    "title": "",
+    "url": "https://wjes.biomedcentral.com/articles/10.1186/s13017-019-0283-9",
+    "raw": {
+      "Key": "WSES_PUD2019",
+      "Source / guideline": "WSES Guideline for Perforated/Bleeding Peptic Ulcer",
+      "URL": "https://wjes.biomedcentral.com/articles/10.1186/s13017-019-0283-9",
+      "Coverage": "Perforated peptic ulcer emergency pathway",
+      "DOI / 정확한 출처": "10.1186/s13017-019-0283-9",
+      "발행연도": "2019",
+      "근거유형": "치료중심(외과)"
+    }
+  },
+  {
+    "key": "Tokyo2018",
+    "title": "",
+    "url": "https://www.jshbps.jp/modules/en/index.php?content_id=47",
+    "raw": {
+      "Key": "Tokyo2018",
+      "Source / guideline": "Tokyo Guidelines 2018",
+      "URL": "https://www.jshbps.jp/modules/en/index.php?content_id=47",
+      "Coverage": "Acute cholecystitis/cholangitis criteria and severity",
+      "DOI / 정확한 출처": "TG18 (J Hepatobiliary Pancreat Sci 2018)",
+      "발행연도": "2018",
+      "근거유형": "혼합(진단기준+중증도)"
+    }
+  },
+  {
+    "key": "CCS2024",
+    "title": "",
+    "url": "https://academic.oup.com/eurheartj/article/45/36/3415/7754075",
+    "raw": {
+      "Key": "CCS2024",
+      "Source / guideline": "2024 ESC Guideline for Chronic Coronary Syndromes",
+      "URL": "https://academic.oup.com/eurheartj/article/45/36/3415/7754075",
+      "Coverage": "Stable angina, vasospastic/microvascular angina",
+      "DOI / 정확한 출처": "10.1093/eurheartj/ehae177",
+      "발행연도": "2024",
+      "근거유형": "혼합(진단+치료)"
+    }
+  },
+  {
+    "key": "Cardiomyopathy2023",
+    "title": "",
+    "url": "https://academic.oup.com/eurheartj/article/44/37/3503/7246608",
+    "raw": {
+      "Key": "Cardiomyopathy2023",
+      "Source / guideline": "2023 ESC Guideline for Cardiomyopathies",
+      "URL": "https://academic.oup.com/eurheartj/article/44/37/3503/7246608",
+      "Coverage": "HCM and cardiomyopathy diagnostic evaluation",
+      "DOI / 정확한 출처": "10.1093/eurheartj/ehad194",
+      "발행연도": "2023",
+      "근거유형": "혼합(진단+치료)"
+    }
+  },
+  {
+    "key": "VHD2025",
+    "title": "",
+    "url": "https://academic.oup.com/eurheartj/article/46/44/4635/8234488",
+    "raw": {
+      "Key": "VHD2025",
+      "Source / guideline": "2025 ESC/EACTS Valvular Heart Disease Guideline",
+      "URL": "https://academic.oup.com/eurheartj/article/46/44/4635/8234488",
+      "Coverage": "Aortic stenosis/MVP/valvular disease",
+      "DOI / 정확한 출처": "10.1093/eurheartj/ehaf194",
+      "발행연도": "2025",
+      "근거유형": "치료중심(진단기준 포함)"
+    }
+  },
+  {
+    "key": "SCAD2018",
+    "title": "",
+    "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000564",
+    "raw": {
+      "Key": "SCAD2018",
+      "Source / guideline": "AHA Scientific Statement on SCAD",
+      "URL": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000564",
+      "Coverage": "SCAD recognition and diagnostic pathway",
+      "DOI / 정확한 출처": "10.1161/CIR.0000000000000564",
+      "발행연도": "2018",
+      "근거유형": "혼합(인지+진단)"
+    }
+  },
+  {
+    "key": "MyoPeri2025",
+    "title": "",
+    "url": "https://academic.oup.com/eurheartj/article/46/40/3952/8234483",
+    "raw": {
+      "Key": "MyoPeri2025",
+      "Source / guideline": "2025 ESC Guideline for Myocarditis and Pericarditis",
+      "URL": "https://academic.oup.com/eurheartj/article/46/40/3952/8234483",
+      "Coverage": "Myocarditis/pericarditis/tamponade",
+      "DOI / 정확한 출처": "10.1093/eurheartj/ehaf192",
+      "발행연도": "2025",
+      "근거유형": "혼합(진단+치료); IMPS"
+    }
+  },
+  {
+    "key": "ACC_Myocarditis2024",
+    "title": "",
+    "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.09.002",
+    "raw": {
+      "Key": "ACC_Myocarditis2024",
+      "Source / guideline": "2024 ACC Expert Consensus Decision Pathway on Myocarditis",
+      "URL": "https://www.jacc.org/doi/10.1016/j.jacc.2024.09.002",
+      "Coverage": "Myocarditis suspicion, CMR, pitfalls",
+      "DOI / 정확한 출처": "ACC ECDP 2024 (JACC)",
+      "발행연도": "2024",
+      "근거유형": "진단중심(ECDP)"
+    }
+  },
+  {
+    "key": "UniversalMI2018",
+    "title": "",
+    "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000617",
+    "raw": {
+      "Key": "UniversalMI2018",
+      "Source / guideline": "Fourth Universal Definition of Myocardial Infarction",
+      "URL": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000617",
+      "Coverage": "Type 1/2 MI, myocardial injury definitions",
+      "DOI / 정확한 출처": "10.1161/CIR.0000000000000617",
+      "발행연도": "2018",
+      "근거유형": "정의/분류(Type1·2 MI)"
+    }
+  },
+  {
+    "key": "WSES_Esoph2019",
+    "title": "",
+    "url": "https://wjes.biomedcentral.com/articles/10.1186/s13017-019-0245-2",
+    "raw": {
+      "Key": "WSES_Esoph2019",
+      "Source / guideline": "WSES Guideline for Esophageal Emergencies",
+      "URL": "https://wjes.biomedcentral.com/articles/10.1186/s13017-019-0245-2",
+      "Coverage": "Esophageal rupture, mediastinitis, CT/contrast imaging",
+      "DOI / 정확한 출처": "10.1186/s13017-019-0245-2",
+      "발행연도": "2019",
+      "근거유형": "혼합(진단+치료)"
+    }
+  },
+  {
+    "key": "MSDChestPain2024",
+    "title": "",
+    "url": "https://www.msdmanuals.com/professional/cardiovascular-disorders/symptoms-of-cardiovascular-disorders/chest-pain",
+    "raw": {
+      "Key": "MSDChestPain2024",
+      "Source / guideline": "MSD Manual Professional: Chest Pain",
+      "URL": "https://www.msdmanuals.com/professional/cardiovascular-disorders/symptoms-of-cardiovascular-disorders/chest-pain",
+      "Coverage": "Broad differential and basic evaluation",
+      "DOI / 정확한 출처": "MSD Manual Professional",
+      "발행연도": "2024",
+      "근거유형": "참고서(교과서)"
+    }
+  },
+  {
+    "key": "MSDTensionPTX",
+    "title": "",
+    "url": "https://www.msdmanuals.com/professional/injuries-poisoning/thoracic-trauma/tension-pneumothorax",
+    "raw": {
+      "Key": "MSDTensionPTX",
+      "Source / guideline": "MSD Manual Professional: Tension Pneumothorax",
+      "URL": "https://www.msdmanuals.com/professional/injuries-poisoning/thoracic-trauma/tension-pneumothorax",
+      "Coverage": "Clinical diagnosis and immediate decompression",
+      "DOI / 정확한 출처": "MSD Manual Professional",
+      "발행연도": "—",
+      "근거유형": "참고서(교과서)"
+    }
+  },
+  {
+    "key": "ChestPainECDP2022",
+    "title": "",
+    "url": "https://www.jacc.org/doi/10.1016/j.jacc.2022.08.750",
+    "raw": {
+      "Key": "ChestPainECDP2022",
+      "Source / guideline": "2022 ACC Expert Consensus Decision Pathway: ED 흉통 평가·처분",
+      "URL": "https://www.jacc.org/doi/10.1016/j.jacc.2022.08.750",
+      "Coverage": "ED 저/중/고위험 처분, HEART/EDACS, hs-cTn CDP",
+      "DOI / 정확한 출처": "10.1016/j.jacc.2022.08.750",
+      "발행연도": "2022",
+      "근거유형": "진단중심(처분 CDP)"
+    }
+  }
+]

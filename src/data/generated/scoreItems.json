@@ -1,0 +1,663 @@
+[
+  {
+    "id": "CP-689",
+    "scoreItem": "viral prodrome",
+    "relatedDiagnosisNames": [
+      "심낭염 / 심낭삼출 / 심장압전",
+      "심근염"
+    ],
+    "sourceColumn": "앱 체크리스트 키; 확률 상승/의심 단서",
+    "representativeSourceText": "#10 심낭염 / 심낭삼출 / 심장압전 / 확률 상승/의심 단서: 날카로운 흉통, 흡기/눕기 악화, 앞으로 숙이면 완화, viral prodrome, pericardial rub, diffuse ST elevation/PR depression; 저혈압/JVD이면 압전.\n---\n#11 심근염 / 앱 체크리스트 키: viral prodrome; troponin; arrhythmia; echo/CMR",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-689",
+      "Score/기준 항목": "viral prodrome",
+      "관련 진단명": "심낭염 / 심낭삼출 / 심장압전; 심근염",
+      "출처 열": "앱 체크리스트 키; 확률 상승/의심 단서",
+      "대표 원문 근거": "#10 심낭염 / 심낭삼출 / 심장압전 / 확률 상승/의심 단서: 날카로운 흉통, 흡기/눕기 악화, 앞으로 숙이면 완화, viral prodrome, pericardial rub, diffuse ST elevation/PR depression; 저혈압/JVD이면 압전.\n---\n#11 심근염 / 앱 체크리스트 키: viral prodrome; troponin; arrhythmia; echo/CMR",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-690",
+    "scoreItem": "ECG/troponin 동시 평가. ADD-RS 활용. 안정 시 CTA chest/abdomen/pelvis",
+    "relatedDiagnosisNames": [
+      "급성 대동맥 박리"
+    ],
+    "sourceColumn": "첫 평가/기본 검사",
+    "representativeSourceText": "#8 급성 대동맥 박리 / 첫 평가/기본 검사: 양팔 혈압/맥박, 신경검진, CXR, ECG/troponin 동시 평가. ADD-RS 활용. 안정 시 CTA chest/abdomen/pelvis; 불안정 시 TEE/수술팀.",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-690",
+      "Score/기준 항목": "ECG/troponin 동시 평가. ADD-RS 활용. 안정 시 CTA chest/abdomen/pelvis",
+      "관련 진단명": "급성 대동맥 박리",
+      "출처 열": "첫 평가/기본 검사",
+      "대표 원문 근거": "#8 급성 대동맥 박리 / 첫 평가/기본 검사: 양팔 혈압/맥박, 신경검진, CXR, ECG/troponin 동시 평가. ADD-RS 활용. 안정 시 CTA chest/abdomen/pelvis; 불안정 시 TEE/수술팀.",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-691",
+    "scoreItem": "GRACE/HEART",
+    "relatedDiagnosisNames": [
+      "비ST분절상승 심근경색"
+    ],
+    "sourceColumn": "앱 체크리스트 키",
+    "representativeSourceText": "#2 비ST분절상승 심근경색 / 앱 체크리스트 키: serial hs-cTn; ECG dynamic change; GRACE/HEART",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-691",
+      "Score/기준 항목": "GRACE/HEART",
+      "관련 진단명": "비ST분절상승 심근경색",
+      "출처 열": "앱 체크리스트 키",
+      "대표 원문 근거": "#2 비ST분절상승 심근경색 / 앱 체크리스트 키: serial hs-cTn; ECG dynamic change; GRACE/HEART",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-692",
+    "scoreItem": "GRACE/HEART 등 위험도",
+    "relatedDiagnosisNames": [
+      "비ST분절상승 심근경색"
+    ],
+    "sourceColumn": "첫 평가/기본 검사",
+    "representativeSourceText": "#2 비ST분절상승 심근경색 / 첫 평가/기본 검사: ECG 반복, hs-cTn 0/1h 또는 0/2h/0/3h 알고리즘, GRACE/HEART 등 위험도, echo 고려. [0/1h·0/2h는 assay-specific 컷오프; HEART/EDACS는 conventional cTn 기반]",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-692",
+      "Score/기준 항목": "GRACE/HEART 등 위험도",
+      "관련 진단명": "비ST분절상승 심근경색",
+      "출처 열": "첫 평가/기본 검사",
+      "대표 원문 근거": "#2 비ST분절상승 심근경색 / 첫 평가/기본 검사: ECG 반복, hs-cTn 0/1h 또는 0/2h/0/3h 알고리즘, GRACE/HEART 등 위험도, echo 고려. [0/1h·0/2h는 assay-specific 컷오프; HEART/EDACS는 conventional cTn 기반]",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-693",
+    "scoreItem": "HEART/EDACS는 conventional cTn 기반]",
+    "relatedDiagnosisNames": [
+      "비ST분절상승 심근경색"
+    ],
+    "sourceColumn": "첫 평가/기본 검사",
+    "representativeSourceText": "#2 비ST분절상승 심근경색 / 첫 평가/기본 검사: ECG 반복, hs-cTn 0/1h 또는 0/2h/0/3h 알고리즘, GRACE/HEART 등 위험도, echo 고려. [0/1h·0/2h는 assay-specific 컷오프; HEART/EDACS는 conventional cTn 기반]",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-693",
+      "Score/기준 항목": "HEART/EDACS는 conventional cTn 기반]",
+      "관련 진단명": "비ST분절상승 심근경색",
+      "출처 열": "첫 평가/기본 검사",
+      "대표 원문 근거": "#2 비ST분절상승 심근경색 / 첫 평가/기본 검사: ECG 반복, hs-cTn 0/1h 또는 0/2h/0/3h 알고리즘, GRACE/HEART 등 위험도, echo 고려. [0/1h·0/2h는 assay-specific 컷오프; HEART/EDACS는 conventional cTn 기반]",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-694",
+    "scoreItem": "Tokyo criteria: 전신염증 + 담즙정체 + 영상상 담도확장/원인. 혈액배양 지지.",
+    "relatedDiagnosisNames": [
+      "담관염"
+    ],
+    "sourceColumn": "Rule-in/확진 접근",
+    "representativeSourceText": "#40 담관염 / Rule-in/확진 접근: Tokyo criteria: 전신염증 + 담즙정체 + 영상상 담도확장/원인. 혈액배양 지지.",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-694",
+      "Score/기준 항목": "Tokyo criteria: 전신염증 + 담즙정체 + 영상상 담도확장/원인. 혈액배양 지지.",
+      "관련 진단명": "담관염",
+      "출처 열": "Rule-in/확진 접근",
+      "대표 원문 근거": "#40 담관염 / Rule-in/확진 접근: Tokyo criteria: 전신염증 + 담즙정체 + 영상상 담도확장/원인. 혈액배양 지지.",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-695",
+    "scoreItem": "Wells/Geneva 또는 gestalt로 pretest probability. 저위험이면 PERC 고려",
+    "relatedDiagnosisNames": [
+      "폐색전증"
+    ],
+    "sourceColumn": "첫 평가/기본 검사",
+    "representativeSourceText": "#19 폐색전증 / 첫 평가/기본 검사: Wells/Geneva 또는 gestalt로 pretest probability. 저위험이면 PERC 고려, low/intermediate면 D-dimer, high면 영상 우선. CTPA 또는 V/Q.",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-695",
+      "Score/기준 항목": "Wells/Geneva 또는 gestalt로 pretest probability. 저위험이면 PERC 고려",
+      "관련 진단명": "폐색전증",
+      "출처 열": "첫 평가/기본 검사",
+      "대표 원문 근거": "#19 폐색전증 / 첫 평가/기본 검사: Wells/Geneva 또는 gestalt로 pretest probability. 저위험이면 PERC 고려, low/intermediate면 D-dimer, high면 영상 우선. CTPA 또는 V/Q.",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-696",
+    "scoreItem": "Wells/PERC/D-dimer",
+    "relatedDiagnosisNames": [
+      "폐색전증"
+    ],
+    "sourceColumn": "앱 체크리스트 키",
+    "representativeSourceText": "#19 폐색전증 / 앱 체크리스트 키: pleuritic pain; dyspnea; DVT; Wells/PERC/D-dimer; CTPA",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-696",
+      "Score/기준 항목": "Wells/PERC/D-dimer",
+      "관련 진단명": "폐색전증",
+      "출처 열": "앱 체크리스트 키",
+      "대표 원문 근거": "#19 폐색전증 / 앱 체크리스트 키: pleuritic pain; dyspnea; DVT; Wells/PERC/D-dimer; CTPA",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-697",
+    "scoreItem": "fever sepsis",
+    "relatedDiagnosisNames": [
+      "종격동염"
+    ],
+    "sourceColumn": "앱 체크리스트 키",
+    "representativeSourceText": "#72 종격동염 / 앱 체크리스트 키: esophageal rupture; post-op; fever sepsis; CT mediastinum",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-697",
+      "Score/기준 항목": "fever sepsis",
+      "관련 진단명": "종격동염",
+      "출처 열": "앱 체크리스트 키",
+      "대표 원문 근거": "#72 종격동염 / 앱 체크리스트 키: esophageal rupture; post-op; fever sepsis; CT mediastinum",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-698",
+    "scoreItem": "muffled heart sounds",
+    "relatedDiagnosisNames": [
+      "심장압전 독립 게이트"
+    ],
+    "sourceColumn": "확률 상승/의심 단서",
+    "representativeSourceText": "#63 심장압전 독립 게이트 / 확률 상승/의심 단서: 저혈압, 빈맥, JVD, muffled heart sounds, pulsus paradoxus, 전기적 교대, known effusion/암/uremia/trauma.",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-698",
+      "Score/기준 항목": "muffled heart sounds",
+      "관련 진단명": "심장압전 독립 게이트",
+      "출처 열": "확률 상승/의심 단서",
+      "대표 원문 근거": "#63 심장압전 독립 게이트 / 확률 상승/의심 단서: 저혈압, 빈맥, JVD, muffled heart sounds, pulsus paradoxus, 전기적 교대, known effusion/암/uremia/trauma.",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-699",
+    "scoreItem": "sepsis",
+    "relatedDiagnosisNames": [
+      "천공성 소화성 궤양"
+    ],
+    "sourceColumn": "확률 상승/의심 단서",
+    "representativeSourceText": "#73 천공성 소화성 궤양 / 확률 상승/의심 단서: 갑작스런 심한 상복부/흉부 통증, rigid abdomen, 어깨통증, NSAID/PUD, sepsis, free air.",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-699",
+      "Score/기준 항목": "sepsis",
+      "관련 진단명": "천공성 소화성 궤양",
+      "출처 열": "확률 상승/의심 단서",
+      "대표 원문 근거": "#73 천공성 소화성 궤양 / 확률 상승/의심 단서: 갑작스런 심한 상복부/흉부 통증, rigid abdomen, 어깨통증, NSAID/PUD, sepsis, free air.",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-700",
+    "scoreItem": "sepsis bundle",
+    "relatedDiagnosisNames": [
+      "담관염"
+    ],
+    "sourceColumn": "첫 평가/기본 검사",
+    "representativeSourceText": "#40 담관염 / 첫 평가/기본 검사: sepsis bundle, CBC/CRP, bilirubin/ALP/GGT, blood cultures, ultrasound/CT/MRCP, urgent biliary drainage if severe.",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-700",
+      "Score/기준 항목": "sepsis bundle",
+      "관련 진단명": "담관염",
+      "출처 열": "첫 평가/기본 검사",
+      "대표 원문 근거": "#40 담관염 / 첫 평가/기본 검사: sepsis bundle, CBC/CRP, bilirubin/ALP/GGT, blood cultures, ultrasound/CT/MRCP, urgent biliary drainage if severe.",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-701",
+    "scoreItem": "고품질 CTA에서 rupture/leak/acute aortic syndrome이 없고 증상 설명 가능하면 낮아짐.",
+    "relatedDiagnosisNames": [
+      "흉부 대동맥류 파열 또는 누출"
+    ],
+    "sourceColumn": "Rule-out/배제 접근",
+    "representativeSourceText": "#9 흉부 대동맥류 파열 또는 누출 / Rule-out/배제 접근: 고품질 CTA에서 rupture/leak/acute aortic syndrome이 없고 증상 설명 가능하면 낮아짐.",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-701",
+      "Score/기준 항목": "고품질 CTA에서 rupture/leak/acute aortic syndrome이 없고 증상 설명 가능하면 낮아짐.",
+      "관련 진단명": "흉부 대동맥류 파열 또는 누출",
+      "출처 열": "Rule-out/배제 접근",
+      "대표 원문 근거": "#9 흉부 대동맥류 파열 또는 누출 / Rule-out/배제 접근: 고품질 CTA에서 rupture/leak/acute aortic syndrome이 없고 증상 설명 가능하면 낮아짐.",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-702",
+    "scoreItem": "낮은 임상확률에서 PERC 음성 또는 D-dimer 음성. 중등도 이상에서는 적절한 CTPA/VQ 음성이 필요.",
+    "relatedDiagnosisNames": [
+      "폐색전증"
+    ],
+    "sourceColumn": "Rule-out/배제 접근",
+    "representativeSourceText": "#19 폐색전증 / Rule-out/배제 접근: 낮은 임상확률에서 PERC 음성 또는 D-dimer 음성. 중등도 이상에서는 적절한 CTPA/VQ 음성이 필요.",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-702",
+      "Score/기준 항목": "낮은 임상확률에서 PERC 음성 또는 D-dimer 음성. 중등도 이상에서는 적절한 CTPA/VQ 음성이 필요.",
+      "관련 진단명": "폐색전증",
+      "출처 열": "Rule-out/배제 접근",
+      "대표 원문 근거": "#19 폐색전증 / Rule-out/배제 접근: 낮은 임상확률에서 PERC 음성 또는 D-dimer 음성. 중등도 이상에서는 적절한 CTPA/VQ 음성이 필요.",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-703",
+    "scoreItem": "ACR criteria 기반 임상진단. 흉통 단독으로 진단하지 않음.",
+    "relatedDiagnosisNames": [
+      "섬유근통"
+    ],
+    "sourceColumn": "Rule-in/확진 접근",
+    "representativeSourceText": "#51 섬유근통 / Rule-in/확진 접근: ACR criteria 기반 임상진단. 흉통 단독으로 진단하지 않음.",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-703",
+      "Score/기준 항목": "ACR criteria 기반 임상진단. 흉통 단독으로 진단하지 않음.",
+      "관련 진단명": "섬유근통",
+      "출처 열": "Rule-in/확진 접근",
+      "대표 원문 근거": "#51 섬유근통 / Rule-in/확진 접근: ACR criteria 기반 임상진단. 흉통 단독으로 진단하지 않음.",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-704",
+    "scoreItem": "Gastritis는 EGD/biopsy. Functional dyspepsia는 구조질환 배제 후 Rome criteria.",
+    "relatedDiagnosisNames": [
+      "위염 / 기능성 소화불량"
+    ],
+    "sourceColumn": "Rule-in/확진 접근",
+    "representativeSourceText": "#37 위염 / 기능성 소화불량 / Rule-in/확진 접근: Gastritis는 EGD/biopsy. Functional dyspepsia는 구조질환 배제 후 Rome criteria.",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-704",
+      "Score/기준 항목": "Gastritis는 EGD/biopsy. Functional dyspepsia는 구조질환 배제 후 Rome criteria.",
+      "관련 진단명": "위염 / 기능성 소화불량",
+      "출처 열": "Rule-in/확진 접근",
+      "대표 원문 근거": "#37 위염 / 기능성 소화불량 / Rule-in/확진 접근: Gastritis는 EGD/biopsy. Functional dyspepsia는 구조질환 배제 후 Rome criteria.",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-705",
+    "scoreItem": "MI criteria + non-obstructive coronary arteries + overt nonischemic diagnosis 배제. 원인 subtype까지 규명해야 함.",
+    "relatedDiagnosisNames": [
+      "MINOCA"
+    ],
+    "sourceColumn": "Rule-in/확진 접근",
+    "representativeSourceText": "#62 MINOCA / Rule-in/확진 접근: MI criteria + non-obstructive coronary arteries + overt nonischemic diagnosis 배제. 원인 subtype까지 규명해야 함.",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-705",
+      "Score/기준 항목": "MI criteria + non-obstructive coronary arteries + overt nonischemic diagnosis 배제. 원인 subtype까지 규명해야 함.",
+      "관련 진단명": "MINOCA",
+      "출처 열": "Rule-in/확진 접근",
+      "대표 원문 근거": "#62 MINOCA / Rule-in/확진 접근: MI criteria + non-obstructive coronary arteries + overt nonischemic diagnosis 배제. 원인 subtype까지 규명해야 함.",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-706",
+    "scoreItem": "Manometry에서 distal esophageal spasm/hypercontractile pattern 등 운동장애.",
+    "relatedDiagnosisNames": [
+      "식도경련 / 식도운동장애"
+    ],
+    "sourceColumn": "Rule-in/확진 접근",
+    "representativeSourceText": "#33 식도경련 / 식도운동장애 / Rule-in/확진 접근: Manometry에서 distal esophageal spasm/hypercontractile pattern 등 운동장애.",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-706",
+      "Score/기준 항목": "Manometry에서 distal esophageal spasm/hypercontractile pattern 등 운동장애.",
+      "관련 진단명": "식도경련 / 식도운동장애",
+      "출처 열": "Rule-in/확진 접근",
+      "대표 원문 근거": "#33 식도경련 / 식도운동장애 / Rule-in/확진 접근: Manometry에서 distal esophageal spasm/hypercontractile pattern 등 운동장애.",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-707",
+    "scoreItem": "PE 평가와 동일: Wells/D-dimer/CTPA. CXR/CT에서 infarct 소견.",
+    "relatedDiagnosisNames": [
+      "폐경색"
+    ],
+    "sourceColumn": "첫 평가/기본 검사",
+    "representativeSourceText": "#26 폐경색 / 첫 평가/기본 검사: PE 평가와 동일: Wells/D-dimer/CTPA. CXR/CT에서 infarct 소견.",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-707",
+      "Score/기준 항목": "PE 평가와 동일: Wells/D-dimer/CTPA. CXR/CT에서 infarct 소견.",
+      "관련 진단명": "폐경색",
+      "출처 열": "첫 평가/기본 검사",
+      "대표 원문 근거": "#26 폐경색 / 첫 평가/기본 검사: PE 평가와 동일: Wells/D-dimer/CTPA. CXR/CT에서 infarct 소견.",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-708",
+    "scoreItem": "Right heart catheterization으로 PH 확진; echo/RV strain이 지지.",
+    "relatedDiagnosisNames": [
+      "폐고혈압 / 우심실 허혈"
+    ],
+    "sourceColumn": "Rule-in/확진 접근",
+    "representativeSourceText": "#64 폐고혈압 / 우심실 허혈 / Rule-in/확진 접근: Right heart catheterization으로 PH 확진; echo/RV strain이 지지.",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-708",
+      "Score/기준 항목": "Right heart catheterization으로 PH 확진; echo/RV strain이 지지.",
+      "관련 진단명": "폐고혈압 / 우심실 허혈",
+      "출처 열": "Rule-in/확진 접근",
+      "대표 원문 근거": "#64 폐고혈압 / 우심실 허혈 / Rule-in/확진 접근: Right heart catheterization으로 PH 확진; echo/RV strain이 지지.",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-709",
+    "scoreItem": "Rome",
+    "relatedDiagnosisNames": [
+      "기능성 흉통"
+    ],
+    "sourceColumn": "앱 체크리스트 키",
+    "representativeSourceText": "#56 기능성 흉통 / 앱 체크리스트 키: noncardiac recurrent; normal workup; Rome",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-709",
+      "Score/기준 항목": "Rome",
+      "관련 진단명": "기능성 흉통",
+      "출처 열": "앱 체크리스트 키",
+      "대표 원문 근거": "#56 기능성 흉통 / 앱 체크리스트 키: noncardiac recurrent; normal workup; Rome",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-710",
+    "scoreItem": "Tokyo criteria",
+    "relatedDiagnosisNames": [
+      "급성 담낭염"
+    ],
+    "sourceColumn": "앱 체크리스트 키",
+    "representativeSourceText": "#39 급성 담낭염 / 앱 체크리스트 키: RUQ pain; Murphy; fever; US; Tokyo criteria",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-710",
+      "Score/기준 항목": "Tokyo criteria",
+      "관련 진단명": "급성 담낭염",
+      "출처 열": "앱 체크리스트 키",
+      "대표 원문 근거": "#39 급성 담낭염 / 앱 체크리스트 키: RUQ pain; Murphy; fever; US; Tokyo criteria",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-711",
+    "scoreItem": "Tokyo criteria 미충족, 반복 영상/대체검사 음성, 증상 호전이면 낮음.",
+    "relatedDiagnosisNames": [
+      "급성 담낭염"
+    ],
+    "sourceColumn": "Rule-out/배제 접근",
+    "representativeSourceText": "#39 급성 담낭염 / Rule-out/배제 접근: Tokyo criteria 미충족, 반복 영상/대체검사 음성, 증상 호전이면 낮음.",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-711",
+      "Score/기준 항목": "Tokyo criteria 미충족, 반복 영상/대체검사 음성, 증상 호전이면 낮음.",
+      "관련 진단명": "급성 담낭염",
+      "출처 열": "Rule-out/배제 접근",
+      "대표 원문 근거": "#39 급성 담낭염 / Rule-out/배제 접근: Tokyo criteria 미충족, 반복 영상/대체검사 음성, 증상 호전이면 낮음.",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-712",
+    "scoreItem": "Tokyo criteria: 국소 염증 + 전신 염증 + 영상소견. 초음파 담낭벽비후/담석/pericholecystic fluid.",
+    "relatedDiagnosisNames": [
+      "급성 담낭염"
+    ],
+    "sourceColumn": "Rule-in/확진 접근",
+    "representativeSourceText": "#39 급성 담낭염 / Rule-in/확진 접근: Tokyo criteria: 국소 염증 + 전신 염증 + 영상소견. 초음파 담낭벽비후/담석/pericholecystic fluid.",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-712",
+      "Score/기준 항목": "Tokyo criteria: 국소 염증 + 전신 염증 + 영상소견. 초음파 담낭벽비후/담석/pericholecystic fluid.",
+      "관련 진단명": "급성 담낭염",
+      "출처 열": "Rule-in/확진 접근",
+      "대표 원문 근거": "#39 급성 담낭염 / Rule-in/확진 접근: Tokyo criteria: 국소 염증 + 전신 염증 + 영상소견. 초음파 담낭벽비후/담석/pericholecystic fluid.",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-713",
+    "scoreItem": "URI prodrome",
+    "relatedDiagnosisNames": [
+      "바이러스성 흉막염 / 유행성 흉통"
+    ],
+    "sourceColumn": "앱 체크리스트 키",
+    "representativeSourceText": "#67 바이러스성 흉막염 / 유행성 흉통 / 앱 체크리스트 키: URI prodrome; pleuritic; normal CXR after red flags",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-713",
+      "Score/기준 항목": "URI prodrome",
+      "관련 진단명": "바이러스성 흉막염 / 유행성 흉통",
+      "출처 열": "앱 체크리스트 키",
+      "대표 원문 근거": "#67 바이러스성 흉막염 / 유행성 흉통 / 앱 체크리스트 키: URI prodrome; pleuritic; normal CXR after red flags",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-714",
+    "scoreItem": "anemia/hypoxia/sepsis/tachy",
+    "relatedDiagnosisNames": [
+      "2형 심근경색"
+    ],
+    "sourceColumn": "앱 체크리스트 키",
+    "representativeSourceText": "#58 2형 심근경색 / 앱 체크리스트 키: troponin rise/fall; anemia/hypoxia/sepsis/tachy",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-714",
+      "Score/기준 항목": "anemia/hypoxia/sepsis/tachy",
+      "관련 진단명": "2형 심근경색",
+      "출처 열": "앱 체크리스트 키",
+      "대표 원문 근거": "#58 2형 심근경색 / 앱 체크리스트 키: troponin rise/fall; anemia/hypoxia/sepsis/tachy",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-715",
+    "scoreItem": "heartburn",
+    "relatedDiagnosisNames": [
+      "위식도역류질환"
+    ],
+    "sourceColumn": "앱 체크리스트 키",
+    "representativeSourceText": "#31 위식도역류질환 / 앱 체크리스트 키: heartburn; regurgitation; meal/lying; alarm symptoms",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-715",
+      "Score/기준 항목": "heartburn",
+      "관련 진단명": "위식도역류질환",
+      "출처 열": "앱 체크리스트 키",
+      "대표 원문 근거": "#31 위식도역류질환 / 앱 체크리스트 키: heartburn; regurgitation; meal/lying; alarm symptoms",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-716",
+    "scoreItem": "high-flow oxygen/hyperbaric criteria.",
+    "relatedDiagnosisNames": [
+      "일산화탄소 중독 관련 심근허혈"
+    ],
+    "sourceColumn": "첫 평가/기본 검사",
+    "representativeSourceText": "#86 일산화탄소 중독 관련 심근허혈 / 첫 평가/기본 검사: COHb level(co-oximetry), ABG/VBG, lactate, ECG/troponin, neurologic assessment, high-flow oxygen/hyperbaric criteria.",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-716",
+      "Score/기준 항목": "high-flow oxygen/hyperbaric criteria.",
+      "관련 진단명": "일산화탄소 중독 관련 심근허혈",
+      "출처 열": "첫 평가/기본 검사",
+      "대표 원문 근거": "#86 일산화탄소 중독 관련 심근허혈 / 첫 평가/기본 검사: COHb level(co-oximetry), ABG/VBG, lactate, ECG/troponin, neurologic assessment, high-flow oxygen/hyperbaric criteria.",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-717",
+    "scoreItem": "hypercoagulability에서 ACS.",
+    "relatedDiagnosisNames": [
+      "관상동맥 색전/혈전증"
+    ],
+    "sourceColumn": "확률 상승/의심 단서",
+    "representativeSourceText": "#60 관상동맥 색전/혈전증 / 확률 상승/의심 단서: AF, 기계판막, 감염성 심내막염, LV thrombus, PFO/paradoxical embolus, hypercoagulability에서 ACS.",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-717",
+      "Score/기준 항목": "hypercoagulability에서 ACS.",
+      "관련 진단명": "관상동맥 색전/혈전증",
+      "출처 열": "확률 상승/의심 단서",
+      "대표 원문 근거": "#60 관상동맥 색전/혈전증 / 확률 상승/의심 단서: AF, 기계판막, 감염성 심내막염, LV thrombus, PFO/paradoxical embolus, hypercoagulability에서 ACS.",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-718",
+    "scoreItem": "percussion dullness",
+    "relatedDiagnosisNames": [
+      "흉막삼출"
+    ],
+    "sourceColumn": "확률 상승/의심 단서",
+    "representativeSourceText": "#25 흉막삼출 / 확률 상승/의심 단서: 호흡곤란, 흉막성 통증, percussion dullness, breath sound 감소, HF/암/폐렴/TB/PE/간경변 병력.",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-718",
+      "Score/기준 항목": "percussion dullness",
+      "관련 진단명": "흉막삼출",
+      "출처 열": "확률 상승/의심 단서",
+      "대표 원문 근거": "#25 흉막삼출 / 확률 상승/의심 단서: 호흡곤란, 흉막성 통증, percussion dullness, breath sound 감소, HF/암/폐렴/TB/PE/간경변 병력.",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-719",
+    "scoreItem": "viral syndrome",
+    "relatedDiagnosisNames": [
+      "바이러스 폐렴 / COVID-19 / 인플루엔자"
+    ],
+    "sourceColumn": "앱 체크리스트 키",
+    "representativeSourceText": "#70 바이러스 폐렴 / COVID-19 / 인플루엔자 / 앱 체크리스트 키: viral syndrome; exposure; PCR; CXR",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-719",
+      "Score/기준 항목": "viral syndrome",
+      "관련 진단명": "바이러스 폐렴 / COVID-19 / 인플루엔자",
+      "출처 열": "앱 체크리스트 키",
+      "대표 원문 근거": "#70 바이러스 폐렴 / COVID-19 / 인플루엔자 / 앱 체크리스트 키: viral syndrome; exposure; PCR; CXR",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-720",
+    "scoreItem": "기존 COPD + 급성 호흡기 증상 악화, 다른 원인 배제. spirometry는 안정 후.",
+    "relatedDiagnosisNames": [
+      "COPD 급성 악화"
+    ],
+    "sourceColumn": "Rule-in/확진 접근",
+    "representativeSourceText": "#29 COPD 급성 악화 / Rule-in/확진 접근: 기존 COPD + 급성 호흡기 증상 악화, 다른 원인 배제. spirometry는 안정 후.",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-720",
+      "Score/기준 항목": "기존 COPD + 급성 호흡기 증상 악화, 다른 원인 배제. spirometry는 안정 후.",
+      "관련 진단명": "COPD 급성 악화",
+      "출처 열": "Rule-in/확진 접근",
+      "대표 원문 근거": "#29 COPD 급성 악화 / Rule-in/확진 접근: 기존 COPD + 급성 호흡기 증상 악화, 다른 원인 배제. spirometry는 안정 후.",
+      "평가값": "미확인",
+      "메모": null
+    }
+  },
+  {
+    "id": "CP-721",
+    "scoreItem": "심장 평가 후 EGD/pH/manometry 등 단계적 평가. Rome criteria 고려.",
+    "relatedDiagnosisNames": [
+      "기능성 흉통"
+    ],
+    "sourceColumn": "첫 평가/기본 검사",
+    "representativeSourceText": "#56 기능성 흉통 / 첫 평가/기본 검사: 심장 평가 후 EGD/pH/manometry 등 단계적 평가. Rome criteria 고려.",
+    "status": "unknown",
+    "memo": "",
+    "raw": {
+      "Checklist ID": "CP-721",
+      "Score/기준 항목": "심장 평가 후 EGD/pH/manometry 등 단계적 평가. Rome criteria 고려.",
+      "관련 진단명": "기능성 흉통",
+      "출처 열": "첫 평가/기본 검사",
+      "대표 원문 근거": "#56 기능성 흉통 / 첫 평가/기본 검사: 심장 평가 후 EGD/pH/manometry 등 단계적 평가. Rome criteria 고려.",
+      "평가값": "미확인",
+      "메모": null
+    }
+  }
+]
