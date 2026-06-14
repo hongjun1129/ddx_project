@@ -11,12 +11,7 @@ import {
 import { runClinicalEngine, SAFETY_NOTE } from "@/lib/clinical-engine";
 import type { ChecklistItem, ChecklistProposal, ChecklistStatus, ClinicalEngineOutput } from "@/types/clinical";
 
-const initialFreeText = `67세 남자. 2시간 전부터 흉골하 압박감.
-좌측 팔로 방사, 식은땀 동반.
-호흡곤란 약간 있음. 발한 있음.
-BP 150/90, HR 96, SpO2 97%.
-ECG ST elevation 없음. Troponin pending.
-과거력: HTN, DM, 흡연.`;
+const initialFreeText = "";
 
 const categories = ["전체", "문진", "활력", "진찰", "ECG", "혈액", "심장", "영상", "위장관", "근골격", "정신/기능"];
 const tabs = ["응급 배제", "현재 의심", "Score", "요약"] as const;
@@ -234,9 +229,6 @@ export default function Home() {
         <div className="vital-cell"><span className="vital-label">RR</span><span className="vital-value vital-neutral">18</span></div>
         <div className="vital-cell"><span className="vital-label">SpO2</span><span className="vital-value vital-green">97%</span></div>
         <div className="vital-cell"><span className="vital-label">BT</span><span className="vital-value vital-green">36.8°C</span></div>
-        <div className="vital-cell"><span className="vital-label">ECG</span><span className="vital-value vital-neutral">ST elevation 없음</span></div>
-        <div className="vital-cell"><span className="vital-label">Troponin</span><span className="vital-value vital-amber">pending</span></div>
-        <div className="vital-cell"><span className="vital-label">CXR</span><span className="vital-value vital-neutral">미시행</span></div>
         <div className="vital-cell"><button className="copy-button" onClick={copySummary}>환자 요약 복사</button></div>
       </header>
 
